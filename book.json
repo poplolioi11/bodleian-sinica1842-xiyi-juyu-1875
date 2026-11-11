@@ -1,0 +1,1989 @@
+{
+  "dataset_id": "bodleian-sinica1842-xiyi-juyu-1875-frontmatter",
+  "version": "0.1.0",
+  "title": "西醫舉隅（1875；Bodleian Sinica 1842）：原題、序文、目錄及來源導覽 / Xi yi ju yu [Gleanings of Western medicine]: Prefaces, contents and source guide",
+  "scope": {
+    "extent": "partial",
+    "included": [
+      "original title1face",
+      "five prefaces22faces",
+      "contents2faces"
+    ],
+    "not_transcribed": [
+      "medical articles",
+      "article diagram labels",
+      "foldout plate labels",
+      "五字辯 appendix"
+    ],
+    "not_a_full_book_transcription": true
+  },
+  "quality": {
+    "stage": "AI-assisted initial transcription, limited frontmatter",
+    "assigned_faces": 25,
+    "source_frames_for_assigned_faces": 13,
+    "unprocessed_assigned_faces": 0,
+    "body_uncertainty_records": 22,
+    "whole_seal_gaiji_records": 4,
+    "independent_reading": "not-applied-in-this-initial-release",
+    "human_full_double_collation": "not-run",
+    "expert_review": "not-run",
+    "peer_review": "not-run",
+    "accuracy_measurement": "not-run",
+    "actual_native_model": null,
+    "actual_native_effort": null,
+    "native_token_counts": null,
+    "quality_not_implied_by_format_or_identifiers": true,
+    "independent_work_note": "A separate independent-reading activity is not incorporated into this fixed initial release; this release retains its initial169 unit strings."
+  },
+  "source": {
+    "historical_title": "西醫舉隅",
+    "romanization_literal": "xi yi ju yu",
+    "romanization_display": "Xi yi ju yu",
+    "editorial_english_title": "Gleanings of Western medicine",
+    "english_title_is_catalogue_title": false,
+    "historical_author": "Dudgeon, John",
+    "catalogued_publication_year": "1875",
+    "catalogued_place": "[Peking]",
+    "institution": "Bodleian Libraries, University of Oxford",
+    "shelfmark": "Sinica 1842",
+    "object_url": "https://digital.bodleian.ox.ac.uk/objects/8203fa5a-7b99-40bf-9642-3ae16068072b/",
+    "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/8203fa5a-7b99-40bf-9642-3ae16068072b.json",
+    "official_catalogue_snapshot": "https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%201842.xml",
+    "official_manifest_sha256": "711612f2e24c7babdc7cd351e1c97f6d71effabe8732a033d8d2184c8e62348d",
+    "access_date": "2026-11-11"
+  },
+  "position_convention": "0-based Unicode code points, end exclusive; no Unicode normalization. Face indices are data navigation, not original page numbers. Unit order is preserved; added line separators are navigation.",
+  "pages": [
+    {
+      "page_id": "sinica1842-c002-R",
+      "index": 1,
+      "section_id": "title",
+      "section_layer": "original_title",
+      "canvas_index_1based": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dbd5255d-cb83-4102-b759-47d1ed345e73.json",
+      "side": "right",
+      "official_label": "pp. [1]-[2]",
+      "manifest_position_number": 1,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "45131473955d0b3648a6c415b424106e2879340026c046b7bdca0c7f856b3990",
+      "source_face_sha256": "46bb634b50d190e036660ec988e2b911c85dd824156115d6fc6c300e5bf48ae0",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/dbd5255d-cb83-4102-b759-47d1ed345e73/full/!1400,1400/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        665,
+        0,
+        1330,
+        1400
+      ],
+      "width": 665,
+      "height": 1400,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c002-R-c01",
+          "layer": "main",
+          "text": "光緒乙亥正月",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c002-R-c02",
+          "layer": "main",
+          "text": "西醫舉隅",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c002-R-c03",
+          "layer": "main",
+          "text": "由聞見錄摘印",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c002-L",
+      "index": 2,
+      "section_id": "preface-1",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dbd5255d-cb83-4102-b759-47d1ed345e73.json",
+      "side": "left",
+      "official_label": "pp. [1]-[2]",
+      "manifest_position_number": 2,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "45131473955d0b3648a6c415b424106e2879340026c046b7bdca0c7f856b3990",
+      "source_face_sha256": "591da5a1f47474587529882bee873e564d31a187ecc276b33cc8fb8b7df73291",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/dbd5255d-cb83-4102-b759-47d1ed345e73/full/!1400,1400/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        0,
+        0,
+        665,
+        1400
+      ],
+      "width": 665,
+      "height": 1400,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c002-L-heading",
+          "layer": "main",
+          "text": "西醫舉隅序",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c002-L-c01",
+          "layer": "main",
+          "text": "泰西德君自游京師有年矣專岐黃業力學不倦於華洋",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c002-L-c02",
+          "layer": "main",
+          "text": "古今醫書無不考索研究探其精蘊日在所設施醫院診",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c002-L-c03",
+          "layer": "main",
+          "text": "視病證全活無算同治辛未同文館添設醫學延為教習",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c002-L-c04",
+          "layer": "main",
+          "text": "余每至館中見其與生徒口講指畫剖析疑義雖素不解",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c002-L-c05",
+          "layer": "main",
+          "text": "醫未敢斷為悉當而所言雅有理致娓娓可聽意其必有",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c002-L-c06",
+          "layer": "main",
+          "text": "著作欲先覩為快而君謙讓未遑不肯相示也今年春請",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c002-L-c07",
+          "layer": "main",
+          "text": "假暫還歐洲始出此編求為序之余惟人有中西之分而",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c002-L-c08",
+          "layer": "main",
+          "text": "形體無異臟腑無異則醫治之法亦必無異況君合中外",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c003-R",
+      "index": 3,
+      "section_id": "preface-1",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be2480fe-9e98-4aee-aa30-99a0dc49fab2.json",
+      "side": "right",
+      "official_label": "pp. [3]-[4]",
+      "manifest_position_number": 3,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "3a091d6d22a9f552ac8183c85b8ca116c9ba71e8837d46ec60a9d15db9989347",
+      "source_face_sha256": "21e4c04b9a2c13074b39bb7a6401ff23a7c76a8239d015fba9b4ece0d1708fde",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/be2480fe-9e98-4aee-aa30-99a0dc49fab2/full/!1400,1400/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        665,
+        0,
+        1330,
+        1400
+      ],
+      "width": 665,
+      "height": 1400,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c003-R-c01",
+          "layer": "main",
+          "text": "各書旁參互證推求至當則此書之作固非專己守殘者",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c003-R-c02",
+          "layer": "main",
+          "text": "所可同日而語也昔朝鮮人著東醫寶鑑皆本中說而發",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c003-R-c03",
+          "layer": "main",
+          "text": "揮之著錄家尚以為可存君此書名言奇論多前人所未",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c003-R-c04",
+          "layer": "main",
+          "text": "發吾知不脛而走流傳必廣異日西醫之盛行將有十倍",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c003-R-c05",
+          "layer": "main",
+          "text": "於東醫者固可於此書卜之矣是為序",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c003-R-c06",
+          "layer": "main",
+          "text": "光緒初元春分後三日中州毛昶熙書於鐵如意館中",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c003-L",
+      "index": 4,
+      "section_id": "preface-2",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be2480fe-9e98-4aee-aa30-99a0dc49fab2.json",
+      "side": "left",
+      "official_label": "pp. [3]-[4]",
+      "manifest_position_number": 4,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "3a091d6d22a9f552ac8183c85b8ca116c9ba71e8837d46ec60a9d15db9989347",
+      "source_face_sha256": "cb2602adbc5f96d43e9147e5c37102065ddf18938b118636c41cd2ccf719c7af",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/be2480fe-9e98-4aee-aa30-99a0dc49fab2/full/!1400,1400/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        0,
+        0,
+        665,
+        1400
+      ],
+      "width": 665,
+      "height": 1400,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c003-L-main-01",
+          "layer": "main",
+          "text": "西醫舉隅序",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c003-L-main-02",
+          "layer": "main",
+          "text": "古人有言不為良相卽為良醫夫相",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c003-L-main-03",
+          "layer": "main",
+          "text": "之良醫之良未有不本於心之良也心",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c003-L-main-04",
+          "layer": "main",
+          "text": "之良若何曰仁曰誠曰不嗜利曰愛人如",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c003-L-main-05",
+          "layer": "main",
+          "text": "己蓋良相良醫分勢雖不同然其出於",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c003-L-main-06",
+          "layer": "main",
+          "text": "心之良則一也余自髫齡博載籍卽有",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c003-L-main-07",
+          "layer": "main",
+          "text": "志效古良相良醫⟦g01⟧",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "末字右部筆畫待核；不按下頁聖天子語境補定。；穩定表示⟦g01⟧",
+              "extent": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c004-R",
+      "index": 5,
+      "section_id": "preface-2",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "side": "right",
+      "official_label": "pp. [5]-[6]",
+      "manifest_position_number": 5,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "7f925893dac09518224abd975e2a65efc23a9f924df289ec8ae6f2702f3f32e1",
+      "source_face_sha256": "eaab5284f44fd8a61054198078ac485c6a8e6bbb0e372f7ca7d67914c2d1e62d",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/437090af-5894-4015-9d1b-8470b7d9bc15/full/!1400,1400/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        665,
+        0,
+        1330,
+        1400
+      ],
+      "width": 665,
+      "height": 1400,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c004-R-main-01",
+          "layer": "main",
+          "text": "聖天子調元贊化襄廟謨以壽國脈",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c004-R-main-02",
+          "layer": "main",
+          "text": "診民瘼以壽蒼生迺王⟦g02⟧州云醫書",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "弇字部件在行楷中連寫；讀法候選不作精確字形確認。；穩定表示⟦g02⟧",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c004-R-main-03",
+          "layer": "main",
+          "text": "尤難讀吾輩雖博通萬卷猶不能",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c004-R-main-04",
+          "layer": "main",
+          "text": "曉其意況以至精之學而責之至庸",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c004-R-main-05",
+          "layer": "main",
+          "text": "之醫故蓋甚畏之也由是言之精其",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c004-R-main-06",
+          "layer": "main",
+          "text": "術足以生人不精其術適足以殺人夫人",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c004-R-main-07",
+          "layer": "main",
+          "text": "命至重無罪之人不得妄殺有罪而擅",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c004-R-page-marker",
+          "layer": "paratext",
+          "text": "一",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c004-L",
+      "index": 6,
+      "section_id": "preface-2",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "side": "left",
+      "official_label": "pp. [5]-[6]",
+      "manifest_position_number": 6,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "7f925893dac09518224abd975e2a65efc23a9f924df289ec8ae6f2702f3f32e1",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/437090af-5894-4015-9d1b-8470b7d9bc15/full/!1400,1400/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        0,
+        0,
+        665,
+        1400
+      ],
+      "width": 665,
+      "height": 1400,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c004-L-main-01",
+          "layer": "main",
+          "text": "殺人縣上之州之上之府之上之執法者",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c004-L-main-02",
+          "layer": "main",
+          "text": "司其大吏猶平及秋⟦g03⟧必於再必於三",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "該字行楷部件未能確定，保存候選。；穩定表示⟦g03⟧",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c004-L-main-03",
+          "layer": "main",
+          "text": "然後以其信獻達之秋曹上之天子天子",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c004-L-main-04",
+          "layer": "main",
+          "text": "曰可殺⟦g04⟧汝殺蓋人命之重而殺之必⟦g05⟧",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "可殺後一字筆畫待核。；穩定表示⟦g04⟧",
+              "extent": 1
+            },
+            {
+              "cause": "reading-unresolved",
+              "reason": "必後一字筆畫待核。；穩定表示⟦g05⟧",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c004-L-main-05",
+          "layer": "main",
+          "text": "之⟦g06⟧也而庸俗之醫直殺之三指之間呼",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "之後一字行楷待核。；穩定表示⟦g06⟧",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c004-L-main-06",
+          "layer": "main",
+          "text": "吸之際與其殺人銳⟦g07⟧鋒刃而嚴於天子",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "銳後一字待核，非由文意換字。；穩定表示⟦g07⟧",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c004-L-main-07",
+          "layer": "main",
+          "text": "有司而其人曾無⟦g08⟧之罪⟦g09⟧大可畏",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "此二字連寫，字數按可見字位暫記2，筆畫未定。；穩定表示⟦g08⟧",
+              "extent": 2
+            },
+            {
+              "cause": "reading-unresolved",
+              "reason": "罪後語氣字待核。；穩定表示⟦g09⟧",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c004-L-page-marker",
+          "layer": "paratext",
+          "text": "二",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c005-R",
+      "index": 7,
+      "section_id": "preface-2",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be33b857-69ca-4457-b3f4-76522b444d75.json",
+      "side": "right",
+      "official_label": "pp. [7]-[8]",
+      "manifest_position_number": 7,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "23fe4d013957006fc3ca91d46b118f723197af98e52881737b7876cbe4692194",
+      "source_face_sha256": "be8d1d76f228834d7111e0b94a220f828233101003eb5e49e96318ee7becd849",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/be33b857-69ca-4457-b3f4-76522b444d75/full/!1400,1400/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        665,
+        0,
+        1330,
+        1400
+      ],
+      "width": 665,
+      "height": 1400,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c005-R-main-01",
+          "layer": "main",
+          "text": "耳嗚呼死者含冤莫伸生者抱痛去已",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-R-main-02",
+          "layer": "main",
+          "text": "而彼方⟦g10⟧坐⟦g11⟧不自悔艾其其良心蓋",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "方後一字行楷未解。；穩定表示⟦g10⟧",
+              "extent": 1
+            },
+            {
+              "cause": "reading-unresolved",
+              "reason": "坐後兩字連寫待核；不以流暢句改定。；穩定表示⟦g11⟧",
+              "extent": 2
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c005-R-main-03",
+          "layer": "main",
+          "text": "已先病者而死矣要其初心固無他不過",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-R-main-04",
+          "layer": "main",
+          "text": "假托此業以謀衣食肥身家耳曾以人",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-R-main-05",
+          "layer": "main",
+          "text": "命為重一出於惻心仁術而愛人如己哉",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-R-main-06",
+          "layer": "main",
+          "text": "英國德子固醫師不遠數萬里來京",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-R-main-07",
+          "layer": "main",
+          "text": "師施醫十餘年間活人無算而絕不受",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-R-page-marker",
+          "layer": "paratext",
+          "text": "二",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c005-L",
+      "index": 8,
+      "section_id": "preface-2",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be33b857-69ca-4457-b3f4-76522b444d75.json",
+      "side": "left",
+      "official_label": "pp. [7]-[8]",
+      "manifest_position_number": 8,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "23fe4d013957006fc3ca91d46b118f723197af98e52881737b7876cbe4692194",
+      "source_face_sha256": "678f63717963f72665e8d1a60f9217e96170858c17cbae8e04cd38f2c6fbf7db",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/be33b857-69ca-4457-b3f4-76522b444d75/full/!1400,1400/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        0,
+        0,
+        665,
+        1400
+      ],
+      "width": 665,
+      "height": 1400,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c005-L-main-01",
+          "layer": "main",
+          "text": "一錢仁人君子之用心其在斯乎所輯西",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-L-main-02",
+          "layer": "main",
+          "text": "醫舉隅一編篇頁無多而闡微窮奧",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-L-main-03",
+          "layer": "main",
+          "text": "皆與中國醫書互相發明而補其",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-L-main-04",
+          "layer": "main",
+          "text": "所不逮其於西醫殆⟦g12⟧牛之一毛豹之一",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "此字行楷待核；不從常見比喻補字。；穩定表示⟦g12⟧",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c005-L-main-05",
+          "layer": "main",
+          "text": "斑龍之一鱗一爪歟余奉命有陪都",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-L-main-06",
+          "layer": "main",
+          "text": "之行適德醫師持書索序行李怱促",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-L-main-07",
+          "layer": "main",
+          "text": "聊書此以弁簡端時",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c006-R",
+      "index": 9,
+      "section_id": "preface-2",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b5f4fa53-29b3-4182-8ea8-a84f9d63411c.json",
+      "side": "right",
+      "official_label": "pp. [9]-[10]",
+      "manifest_position_number": 9,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "dbe217233f758e5bbb3404967ea63da0a4db0fdc83faec482072d254d0024c3f",
+      "source_face_sha256": "6a6baaafd2f69a4a342b905644f7a632e84013b52ac5f694bdf8941d7942569e",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/b5f4fa53-29b3-4182-8ea8-a84f9d63411c/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        475,
+        0,
+        950,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete",
+        "seal": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c006-R-main-01",
+          "layer": "main",
+          "text": "光緒元年二月上浣完顏崇實樸山氏",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c006-R-main-02",
+          "layer": "main",
+          "text": "自序于怡雲書屋",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c006-R-page-marker",
+          "layer": "paratext",
+          "text": "三",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c006-R-seal-1",
+          "layer": "seal",
+          "text": "⟦gaiji:s1842-c006-r-seal01⟧",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "整章穩定gaiji；候選崇實未升格精確碼位確認。 白地黑框/朱白反相式篆章，右部山/宗式組合，左部宀/貝式組合。",
+              "extent": "unknown"
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c006-R-seal-2",
+          "layer": "seal",
+          "text": "⟦gaiji:s1842-c006-r-seal02⟧",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "整章穩定gaiji，包含外框內所有可見篆形，不以候選正文填入。 外框方章，右列上方多條縱筆/橫畫交疊、下方三角山形，左列大曲筆縱下；字數仍未知。",
+              "extent": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c006-L",
+      "index": 10,
+      "section_id": "preface-3",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b5f4fa53-29b3-4182-8ea8-a84f9d63411c.json",
+      "side": "left",
+      "official_label": "pp. [9]-[10]",
+      "manifest_position_number": 10,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "dbe217233f758e5bbb3404967ea63da0a4db0fdc83faec482072d254d0024c3f",
+      "source_face_sha256": "97fc4326875e793442f47b33f44b562446d09ce39dbf3a4193712623db9cc956",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/b5f4fa53-29b3-4182-8ea8-a84f9d63411c/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        0,
+        0,
+        475,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c006-L-main-01",
+          "layer": "main",
+          "text": "⟦g13⟧",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "獨立題署一字行楷待核；兩候選不作同字異體判定。；穩定表示⟦g13⟧",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c006-L-main-02",
+          "layer": "main",
+          "text": "今時言醫之書多矣學醫之人",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c006-L-main-03",
+          "layer": "main",
+          "text": "亦眾矣願就書之言而辨其表",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c006-L-main-04",
+          "layer": "main",
+          "text": "裏虛實寒熱其於人身筋節",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c006-L-main-05",
+          "layer": "main",
+          "text": "部位脈絡血氣之運行固茫",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c006-L-main-06",
+          "layer": "main",
+          "text": "乎莫之見也泰西諸醫則圖",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c007-R",
+      "index": 11,
+      "section_id": "preface-3",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 7,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/20893654-2993-4569-8ae7-2bb3fabdac78.json",
+      "side": "right",
+      "official_label": "pp. [11]-[12]",
+      "manifest_position_number": 11,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "cd910a871920ea8033bfbb4b91f13e6bea07b2643e25c68495dac887ec68505c",
+      "source_face_sha256": "093cb3e713f316924b8e2e1f3dee3aaf978afef91eaabaaf50c51cfa80397ec0",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/20893654-2993-4569-8ae7-2bb3fabdac78/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        475,
+        0,
+        950,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c007-R-main-01",
+          "layer": "main",
+          "text": "不力求確證而英國醫士德子",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c007-R-main-02",
+          "layer": "main",
+          "text": "固醫學甚允勤明較著者",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c007-R-main-03",
+          "layer": "main",
+          "text": "也同治壬申冬余患腸癰外",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c007-R-main-04",
+          "layer": "main",
+          "text": "潰證發不起時患口腐爛便閉",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c007-R-main-05",
+          "layer": "main",
+          "text": "不通已四旬餘不乏醫診視",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c007-R-main-06",
+          "layer": "main",
+          "text": "均以證為方書所罕見為之棘",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c007-R-small-name-note",
+          "layer": "paratext",
+          "text": "貞",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c007-L",
+      "index": 12,
+      "section_id": "preface-3",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 7,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/20893654-2993-4569-8ae7-2bb3fabdac78.json",
+      "side": "left",
+      "official_label": "pp. [11]-[12]",
+      "manifest_position_number": 12,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "cd910a871920ea8033bfbb4b91f13e6bea07b2643e25c68495dac887ec68505c",
+      "source_face_sha256": "f6fb656977b96691f05495285e22cc5b8e430e85bf18d0aa48f67d3d60c98b87",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/20893654-2993-4569-8ae7-2bb3fabdac78/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        0,
+        0,
+        475,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c007-L-main-01",
+          "layer": "main",
+          "text": "多友人張子曉華及門茶生",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c007-L-main-02",
+          "layer": "main",
+          "text": "⟦g14⟧力薦子固為余療治乃",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "欄首兩字連寫待核。；穩定表示⟦g14⟧",
+              "extent": 2
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c007-L-main-03",
+          "layer": "main",
+          "text": "一見卽決其無害屬勿妄服藥",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c007-L-main-04",
+          "layer": "main",
+          "text": "惟令安心靜攝潰口污水西",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c007-L-main-05",
+          "layer": "main",
+          "text": "灌之⟦g15⟧飲食惟擇生精液",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "灌之後兩字待核，不做現代醫學釋義。；穩定表示⟦g15⟧",
+              "extent": 2
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c007-L-main-06",
+          "layer": "main",
+          "text": "易消導者而氣血自然運行",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c008-R",
+      "index": 13,
+      "section_id": "preface-3",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 8,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dc1ea382-f1ab-4176-9170-ee9d9ebc9886.json",
+      "side": "right",
+      "official_label": "pp. [13]-[14]",
+      "manifest_position_number": 13,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "21620d36dcd0fe79d29c12f3b116a7cca27411582455e26e7aeed9dbdd07a0b6",
+      "source_face_sha256": "e6b0fc2249bff5c75f3fb61281d778052ea3ce8927a4b775ca031f1adca14d2e",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/dc1ea382-f1ab-4176-9170-ee9d9ebc9886/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        475,
+        0,
+        950,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c008-R-main-01",
+          "layer": "main",
+          "text": "果逾兩閲月而患口肌肉生又兩",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c008-R-main-02",
+          "layer": "main",
+          "text": "閲月而復⟦g16⟧以通始信其臨證",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "復後一字門內筆畫待核，未依病程修正。；穩定表示⟦g16⟧",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c008-R-main-03",
+          "layer": "main",
+          "text": "固獨照而靡遺也今春歸國",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c008-R-main-04",
+          "layer": "main",
+          "text": "瀕行出其所著西醫舉隅見示",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c008-R-main-05",
+          "layer": "main",
+          "text": "余于岐黃術素未肄業及之",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c008-R-main-06",
+          "layer": "main",
+          "text": "更何能贊一詞然卽其所示者",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c008-L",
+      "index": 14,
+      "section_id": "preface-3",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 8,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dc1ea382-f1ab-4176-9170-ee9d9ebc9886.json",
+      "side": "left",
+      "official_label": "pp. [13]-[14]",
+      "manifest_position_number": 14,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "21620d36dcd0fe79d29c12f3b116a7cca27411582455e26e7aeed9dbdd07a0b6",
+      "source_face_sha256": "3e9afe8f7ec27f9f182b21d118696f3ed76b1ba0866d9be6ba65f716063d2252",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/dc1ea382-f1ab-4176-9170-ee9d9ebc9886/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        0,
+        0,
+        475,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c008-L-main-01",
+          "layer": "main",
+          "text": "讀之語證必詳擇理必精凡惘",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c008-L-main-02",
+          "layer": "main",
+          "text": "恍無憑之言概置弗錄且不祕",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c008-L-main-03",
+          "layer": "main",
+          "text": "其所得而必公諸世何用心若",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c008-L-main-04",
+          "layer": "main",
+          "text": "斯之周博也蓋於余之病信其",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c008-L-main-05",
+          "layer": "main",
+          "text": "所言之當於所著之書信其所",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c008-L-main-06",
+          "layer": "main",
+          "text": "學者真故于其行也為綴數語",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c009-R",
+      "index": 15,
+      "section_id": "preface-3",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 9,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b541ff3-bb13-4110-9f0f-93ca76869e63.json",
+      "side": "right",
+      "official_label": "pp. [15]-[16]",
+      "manifest_position_number": 15,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "bf580d83310d9ad2c1385a657db11c5856b62b825e6ff9f0bd17f81f0bbb6399",
+      "source_face_sha256": "9b8332b894bd4e64361d9211f4a1d55e2a19ecba50285abe95e8b12eaced90ae",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/4b541ff3-bb13-4110-9f0f-93ca76869e63/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        475,
+        0,
+        950,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c009-R-main-01",
+          "layer": "main",
+          "text": "而録之時",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c009-R-main-02",
+          "layer": "main",
+          "text": "光緒建元孟春葉⟦g17⟧常恩識",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "葉後字左旁行楷未定；不用人物名稱旁證替字。；穩定表示⟦g17⟧",
+              "extent": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c009-L",
+      "index": 16,
+      "section_id": "preface-4",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 9,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b541ff3-bb13-4110-9f0f-93ca76869e63.json",
+      "side": "left",
+      "official_label": "pp. [15]-[16]",
+      "manifest_position_number": 16,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "bf580d83310d9ad2c1385a657db11c5856b62b825e6ff9f0bd17f81f0bbb6399",
+      "source_face_sha256": "3c110a0361758ddb400785faa7e0717dac43aabaf559694c3766c6336608d293",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/4b541ff3-bb13-4110-9f0f-93ca76869e63/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        0,
+        0,
+        475,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c009-L-main-01",
+          "layer": "main",
+          "text": "予友德子固泰西名醫也奉國",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c009-L-main-02",
+          "layer": "main",
+          "text": "主命施醫中土設館于城東隅市",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c009-L-main-03",
+          "layer": "main",
+          "text": "已十餘年于茲矣予於公餘之暇時",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c009-L-main-04",
+          "layer": "main",
+          "text": "相過從見求治者踵相接無富貴",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c009-L-main-05",
+          "layer": "main",
+          "text": "貧賤悉與施治無德色亦無吝容",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c009-L-main-06",
+          "layer": "main",
+          "text": "孜孜焉以濟人利物為念蓋其居心",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c009-L-small-name-note",
+          "layer": "paratext",
+          "text": "貞",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c010-R",
+      "index": 17,
+      "section_id": "preface-4",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 10,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4e07c4b3-f776-4668-9899-70dc24a388f9.json",
+      "side": "right",
+      "official_label": "pp. [17]-[18]",
+      "manifest_position_number": 17,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "98d649435c5f8e6d59f43d598a76e07eac167929aa8b792f2ae58b5a8899c9e7",
+      "source_face_sha256": "001ccfb45e4dcb54b35703b957e6bcfd153cd1b7ec281269a50084b108559f01",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/4e07c4b3-f776-4668-9899-70dc24a388f9/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        475,
+        0,
+        950,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c010-R-main-01",
+          "layer": "main",
+          "text": "惻怛秉性慈祥由乎天授者然也",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c010-R-main-02",
+          "layer": "main",
+          "text": "去夏予患背疽復轉而為⟦g18⟧",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "為後三字行楷與末字異體待核，保留可見字位。；穩定表示⟦g18⟧",
+              "extent": 3
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c010-R-main-03",
+          "layer": "main",
+          "text": "床褥三月有奇羣醫束手延德",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c010-R-main-04",
+          "layer": "main",
+          "text": "君治之應手而愈由是情好益篤",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c010-R-main-05",
+          "layer": "main",
+          "text": "過從無間朅日出所著西醫舉隅",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c010-R-main-06",
+          "layer": "main",
+          "text": "見示并乞言以弁諸首予不敏于軒",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c010-R-page-marker",
+          "layer": "paratext",
+          "text": "一",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c010-L",
+      "index": 18,
+      "section_id": "preface-4",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 10,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4e07c4b3-f776-4668-9899-70dc24a388f9.json",
+      "side": "left",
+      "official_label": "pp. [17]-[18]",
+      "manifest_position_number": 18,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "98d649435c5f8e6d59f43d598a76e07eac167929aa8b792f2ae58b5a8899c9e7",
+      "source_face_sha256": "f7c9cbeb26c87f1e5c3512b99c0e72cb564a8a34389fce423d0d7e041f227f67",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/4e07c4b3-f776-4668-9899-70dc24a388f9/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        0,
+        0,
+        475,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c010-L-main-01",
+          "layer": "main",
+          "text": "岐一道素未究心何敢妄贊一詞第",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c010-L-main-02",
+          "layer": "main",
+          "text": "觀德君之為人誠實不妄粹然有",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c010-L-main-03",
+          "layer": "main",
+          "text": "古君子之風觀其行小⟦g19⟧以信其言",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "行後至以信前字樣待核，暫記兩字位。；穩定表示⟦g19⟧",
+              "extent": 2
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c010-L-main-04",
+          "layer": "main",
+          "text": "矣其書議論殊奇也發人所未發",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c010-L-main-05",
+          "layer": "main",
+          "text": "于人身之筋絡血脈分縷析細入毫",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c010-L-main-06",
+          "layer": "main",
+          "text": "釐破千古之惑成一家之言雖議論",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c011-R",
+      "index": 19,
+      "section_id": "preface-4",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 11,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7385a8d2-01b5-4592-88db-6af22830b6a0.json",
+      "side": "right",
+      "official_label": "pp. [19]-[20]",
+      "manifest_position_number": 19,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "6870acd02744e41dbea0cabaf8e0f0762f5a3f428cca930e8f90bdf84247edec",
+      "source_face_sha256": "440a4ce3f05b03a165ab45308440afab95990d7f89b1f4c2baccb0fa70aa6125",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7385a8d2-01b5-4592-88db-6af22830b6a0/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        475,
+        0,
+        950,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c011-R-main-01",
+          "layer": "main",
+          "text": "不必與古會而指陳確鑿迥非無據之",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c011-R-main-02",
+          "layer": "main",
+          "text": "談予既有以信德君之為人卽有以信",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c011-R-main-03",
+          "layer": "main",
+          "text": "德君之書之非無益于世也昔范文",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c011-R-main-04",
+          "layer": "main",
+          "text": "正公云不為良相當為良醫誠醫",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c011-R-main-05",
+          "layer": "main",
+          "text": "之為道足以調變陰陽挽回造化其",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c011-R-main-06",
+          "layer": "main",
+          "text": "用與濟世安民等今德君積數十",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c011-R-page-marker",
+          "layer": "paratext",
+          "text": "二",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c011-L",
+      "index": 20,
+      "section_id": "preface-4",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 11,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7385a8d2-01b5-4592-88db-6af22830b6a0.json",
+      "side": "left",
+      "official_label": "pp. [19]-[20]",
+      "manifest_position_number": 20,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "6870acd02744e41dbea0cabaf8e0f0762f5a3f428cca930e8f90bdf84247edec",
+      "source_face_sha256": "a34cb6803f090f1e31ecd2703c7e2ea45a8c5f4fb50763182aac22c89f0a2898",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7385a8d2-01b5-4592-88db-6af22830b6a0/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        0,
+        0,
+        475,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c011-L-main-01",
+          "layer": "main",
+          "text": "年之學力汲汲得千古不傳之秘",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c011-L-main-02",
+          "layer": "main",
+          "text": "乃不自⟦g20⟧為枕中之寶而登之梨棗",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "自後一字行楷待核；穩定表示⟦g20⟧",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c011-L-main-03",
+          "layer": "main",
+          "text": "傳播將來其度量之宏豈在良相",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c011-L-main-04",
+          "layer": "main",
+          "text": "下哉予既服其術藝之精而尤歆其",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c011-L-main-05",
+          "layer": "main",
+          "text": "居心之厚也故不辭而為之序云",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c011-L-main-06",
+          "layer": "main",
+          "text": "大清光緒紀元年歲在乙亥孟春",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c011-L-page-marker",
+          "layer": "paratext",
+          "text": "三",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c012-R",
+      "index": 21,
+      "section_id": "preface-4",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 12,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d92823b6-03d5-40a8-8019-615416605307.json",
+      "side": "right",
+      "official_label": "pp. [21]-[22]",
+      "manifest_position_number": 21,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "8c6a683b9168961fedd8629cff4cf8c583303110d641ee1cfc2d3d31f0e286d5",
+      "source_face_sha256": "b28f14434e11fad7f8ed75d07ca7dc6b7c0ffbae90e52c8cc28517b443dfad79",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/d92823b6-03d5-40a8-8019-615416605307/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        475,
+        0,
+        950,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete",
+        "seal": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c012-R-main-01",
+          "layer": "main",
+          "text": "下澣山陰子韓譚寶琦拝手謹序",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c012-R-page-marker",
+          "layer": "paratext",
+          "text": "三",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c012-R-seal-1",
+          "layer": "seal",
+          "text": "⟦gaiji:s1842-c012-r-seal01⟧",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "image-insufficient",
+              "reason": "完整方章以一個穩定gaiji表示，保留整章實際像素及形狀/候選；不是聲稱印字已逐字辨讀。 上方框線內右部環曲/長垂筆、左部多條縱筆及橫連，內部墨線可見，但原像素不足以逐篆確認。",
+              "extent": "unknown"
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c012-R-seal-2",
+          "layer": "seal",
+          "text": "⟦gaiji:s1842-c012-r-seal02⟧",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "image-insufficient",
+              "reason": "完整方章以一個穩定gaiji表示，保留整章實際像素及形狀/候選；不是聲稱印字已逐字辨讀。 下方黑地白文方章；右部宀/目狀橫畫與下垂雙足，左部縱筆及折鉤/橫畫；不可按姓名直接定字。",
+              "extent": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c012-L",
+      "index": 22,
+      "section_id": "preface-5",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 12,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d92823b6-03d5-40a8-8019-615416605307.json",
+      "side": "left",
+      "official_label": "pp. [21]-[22]",
+      "manifest_position_number": 22,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "8c6a683b9168961fedd8629cff4cf8c583303110d641ee1cfc2d3d31f0e286d5",
+      "source_face_sha256": "b836404d139a7a9c4f5cf003ec41a3643d82632f75ec6157e704f59e13f46e37",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/d92823b6-03d5-40a8-8019-615416605307/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        0,
+        0,
+        475,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c012-L-main-01",
+          "layer": "main",
+          "text": "西醫舉隅序",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c012-L-main-02",
+          "layer": "main",
+          "text": "大抵論天下事而言大而無當其理高而無著者",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c012-L-main-03",
+          "layer": "main",
+          "text": "舉不足以濟醫其尤著者也夫醫人命之所係也",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c012-L-main-04",
+          "layer": "main",
+          "text": "一診之頃禍隨焉一藥之投死生判焉惡可以",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c012-L-main-05",
+          "layer": "main",
+          "text": "弗重乃吾嘗見夫世之言醫者矣談元說妙娓娓動",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c012-L-main-06",
+          "layer": "main",
+          "text": "人而一詢以全體之部位病證之本源則茫乎無以",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c012-L-main-07",
+          "layer": "main",
+          "text": "應也其論益精其道益昧可慨也夫德君子固受",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c012-L-main-08",
+          "layer": "main",
+          "text": "衆善之聘施醫春明十年于茲矣所接逆難怪證未",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c012-L-running-title",
+          "layer": "paratext",
+          "text": "西醫舉隅",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c012-L-section-label",
+          "layer": "paratext",
+          "text": "序",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c012-L-page-marker",
+          "layer": "paratext",
+          "text": "一",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c013-R",
+      "index": 23,
+      "section_id": "preface-5",
+      "section_layer": "new_prefaces",
+      "canvas_index_1based": 13,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/443be452-f90b-495a-963f-abf831e20288.json",
+      "side": "right",
+      "official_label": "pp. [23]-[24]",
+      "manifest_position_number": 23,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "ff8e861f338def6c49d15e3dac1902ca1d76e689ad347cb4b04d3c69b54cffc0",
+      "source_face_sha256": "8d00a8fb1edf722ccd06bde3406e8a4203dbac15eeca0b978e94d091130dd22d",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/443be452-f90b-495a-963f-abf831e20288/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        475,
+        0,
+        950,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c013-R-main-01",
+          "layer": "main",
+          "text": "易更僕數都人士奇其術競往叩之子固乃譯之",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-R-main-02",
+          "layer": "main",
+          "text": "於書以公諸世理求其確言從其樸而醫學之精蘊",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-R-main-03",
+          "layer": "main",
+          "text": "則無微弗彰焉特以歸期伊邇行李倉黃之際未及",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-R-main-04",
+          "layer": "main",
+          "text": "付梓茲摘其載於聞見錄者裒為此卷⟦g21⟧曰舉隅",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "卷後一字待核，不依常見命名句式改字；穩定表示⟦g21⟧",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c013-R-main-05",
+          "layer": "main",
+          "text": "而問言於余聊即管見及者綴數語於簡端以歸",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-R-main-06",
+          "layer": "main",
+          "text": "之焉是為序",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-R-main-07",
+          "layer": "main",
+          "text": "乙亥春⟦g22⟧山樵者走筆",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "署款山前一字待核，不以作者別號旁證補字；穩定表示⟦g22⟧",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c013-R-running-title",
+          "layer": "paratext",
+          "text": "西醫舉隅",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-R-section-label",
+          "layer": "paratext",
+          "text": "序",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-R-page-marker",
+          "layer": "paratext",
+          "text": "二",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c013-L",
+      "index": 24,
+      "section_id": "contents",
+      "section_layer": "contents",
+      "canvas_index_1based": 13,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/443be452-f90b-495a-963f-abf831e20288.json",
+      "side": "left",
+      "official_label": "pp. [23]-[24]",
+      "manifest_position_number": 24,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "ff8e861f338def6c49d15e3dac1902ca1d76e689ad347cb4b04d3c69b54cffc0",
+      "source_face_sha256": "3e54c78bb557d08f975579484be4f32e22b65c9e5a988a35b194656b6c70dbf8",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/443be452-f90b-495a-963f-abf831e20288/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        0,
+        0,
+        475,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c013-L-main-01",
+          "layer": "main",
+          "text": "西醫舉隅目錄",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-L-main-02",
+          "layer": "main",
+          "text": "論心",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-L-main-03",
+          "layer": "main",
+          "text": "論運血之器",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-L-main-04",
+          "layer": "main",
+          "text": "哈斐論",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-L-main-05",
+          "layer": "main",
+          "text": "運血之隧道",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-L-main-06",
+          "layer": "main",
+          "text": "脈論",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-L-main-07",
+          "layer": "main",
+          "text": "目睛論",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-L-main-08",
+          "layer": "main",
+          "text": "牛痘考",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-L-main-09",
+          "layer": "main",
+          "text": "偽金鷄喇說",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-L-main-10",
+          "layer": "main",
+          "text": "洗寃新說",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-L-running-title",
+          "layer": "paratext",
+          "text": "西醫舉隅",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-L-section-label",
+          "layer": "paratext",
+          "text": "目錄",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c013-L-page-marker",
+          "layer": "paratext",
+          "text": "一",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "page_id": "sinica1842-c014-R",
+      "index": 25,
+      "section_id": "contents-continuation",
+      "section_layer": "contents",
+      "canvas_index_1based": 14,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/44267180-1fd0-4927-af01-202d51a674a9.json",
+      "side": "right",
+      "official_label": "pp. [25]-[26]",
+      "manifest_position_number": 25,
+      "position_is_original_page_number": false,
+      "source_frame_sha256": "ec18f3c950008e5b684d417916ab434b915cf0d7916deba230da04eb42a2d274",
+      "source_face_sha256": "65aaa2ac234254f716d85c369ded4b950b0e123791be1c33f0094b24070b0a42",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/44267180-1fd0-4927-af01-202d51a674a9/full/!1000,1000/0/default.jpg",
+      "face_bbox_xyxy_in_source_derivative": [
+        475,
+        0,
+        950,
+        1000
+      ],
+      "width": 475,
+      "height": 1000,
+      "layout_reviewed": true,
+      "layer_states": {
+        "main": "complete",
+        "paratext": "complete"
+      },
+      "units": [
+        {
+          "id": "sinica1842-c014-R-main-01",
+          "layer": "main",
+          "text": "五字辯",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c014-R-running-title",
+          "layer": "paratext",
+          "text": "西醫舉隅",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c014-R-page-marker",
+          "layer": "paratext",
+          "text": "二",
+          "bbox": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": "publication-format-checks/1",
+  "checked_at": "2026-11-11T11:27:40.329078+00:00",
+  "scope": "25 frontmatter faces only",
+  "json_txt_tei_exact_unit_strings_and_order": "passed",
+  "face_count": 25,
+  "unit_count": 169,
+  "body_uncertainty_records": 22,
+  "whole_seal_gaiji_records": 4,
+  "tei_relaxng": {
+    "status": "passed",
+    "edition": "P5 4.12.0",
+    "schema_sha256": "b0f115095ead2ccc6933aa3365c6f4a82cba3b2ec7eee7f76bb616d7a63b7e48",
+    "edition_url": "https://www.tei-c.org/Vault/P5/4.12.0/"
+  },
+  "cff": {
+    "status": "passed",
+    "version": "1.2.0",
+    "schema_url": "https://citation-file-format.github.io/1.2.0/schema.json",
+    "schema_sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b"
+  },
+  "negative_checks": [
+    {
+      "case": "changed-character",
+      "rejected": true
+    },
+    {
+      "case": "missing-column",
+      "rejected": true
+    },
+    {
+      "case": "exchanged-order",
+      "rejected": true
+    },
+    {
+      "case": "changed-source",
+      "rejected": true
+    },
+    {
+      "case": "duplicate-id",
+      "rejected": true
+    },
+    {
+      "case": "changed-uncertainty-position",
+      "rejected": true
+    },
+    {
+      "case": "external-entity",
+      "rejected": true
+    }
+  ],
+  "public_allowlist": "passed",
+  "private_paths_credentials_images_programs": "not included in checked package",
+  "source_surface_unit_bindings": "169 of169 checked against fixed source-linked initial master",
+  "scholarly_accuracy_certified": false,
+  "expert_review_completed": false,
+  "full_book_transcription_complete": false,
+  "full_tei_apparatus_odd_schematron": "not-run",
+  "complete_private_annotations_contract": false,
+  "private_annotation_check": {
+    "status": "incomplete",
+    "exit_code": 3,
+    "pending_count": 169,
+    "pending_types": {
+      "unknown-model": 169
+    },
+    "unit_output_bindings": 169,
+    "legacy_span_events": 26,
+    "independent_work": "not-applied-in-this-initial-release"
+  },
+  "text_publication_purpose_gate": "allowed-as-recorded; not legal certification"
+}

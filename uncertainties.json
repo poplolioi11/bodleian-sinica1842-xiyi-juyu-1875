@@ -1,0 +1,514 @@
+{
+  "position_convention": "0-based Unicode code points, end exclusive in the identified unit; candidates are not adopted text.",
+  "records": [
+    {
+      "id": "sinica1842-c003-L-g01",
+      "gaiji_id": "sinica1842-c003-L-g01",
+      "page_id": "sinica1842-c003-L",
+      "unit_id": "sinica1842-c003-L-main-07",
+      "start": 7,
+      "end": 12,
+      "placeholder": "⟦g01⟧",
+      "candidates": [
+        "佐",
+        "伍"
+      ],
+      "reason": "末字右部筆畫待核；不按下頁聖天子語境補定。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be2480fe-9e98-4aee-aa30-99a0dc49fab2.json",
+      "source_face_sha256": "cb2602adbc5f96d43e9147e5c37102065ddf18938b118636c41cd2ccf719c7af",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-R-g02",
+      "gaiji_id": "sinica1842-c004-R-g02",
+      "page_id": "sinica1842-c004-R",
+      "unit_id": "sinica1842-c004-R-main-02",
+      "start": 9,
+      "end": 14,
+      "placeholder": "⟦g02⟧",
+      "candidates": [
+        "弇"
+      ],
+      "reason": "弇字部件在行楷中連寫；讀法候選不作精確字形確認。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "eaab5284f44fd8a61054198078ac485c6a8e6bbb0e372f7ca7d67914c2d1e62d",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g03",
+      "gaiji_id": "sinica1842-c004-L-g03",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-02",
+      "start": 8,
+      "end": 13,
+      "placeholder": "⟦g03⟧",
+      "candidates": [
+        "讞"
+      ],
+      "reason": "該字行楷部件未能確定，保存候選。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g04",
+      "gaiji_id": "sinica1842-c004-L-g04",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-04",
+      "start": 3,
+      "end": 8,
+      "placeholder": "⟦g04⟧",
+      "candidates": [
+        "然"
+      ],
+      "reason": "可殺後一字筆畫待核。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g05",
+      "gaiji_id": "sinica1842-c004-L-g05",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-04",
+      "start": 19,
+      "end": 24,
+      "placeholder": "⟦g05⟧",
+      "candidates": [
+        "慎"
+      ],
+      "reason": "必後一字筆畫待核。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g06",
+      "gaiji_id": "sinica1842-c004-L-g06",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-05",
+      "start": 1,
+      "end": 6,
+      "placeholder": "⟦g06⟧",
+      "candidates": [
+        "難"
+      ],
+      "reason": "之後一字行楷待核。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g07",
+      "gaiji_id": "sinica1842-c004-L-g07",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-06",
+      "start": 8,
+      "end": 13,
+      "placeholder": "⟦g07⟧",
+      "candidates": [
+        "杵",
+        "械"
+      ],
+      "reason": "銳後一字待核，非由文意換字。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g08",
+      "gaiji_id": "sinica1842-c004-L-g08",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-07",
+      "start": 7,
+      "end": 12,
+      "placeholder": "⟦g08⟧",
+      "candidates": [
+        "纖毫"
+      ],
+      "reason": "此二字連寫，字數按可見字位暫記2，筆畫未定。",
+      "extent": 2,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g09",
+      "gaiji_id": "sinica1842-c004-L-g09",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-07",
+      "start": 14,
+      "end": 19,
+      "placeholder": "⟦g09⟧",
+      "candidates": [
+        "吁",
+        "收"
+      ],
+      "reason": "罪後語氣字待核。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c005-R-g10",
+      "gaiji_id": "sinica1842-c005-R-g10",
+      "page_id": "sinica1842-c005-R",
+      "unit_id": "sinica1842-c005-R-main-02",
+      "start": 3,
+      "end": 8,
+      "placeholder": "⟦g10⟧",
+      "candidates": [
+        "酣",
+        "硯"
+      ],
+      "reason": "方後一字行楷未解。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be33b857-69ca-4457-b3f4-76522b444d75.json",
+      "source_face_sha256": "be8d1d76f228834d7111e0b94a220f828233101003eb5e49e96318ee7becd849",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c005-R-g11",
+      "gaiji_id": "sinica1842-c005-R-g11",
+      "page_id": "sinica1842-c005-R",
+      "unit_id": "sinica1842-c005-R-main-02",
+      "start": 9,
+      "end": 14,
+      "placeholder": "⟦g11⟧",
+      "candidates": [
+        "令息",
+        "冥息"
+      ],
+      "reason": "坐後兩字連寫待核；不以流暢句改定。",
+      "extent": 2,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be33b857-69ca-4457-b3f4-76522b444d75.json",
+      "source_face_sha256": "be8d1d76f228834d7111e0b94a220f828233101003eb5e49e96318ee7becd849",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c005-L-g12",
+      "gaiji_id": "sinica1842-c005-L-g12",
+      "page_id": "sinica1842-c005-L",
+      "unit_id": "sinica1842-c005-L-main-04",
+      "start": 8,
+      "end": 13,
+      "placeholder": "⟦g12⟧",
+      "candidates": [
+        "猶",
+        "牯"
+      ],
+      "reason": "此字行楷待核；不從常見比喻補字。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be33b857-69ca-4457-b3f4-76522b444d75.json",
+      "source_face_sha256": "678f63717963f72665e8d1a60f9217e96170858c17cbae8e04cd38f2c6fbf7db",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c006-L-g13",
+      "gaiji_id": "sinica1842-c006-L-g13",
+      "page_id": "sinica1842-c006-L",
+      "unit_id": "sinica1842-c006-L-main-01",
+      "start": 0,
+      "end": 5,
+      "placeholder": "⟦g13⟧",
+      "candidates": [
+        "敘",
+        "緘"
+      ],
+      "reason": "獨立題署一字行楷待核；兩候選不作同字異體判定。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b5f4fa53-29b3-4182-8ea8-a84f9d63411c.json",
+      "source_face_sha256": "97fc4326875e793442f47b33f44b562446d09ce39dbf3a4193712623db9cc956",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c007-L-g14",
+      "gaiji_id": "sinica1842-c007-L-g14",
+      "page_id": "sinica1842-c007-L",
+      "unit_id": "sinica1842-c007-L-main-02",
+      "start": 0,
+      "end": 5,
+      "placeholder": "⟦g14⟧",
+      "candidates": [
+        "搏拳",
+        "搏舉"
+      ],
+      "reason": "欄首兩字連寫待核。",
+      "extent": 2,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/20893654-2993-4569-8ae7-2bb3fabdac78.json",
+      "source_face_sha256": "f6fb656977b96691f05495285e22cc5b8e430e85bf18d0aa48f67d3d60c98b87",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c007-L-g15",
+      "gaiji_id": "sinica1842-c007-L-g15",
+      "page_id": "sinica1842-c007-L",
+      "unit_id": "sinica1842-c007-L-main-05",
+      "start": 2,
+      "end": 7,
+      "placeholder": "⟦g15⟧",
+      "candidates": [
+        "沙孫",
+        "必孫"
+      ],
+      "reason": "灌之後兩字待核，不做現代醫學釋義。",
+      "extent": 2,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/20893654-2993-4569-8ae7-2bb3fabdac78.json",
+      "source_face_sha256": "f6fb656977b96691f05495285e22cc5b8e430e85bf18d0aa48f67d3d60c98b87",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c008-R-g16",
+      "gaiji_id": "sinica1842-c008-R-g16",
+      "page_id": "sinica1842-c008-R",
+      "unit_id": "sinica1842-c008-R-main-02",
+      "start": 4,
+      "end": 9,
+      "placeholder": "⟦g16⟧",
+      "candidates": [
+        "閉",
+        "閒"
+      ],
+      "reason": "復後一字門內筆畫待核，未依病程修正。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dc1ea382-f1ab-4176-9170-ee9d9ebc9886.json",
+      "source_face_sha256": "e6b0fc2249bff5c75f3fb61281d778052ea3ce8927a4b775ca031f1adca14d2e",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c009-R-g17",
+      "gaiji_id": "sinica1842-c009-R-g17",
+      "page_id": "sinica1842-c009-R",
+      "unit_id": "sinica1842-c009-R-main-02",
+      "start": 7,
+      "end": 12,
+      "placeholder": "⟦g17⟧",
+      "candidates": [
+        "河",
+        "阿"
+      ],
+      "reason": "葉後字左旁行楷未定；不用人物名稱旁證替字。",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b541ff3-bb13-4110-9f0f-93ca76869e63.json",
+      "source_face_sha256": "9b8332b894bd4e64361d9211f4a1d55e2a19ecba50285abe95e8b12eaced90ae",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c010-R-g18",
+      "gaiji_id": "sinica1842-c010-R-g18",
+      "page_id": "sinica1842-c010-R",
+      "unit_id": "sinica1842-c010-R-main-02",
+      "start": 10,
+      "end": 15,
+      "placeholder": "⟦g18⟧",
+      "candidates": [
+        "瘻纏綿",
+        "瘻纏緜"
+      ],
+      "reason": "為後三字行楷與末字異體待核，保留可見字位。",
+      "extent": 3,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4e07c4b3-f776-4668-9899-70dc24a388f9.json",
+      "source_face_sha256": "001ccfb45e4dcb54b35703b957e6bcfd153cd1b7ec281269a50084b108559f01",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c010-L-g19",
+      "gaiji_id": "sinica1842-c010-L-g19",
+      "page_id": "sinica1842-c010-L",
+      "unit_id": "sinica1842-c010-L-main-03",
+      "start": 9,
+      "end": 14,
+      "placeholder": "⟦g19⟧",
+      "candidates": [
+        "當可",
+        "官可"
+      ],
+      "reason": "行後至以信前字樣待核，暫記兩字位。",
+      "extent": 2,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4e07c4b3-f776-4668-9899-70dc24a388f9.json",
+      "source_face_sha256": "f7c9cbeb26c87f1e5c3512b99c0e72cb564a8a34389fce423d0d7e041f227f67",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c011-L-g20",
+      "gaiji_id": "sinica1842-c011-L-g20",
+      "page_id": "sinica1842-c011-L",
+      "unit_id": "sinica1842-c011-L-main-02",
+      "start": 3,
+      "end": 8,
+      "placeholder": "⟦g20⟧",
+      "candidates": [
+        "李",
+        "珍",
+        "祕"
+      ],
+      "reason": "自後一字行楷待核",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7385a8d2-01b5-4592-88db-6af22830b6a0.json",
+      "source_face_sha256": "a34cb6803f090f1e31ecd2703c7e2ea45a8c5f4fb50763182aac22c89f0a2898",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c013-R-g21",
+      "gaiji_id": "sinica1842-c013-R-g21",
+      "page_id": "sinica1842-c013-R",
+      "unit_id": "sinica1842-c013-R-main-04",
+      "start": 15,
+      "end": 20,
+      "placeholder": "⟦g21⟧",
+      "candidates": [
+        "字",
+        "子",
+        "名"
+      ],
+      "reason": "卷後一字待核，不依常見命名句式改字",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/443be452-f90b-495a-963f-abf831e20288.json",
+      "source_face_sha256": "8d00a8fb1edf722ccd06bde3406e8a4203dbac15eeca0b978e94d091130dd22d",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c013-R-g22",
+      "gaiji_id": "sinica1842-c013-R-g22",
+      "page_id": "sinica1842-c013-R",
+      "unit_id": "sinica1842-c013-R-main-07",
+      "start": 3,
+      "end": 8,
+      "placeholder": "⟦g22⟧",
+      "candidates": [
+        "箋",
+        "笠"
+      ],
+      "reason": "署款山前一字待核，不以作者別號旁證補字",
+      "extent": 1,
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/443be452-f90b-495a-963f-abf831e20288.json",
+      "source_face_sha256": "8d00a8fb1edf722ccd06bde3406e8a4203dbac15eeca0b978e94d091130dd22d",
+      "bbox": null,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "s1842-c012-r-seal01",
+      "gaiji_id": "s1842-c012-r-seal01",
+      "page_id": "sinica1842-c012-R",
+      "unit_id": "sinica1842-c012-R-seal-1",
+      "start": 0,
+      "end": 27,
+      "placeholder": "⟦gaiji:s1842-c012-r-seal01⟧",
+      "candidates": [
+        "子韓"
+      ],
+      "reason": "完整方章以一個穩定gaiji表示，保留整章實際像素及形狀/候選；不是聲稱印字已逐字辨讀。",
+      "extent": "unknown",
+      "cause": "image-insufficient",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d92823b6-03d5-40a8-8019-615416605307.json",
+      "source_face_sha256": "b28f14434e11fad7f8ed75d07ca7dc6b7c0ffbae90e52c8cc28517b443dfad79",
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "s1842-c012-r-seal02",
+      "gaiji_id": "s1842-c012-r-seal02",
+      "page_id": "sinica1842-c012-R",
+      "unit_id": "sinica1842-c012-R-seal-2",
+      "start": 0,
+      "end": 27,
+      "placeholder": "⟦gaiji:s1842-c012-r-seal02⟧",
+      "candidates": [
+        "寶琦"
+      ],
+      "reason": "完整方章以一個穩定gaiji表示，保留整章實際像素及形狀/候選；不是聲稱印字已逐字辨讀。",
+      "extent": "unknown",
+      "cause": "image-insufficient",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d92823b6-03d5-40a8-8019-615416605307.json",
+      "source_face_sha256": "b28f14434e11fad7f8ed75d07ca7dc6b7c0ffbae90e52c8cc28517b443dfad79",
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "s1842-c006-r-seal01",
+      "gaiji_id": "s1842-c006-r-seal01",
+      "page_id": "sinica1842-c006-R",
+      "unit_id": "sinica1842-c006-R-seal-1",
+      "start": 0,
+      "end": 27,
+      "placeholder": "⟦gaiji:s1842-c006-r-seal01⟧",
+      "candidates": [
+        "崇實"
+      ],
+      "reason": "整章穩定gaiji；候選崇實未升格精確碼位確認。",
+      "extent": "unknown",
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b5f4fa53-29b3-4182-8ea8-a84f9d63411c.json",
+      "source_face_sha256": "6a6baaafd2f69a4a342b905644f7a632e84013b52ac5f694bdf8941d7942569e",
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "s1842-c006-r-seal02",
+      "gaiji_id": "s1842-c006-r-seal02",
+      "page_id": "sinica1842-c006-R",
+      "unit_id": "sinica1842-c006-R-seal-2",
+      "start": 0,
+      "end": 27,
+      "placeholder": "⟦gaiji:s1842-c006-r-seal02⟧",
+      "candidates": [
+        "樸山氏",
+        "樸山"
+      ],
+      "reason": "整章穩定gaiji，包含外框內所有可見篆形，不以候選正文填入。",
+      "extent": "unknown",
+      "cause": "reading-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b5f4fa53-29b3-4182-8ea8-a84f9d63411c.json",
+      "source_face_sha256": "6a6baaafd2f69a4a342b905644f7a632e84013b52ac5f694bdf8941d7942569e",
+      "exact_encoding_status": "unknown"
+    }
+  ]
+}

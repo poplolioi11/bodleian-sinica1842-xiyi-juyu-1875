@@ -1,0 +1,493 @@
+{
+  "scope": "Unresolved source characters/groups and entire seals; a whole-mark identifier does not state the number or exact identity of its characters.",
+  "source_images_included": false,
+  "records": [
+    {
+      "id": "sinica1842-c003-L-g01",
+      "page_id": "sinica1842-c003-L",
+      "unit_id": "sinica1842-c003-L-main-07",
+      "representation": "⟦g01⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "佐",
+        "伍"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be2480fe-9e98-4aee-aa30-99a0dc49fab2.json",
+      "source_face_sha256": "cb2602adbc5f96d43e9147e5c37102065ddf18938b118636c41cd2ccf719c7af",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-R-g02",
+      "page_id": "sinica1842-c004-R",
+      "unit_id": "sinica1842-c004-R-main-02",
+      "representation": "⟦g02⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "弇"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "eaab5284f44fd8a61054198078ac485c6a8e6bbb0e372f7ca7d67914c2d1e62d",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g03",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-02",
+      "representation": "⟦g03⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "讞"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g04",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-04",
+      "representation": "⟦g04⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "然"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g05",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-04",
+      "representation": "⟦g05⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "慎"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g06",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-05",
+      "representation": "⟦g06⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "難"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g07",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-06",
+      "representation": "⟦g07⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "杵",
+        "械"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g08",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-07",
+      "representation": "⟦g08⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "纖毫"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "extent": 2,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c004-L-g09",
+      "page_id": "sinica1842-c004-L",
+      "unit_id": "sinica1842-c004-L-main-07",
+      "representation": "⟦g09⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "吁",
+        "收"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_face_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c005-R-g10",
+      "page_id": "sinica1842-c005-R",
+      "unit_id": "sinica1842-c005-R-main-02",
+      "representation": "⟦g10⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "酣",
+        "硯"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be33b857-69ca-4457-b3f4-76522b444d75.json",
+      "source_face_sha256": "be8d1d76f228834d7111e0b94a220f828233101003eb5e49e96318ee7becd849",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c005-R-g11",
+      "page_id": "sinica1842-c005-R",
+      "unit_id": "sinica1842-c005-R-main-02",
+      "representation": "⟦g11⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "令息",
+        "冥息"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be33b857-69ca-4457-b3f4-76522b444d75.json",
+      "source_face_sha256": "be8d1d76f228834d7111e0b94a220f828233101003eb5e49e96318ee7becd849",
+      "extent": 2,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c005-L-g12",
+      "page_id": "sinica1842-c005-L",
+      "unit_id": "sinica1842-c005-L-main-04",
+      "representation": "⟦g12⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "猶",
+        "牯"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be33b857-69ca-4457-b3f4-76522b444d75.json",
+      "source_face_sha256": "678f63717963f72665e8d1a60f9217e96170858c17cbae8e04cd38f2c6fbf7db",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c006-L-g13",
+      "page_id": "sinica1842-c006-L",
+      "unit_id": "sinica1842-c006-L-main-01",
+      "representation": "⟦g13⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "敘",
+        "緘"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b5f4fa53-29b3-4182-8ea8-a84f9d63411c.json",
+      "source_face_sha256": "97fc4326875e793442f47b33f44b562446d09ce39dbf3a4193712623db9cc956",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c007-L-g14",
+      "page_id": "sinica1842-c007-L",
+      "unit_id": "sinica1842-c007-L-main-02",
+      "representation": "⟦g14⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "搏拳",
+        "搏舉"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/20893654-2993-4569-8ae7-2bb3fabdac78.json",
+      "source_face_sha256": "f6fb656977b96691f05495285e22cc5b8e430e85bf18d0aa48f67d3d60c98b87",
+      "extent": 2,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c007-L-g15",
+      "page_id": "sinica1842-c007-L",
+      "unit_id": "sinica1842-c007-L-main-05",
+      "representation": "⟦g15⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "沙孫",
+        "必孫"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/20893654-2993-4569-8ae7-2bb3fabdac78.json",
+      "source_face_sha256": "f6fb656977b96691f05495285e22cc5b8e430e85bf18d0aa48f67d3d60c98b87",
+      "extent": 2,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c008-R-g16",
+      "page_id": "sinica1842-c008-R",
+      "unit_id": "sinica1842-c008-R-main-02",
+      "representation": "⟦g16⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "閉",
+        "閒"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dc1ea382-f1ab-4176-9170-ee9d9ebc9886.json",
+      "source_face_sha256": "e6b0fc2249bff5c75f3fb61281d778052ea3ce8927a4b775ca031f1adca14d2e",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c009-R-g17",
+      "page_id": "sinica1842-c009-R",
+      "unit_id": "sinica1842-c009-R-main-02",
+      "representation": "⟦g17⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "河",
+        "阿"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b541ff3-bb13-4110-9f0f-93ca76869e63.json",
+      "source_face_sha256": "9b8332b894bd4e64361d9211f4a1d55e2a19ecba50285abe95e8b12eaced90ae",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c010-R-g18",
+      "page_id": "sinica1842-c010-R",
+      "unit_id": "sinica1842-c010-R-main-02",
+      "representation": "⟦g18⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "瘻纏綿",
+        "瘻纏緜"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4e07c4b3-f776-4668-9899-70dc24a388f9.json",
+      "source_face_sha256": "001ccfb45e4dcb54b35703b957e6bcfd153cd1b7ec281269a50084b108559f01",
+      "extent": 3,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c010-L-g19",
+      "page_id": "sinica1842-c010-L",
+      "unit_id": "sinica1842-c010-L-main-03",
+      "representation": "⟦g19⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "當可",
+        "官可"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4e07c4b3-f776-4668-9899-70dc24a388f9.json",
+      "source_face_sha256": "f7c9cbeb26c87f1e5c3512b99c0e72cb564a8a34389fce423d0d7e041f227f67",
+      "extent": 2,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c011-L-g20",
+      "page_id": "sinica1842-c011-L",
+      "unit_id": "sinica1842-c011-L-main-02",
+      "representation": "⟦g20⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "李",
+        "珍",
+        "祕"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7385a8d2-01b5-4592-88db-6af22830b6a0.json",
+      "source_face_sha256": "a34cb6803f090f1e31ecd2703c7e2ea45a8c5f4fb50763182aac22c89f0a2898",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c013-R-g21",
+      "page_id": "sinica1842-c013-R",
+      "unit_id": "sinica1842-c013-R-main-04",
+      "representation": "⟦g21⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "字",
+        "子",
+        "名"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/443be452-f90b-495a-963f-abf831e20288.json",
+      "source_face_sha256": "8d00a8fb1edf722ccd06bde3406e8a4203dbac15eeca0b978e94d091130dd22d",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "sinica1842-c013-R-g22",
+      "page_id": "sinica1842-c013-R",
+      "unit_id": "sinica1842-c013-R-main-07",
+      "representation": "⟦g22⟧",
+      "kind": "unresolved-character-or-group",
+      "candidates": [
+        "箋",
+        "笠"
+      ],
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/443be452-f90b-495a-963f-abf831e20288.json",
+      "source_face_sha256": "8d00a8fb1edf722ccd06bde3406e8a4203dbac15eeca0b978e94d091130dd22d",
+      "extent": 1,
+      "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "s1842-c012-r-seal01",
+      "page_id": "sinica1842-c012-R",
+      "unit_id": "sinica1842-c012-R-seal-1",
+      "representation": "⟦gaiji:s1842-c012-r-seal01⟧",
+      "kind": "whole-seal-mark",
+      "candidates": [
+        "子韓"
+      ],
+      "candidate_basis": "同頁署名已曝光，只作情境候選；低清可見篆形不能核定精確文字。",
+      "shape_observation": "上方框線內右部環曲/長垂筆、左部多條縱筆及橫連，內部墨線可見，但原像素不足以逐篆確認。",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d92823b6-03d5-40a8-8019-615416605307.json",
+      "source_face_sha256": "b28f14434e11fad7f8ed75d07ca7dc6b7c0ffbae90e52c8cc28517b443dfad79",
+      "region_sha256": "55b0d881a89b7e454e8df3bb6e37238678a0d091eb96fe1a53eeeaa1c3e0d2b4",
+      "extent": "unknown",
+      "exact_encoding_status": "unknown",
+      "reading_direction": "右至左候讀，尚不能精確分字",
+      "source_images_included": false,
+      "source_region": {
+        "coordinate_convention": "xyxy pixels; left/top inclusive, right/bottom exclusive",
+        "coordinate_frame": "Acquired official full-frame derivative pixels; not original-scale coordinates",
+        "source_image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/d92823b6-03d5-40a8-8019-615416605307/full/!1000,1000/0/default.jpg",
+        "source_frame_sha256": "8c6a683b9168961fedd8629cff4cf8c583303110d641ee1cfc2d3d31f0e286d5",
+        "source_frame_dimensions": [
+          950,
+          1000
+        ],
+        "bbox_xyxy": [
+          735,
+          470,
+          800,
+          535
+        ],
+        "images_included": false
+      }
+    },
+    {
+      "id": "s1842-c012-r-seal02",
+      "page_id": "sinica1842-c012-R",
+      "unit_id": "sinica1842-c012-R-seal-2",
+      "representation": "⟦gaiji:s1842-c012-r-seal02⟧",
+      "kind": "whole-seal-mark",
+      "candidates": [
+        "寶琦"
+      ],
+      "candidate_basis": "同頁署名已曝光，只作情境候選；低清可見篆形不能核定精確文字。",
+      "shape_observation": "下方黑地白文方章；右部宀/目狀橫畫與下垂雙足，左部縱筆及折鉤/橫畫；不可按姓名直接定字。",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d92823b6-03d5-40a8-8019-615416605307.json",
+      "source_face_sha256": "b28f14434e11fad7f8ed75d07ca7dc6b7c0ffbae90e52c8cc28517b443dfad79",
+      "region_sha256": "53c2341ae237827ec7a5584b2d4127be9e2ad3433cc41a789412f07bf688c555",
+      "extent": "unknown",
+      "exact_encoding_status": "unknown",
+      "reading_direction": "右至左候讀，尚不能精確分字",
+      "source_images_included": false,
+      "source_region": {
+        "coordinate_convention": "xyxy pixels; left/top inclusive, right/bottom exclusive",
+        "coordinate_frame": "Acquired official full-frame derivative pixels; not original-scale coordinates",
+        "source_image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/d92823b6-03d5-40a8-8019-615416605307/full/!1000,1000/0/default.jpg",
+        "source_frame_sha256": "8c6a683b9168961fedd8629cff4cf8c583303110d641ee1cfc2d3d31f0e286d5",
+        "source_frame_dimensions": [
+          950,
+          1000
+        ],
+        "bbox_xyxy": [
+          735,
+          540,
+          800,
+          600
+        ],
+        "images_included": false
+      }
+    },
+    {
+      "id": "s1842-c006-r-seal01",
+      "page_id": "sinica1842-c006-R",
+      "unit_id": "sinica1842-c006-R-seal-1",
+      "representation": "⟦gaiji:s1842-c006-r-seal01⟧",
+      "kind": "whole-seal-mark",
+      "candidates": [
+        "崇實"
+      ],
+      "candidate_basis": "原像ROI觀察：右上有山形、下有宀/示形；左有宀、內橫畫、下貝足形，右至左候讀。未以署名替代筆畫。",
+      "shape_observation": "白地黑框/朱白反相式篆章，右部山/宗式組合，左部宀/貝式組合。",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b5f4fa53-29b3-4182-8ea8-a84f9d63411c.json",
+      "source_face_sha256": "6a6baaafd2f69a4a342b905644f7a632e84013b52ac5f694bdf8941d7942569e",
+      "region_sha256": "713598224c115275ddc07b576d5dbd05aa8f6f634a2906beffda9fbd3caa7d64",
+      "extent": "unknown",
+      "exact_encoding_status": "unknown",
+      "reading_direction": "right-to-left",
+      "source_images_included": false,
+      "source_region": {
+        "coordinate_convention": "xyxy pixels; left/top inclusive, right/bottom exclusive",
+        "coordinate_frame": "Official original-image pixel coordinates",
+        "source_image_service": "https://iiif.bodleian.ox.ac.uk/iiif/image/b5f4fa53-29b3-4182-8ea8-a84f9d63411c",
+        "full_original_dimensions": [
+          5412,
+          5697
+        ],
+        "bbox_xyxy": [
+          3720,
+          2539,
+          4210,
+          3039
+        ],
+        "acquired_region_origin_xy": [
+          3410,
+          2279
+        ],
+        "acquired_region_dimensions": [
+          974,
+          1937
+        ],
+        "acquired_region_sha256": "b85868dd6ac0461916cbaa452f206c1824f7471a0cd2bce4c2f4bcb6550c485f",
+        "images_included": false
+      }
+    },
+    {
+      "id": "s1842-c006-r-seal02",
+      "page_id": "sinica1842-c006-R",
+      "unit_id": "sinica1842-c006-R-seal-2",
+      "representation": "⟦gaiji:s1842-c006-r-seal02⟧",
+      "kind": "whole-seal-mark",
+      "candidates": [
+        "樸山氏",
+        "樸山"
+      ],
+      "candidate_basis": "原像ROI已讀：右列上方繁筆縱橫，下方山形；左列長曲筆及折尾。候選與同頁號署有情境關係，未確認。",
+      "shape_observation": "外框方章，右列上方多條縱筆/橫畫交疊、下方三角山形，左列大曲筆縱下；字數仍未知。",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b5f4fa53-29b3-4182-8ea8-a84f9d63411c.json",
+      "source_face_sha256": "6a6baaafd2f69a4a342b905644f7a632e84013b52ac5f694bdf8941d7942569e",
+      "region_sha256": "5cf8b41316cc191e93c8f21d8baad42dcec87903b3e08e149052fe8b4c88ce73",
+      "extent": "unknown",
+      "exact_encoding_status": "unknown",
+      "reading_direction": "right-to-left candidate, segmentation unresolved",
+      "source_images_included": false,
+      "source_region": {
+        "coordinate_convention": "xyxy pixels; left/top inclusive, right/bottom exclusive",
+        "coordinate_frame": "Official original-image pixel coordinates",
+        "source_image_service": "https://iiif.bodleian.ox.ac.uk/iiif/image/b5f4fa53-29b3-4182-8ea8-a84f9d63411c",
+        "full_original_dimensions": [
+          5412,
+          5697
+        ],
+        "bbox_xyxy": [
+          3690,
+          3469,
+          4220,
+          3979
+        ],
+        "acquired_region_origin_xy": [
+          3410,
+          2279
+        ],
+        "acquired_region_dimensions": [
+          974,
+          1937
+        ],
+        "acquired_region_sha256": "b85868dd6ac0461916cbaa452f206c1824f7471a0cd2bce4c2f4bcb6550c485f",
+        "images_included": false
+      }
+    }
+  ]
+}

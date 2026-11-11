@@ -1,0 +1,77 @@
+{
+  "book": "西醫舉隅",
+  "current_included_faces": 25,
+  "full_book_text_provided": false,
+  "medical_articles_and_diagram_labels_transcribed_in_this_release": false,
+  "main_article_entries": [
+    {
+      "title": "論心",
+      "existing_text_coverage": "完全",
+      "coverage_scope": "既有正文覆蓋；不含圖內文字完整性與逐字正確性",
+      "current_release_new_transcription": false,
+      "next_action": "連結既有NDL正文，不重錄；圖內字另列未全覆蓋"
+    },
+    {
+      "title": "論運血之器",
+      "existing_text_coverage": "完全",
+      "coverage_scope": "既有正文覆蓋；圖字部分",
+      "current_release_new_transcription": false,
+      "next_action": "連結既有NDL正文，不重錄；圖字另核"
+    },
+    {
+      "title": "哈斐論",
+      "existing_text_coverage": "完全",
+      "coverage_scope": "母刊單篇正文可讀且完整取得；本冊逐字異文未校",
+      "current_release_new_transcription": false,
+      "next_action": "連結既有NDL正文；若定稿發現末段異文另列差異，不另重錄整篇"
+    },
+    {
+      "title": "運血之隧道",
+      "existing_text_coverage": "部分",
+      "coverage_scope": "正文起訖完整覆蓋；折圖/圖內字未完整覆蓋",
+      "current_release_new_transcription": false,
+      "next_action": "正文連結既有NDL；需要新錄的範圍限實際缺圖字，不重錄正文"
+    },
+    {
+      "title": "脈論",
+      "existing_text_coverage": "部分",
+      "coverage_scope": "已得27/28/29號續篇；26號首篇未得可用全文",
+      "current_release_new_transcription": false,
+      "next_action": "續篇連結NDL；首篇與折圖/圖中文字列新錄候選，先固定牛津分段邊界"
+    },
+    {
+      "title": "目睛論",
+      "existing_text_coverage": "部分",
+      "coverage_scope": "母刊兩期正文與圖序已實際取得；本冊全段起訖尚未對完",
+      "current_release_new_transcription": false,
+      "next_action": "提供NDL兩期入口；先補本冊起訖定位及圖字覆蓋，再決定僅補缺字/異文，不重錄整篇"
+    },
+    {
+      "title": "牛痘考",
+      "existing_text_coverage": "未核",
+      "coverage_scope": "僅書目/母刊期號指引；未抽取或改成操作性教學",
+      "current_release_new_transcription": false,
+      "next_action": "沿既定非生物研究範圍只保留篇目、來源與流通史資訊，不轉錄操作性正文"
+    },
+    {
+      "title": "偽金鷄喇說",
+      "existing_text_coverage": "完全",
+      "coverage_scope": "既有正文起訖覆蓋；原刻異體尚待正式逐字轉錄政策核定",
+      "current_release_new_transcription": false,
+      "next_action": "連結NDL正文，不重錄；保留原題異體/喇與OCR錯字區分"
+    },
+    {
+      "title": "洗冤新說",
+      "existing_text_coverage": "部分",
+      "coverage_scope": "本冊含序、考證、相驗識別及死人年貌等連載組合；NDL僅部分續稿已得",
+      "current_release_new_transcription": false,
+      "next_action": "NDL既有相驗/死人年貌續稿提供連結；7/9號缺文及圖字列新錄候選；其完整篇章邊界需先補固定"
+    }
+  ],
+  "appendix": {
+    "title": "五字辯",
+    "current_release_new_transcription": false,
+    "status": "部分",
+    "scope": "母刊完整兩頁文字已得；牛津末面下載不完整，末文未作有效影像比對"
+  }
+}

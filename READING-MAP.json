@@ -1,0 +1,31 @@
+{
+  "schema": "source-reading-map/1",
+  "scope": "Two small name notes within the25 assigned frontmatter faces.",
+  "offset_convention": "Zero-based Unicode codepoint boundary in the anchor unit; an anchor is editorial navigation and is not added punctuation or a textual emendation.",
+  "faithful_text_unchanged": true,
+  "continuous_reading_layer_produced": false,
+  "notes": [
+    {
+      "page_id": "sinica1842-c007-R",
+      "note_unit_id": "sinica1842-c007-R-small-name-note",
+      "note_text": "貞",
+      "anchor_unit_id": "sinica1842-c007-R-main-02",
+      "anchor_boundary": 1,
+      "preceding_anchor_character": "固",
+      "placement": "Small name note beside the character固; the preceding main column ends德子. Keep this note separate from the main-text reading order.",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/20893654-2993-4569-8ae7-2bb3fabdac78.json",
+      "source_face_sha256": "093cb3e713f316924b8e2e1f3dee3aaf978afef91eaabaaf50c51cfa80397ec0"
+    },
+    {
+      "page_id": "sinica1842-c009-L",
+      "note_unit_id": "sinica1842-c009-L-small-name-note",
+      "note_text": "貞",
+      "anchor_unit_id": "sinica1842-c009-L-main-01",
+      "anchor_boundary": 5,
+      "preceding_anchor_character": "固",
+      "placement": "Small name note beside the character固 in予友德子固. Keep this note separate from the main-text reading order.",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b541ff3-bb13-4110-9f0f-93ca76869e63.json",
+      "source_face_sha256": "3c110a0361758ddb400785faa7e0717dac43aabaf559694c3766c6336608d293"
+    }
+  ]
+}

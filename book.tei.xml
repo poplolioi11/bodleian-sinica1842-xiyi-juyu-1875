@@ -1,0 +1,584 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>西醫舉隅（1875；Bodleian Sinica 1842）：原題、序文、目錄及來源導覽 / Xi yi ju yu [Gleanings of Western medicine]: Prefaces, contents and source guide</title>
+        <respStmt>
+          <resp>Dataset curation and AI-assisted initial transcription</resp>
+          <name ref="https://orcid.org/0009-0003-9738-6914" xml:id="curator">Chu, Chen-Yu</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>0.1.0 — partial frontmatter initial transcription</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Chu, Chen-Yu</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 applies to original documentation and editorial arrangement; no additional exclusive restrictions are asserted over historical text. Source images are excluded and separately carry the provider’s CC BY-NC 4.0 notice.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>西醫舉隅</title>
+          <author>Dudgeon, John</author>
+          <pubPlace>[Peking]</pubPlace>
+          <date when="1875">光緒乙亥正月</date>
+          <idno type="shelfmark">Sinica 1842</idno>
+          <ref target="https://digital.bodleian.ox.ac.uk/objects/8203fa5a-7b99-40bf-9642-3ae16068072b/">Digital Bodleian</ref>
+          <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/8203fa5a-7b99-40bf-9642-3ae16068072b.json">IIIF manifest</ref>
+          <ref target="https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%201842.xml">Official catalogue snapshot</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Title, five prefaces and contents: 25 source faces. Medical-article text, plates and appendix text are outside this release’s transcription scope.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Source strings and unit order are preserved without Unicode normalization or added punctuation. Unresolved characters/groups and entire seals are represented by source-linked gaiji, retaining their literal navigation markers for exact round trips.</p>
+      </editorialDecl>
+      <charDecl>
+        <glyph xml:id="gaiji-sinica1842-c003-L-g01">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g01⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c004-R-g02">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g02⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c004-L-g03">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g03⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c004-L-g04">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g04⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c004-L-g05">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g05⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c004-L-g06">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g06⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c004-L-g07">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g07⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c004-L-g08">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g08⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c004-L-g09">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g09⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c005-R-g10">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g10⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c005-R-g11">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g11⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c005-L-g12">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g12⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c006-L-g13">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g13⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c007-L-g14">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g14⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c007-L-g15">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g15⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c008-R-g16">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g16⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c009-R-g17">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g17⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c010-R-g18">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g18⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c010-L-g19">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g19⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c011-L-g20">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g20⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c013-R-g21">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g21⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-sinica1842-c013-R-g22">
+          <desc>Unresolved source character or character group.</desc>
+          <mapping type="navigation-marker">⟦g22⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-s1842-c012-r-seal01">
+          <desc>Whole seal mark; exact character segmentation and encoding unresolved.</desc>
+          <mapping type="navigation-marker">⟦gaiji:s1842-c012-r-seal01⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-s1842-c012-r-seal02">
+          <desc>Whole seal mark; exact character segmentation and encoding unresolved.</desc>
+          <mapping type="navigation-marker">⟦gaiji:s1842-c012-r-seal02⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-s1842-c006-r-seal01">
+          <desc>Whole seal mark; exact character segmentation and encoding unresolved.</desc>
+          <mapping type="navigation-marker">⟦gaiji:s1842-c006-r-seal01⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+        <glyph xml:id="gaiji-s1842-c006-r-seal02">
+          <desc>Whole seal mark; exact character segmentation and encoding unresolved.</desc>
+          <mapping type="navigation-marker">⟦gaiji:s1842-c006-r-seal02⟧</mapping>
+          <note>Candidates are not adopted text; see gaiji.json and uncertainties.json.</note>
+        </glyph>
+      </charDecl>
+    </encodingDesc>
+    <profileDesc>
+      <abstract xml:lang="zh-Hant">
+        <p>《西醫舉隅》（Xi yi ju yu）是德貞（John Dudgeon）由《中西聞見錄》醫學文章摘印的1875年論集；牛津館目將印行地著錄為[北京]（Peking），館藏號為Sinica 1842。本冊五篇序文討論醫者的仁心與責任、中西醫書參證及圖解觀察，並記述在京施醫、官員讀者交往與成書刊布的過程，可供晚清醫學史、翻譯史及出版史研究。本版提供原題、五序及跨兩面的目錄共25面AI初錄，以JSON、TXT及TEI保存逐面與欄位定位，另附原件和母刊文字入口、疑讀與印章外字記錄；原書正文及圖版沒有在本版重新轉錄。疑讀已標記，尚未經人類全文校勘或專家審定。</p>
+      </abstract>
+      <abstract xml:lang="en">
+        <p>Xi yi ju yu [Gleanings of Western medicine] is an 1875 compilation of John Dudgeon’s medical articles from Zhong xi wen jian lu, catalogued with the place [Peking] and held as Bodleian Sinica 1842. Its five prefaces discuss medical responsibility, comparison of Chinese and Western medical books, and visual observation, while recounting medical work in Beijing, relationships with officials and readers, and the compilation’s publication. This release supports histories of medicine, translation and publishing through an AI-assisted initial transcription of 25 faces containing the title page, five prefaces and contents. JSON, TXT and TEI preserve face and column references, accompanied by links to the original and existing periodical texts, uncertainty records and seal gaiji. The medical articles and plates are not retranscribed in this release. Uncertain readings are marked; the transcription has not undergone full human collation or expert approval.</p>
+      </abstract>
+      <langUsage>
+        <language ident="lzh">Classical Chinese source transcription</language>
+        <language ident="zh-Hant">Traditional Chinese documentation</language>
+        <language ident="en">English documentation</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>西醫舉隅</term>
+          <term>Xi yi ju yu</term>
+          <term>John Dudgeon</term>
+          <term>德貞</term>
+          <term>Peking</term>
+          <term>北京</term>
+          <term>晚清醫學史</term>
+          <term>medical history</term>
+          <term>late Qing</term>
+          <term>中西聞見錄</term>
+          <term>Zhong xi wen jian lu</term>
+          <term>prefaces</term>
+          <term>medical translation</term>
+          <term>Bodleian Libraries</term>
+          <term>Sinica 1842</term>
+          <term>TEI XML</term>
+          <term>IIIF</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="surface-sinica1842-c002-R">
+      <desc>pp. [1]-[2]; right face; source face SHA-256 46bb634b50d190e036660ec988e2b911c85dd824156115d6fc6c300e5bf48ae0</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/dbd5255d-cb83-4102-b759-47d1ed345e73/full/!1400,1400/0/default.jpg"/>
+      <zone ulx="665" uly="0" lrx="1330" lry="1400" xml:id="zone-sinica1842-c002-R"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c002-L">
+      <desc>pp. [1]-[2]; left face; source face SHA-256 591da5a1f47474587529882bee873e564d31a187ecc276b33cc8fb8b7df73291</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/dbd5255d-cb83-4102-b759-47d1ed345e73/full/!1400,1400/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="665" lry="1400" xml:id="zone-sinica1842-c002-L"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c003-R">
+      <desc>pp. [3]-[4]; right face; source face SHA-256 21e4c04b9a2c13074b39bb7a6401ff23a7c76a8239d015fba9b4ece0d1708fde</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/be2480fe-9e98-4aee-aa30-99a0dc49fab2/full/!1400,1400/0/default.jpg"/>
+      <zone ulx="665" uly="0" lrx="1330" lry="1400" xml:id="zone-sinica1842-c003-R"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c003-L">
+      <desc>pp. [3]-[4]; left face; source face SHA-256 cb2602adbc5f96d43e9147e5c37102065ddf18938b118636c41cd2ccf719c7af</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/be2480fe-9e98-4aee-aa30-99a0dc49fab2/full/!1400,1400/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="665" lry="1400" xml:id="zone-sinica1842-c003-L"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c004-R">
+      <desc>pp. [5]-[6]; right face; source face SHA-256 eaab5284f44fd8a61054198078ac485c6a8e6bbb0e372f7ca7d67914c2d1e62d</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/437090af-5894-4015-9d1b-8470b7d9bc15/full/!1400,1400/0/default.jpg"/>
+      <zone ulx="665" uly="0" lrx="1330" lry="1400" xml:id="zone-sinica1842-c004-R"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c004-L">
+      <desc>pp. [5]-[6]; left face; source face SHA-256 d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/437090af-5894-4015-9d1b-8470b7d9bc15/full/!1400,1400/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="665" lry="1400" xml:id="zone-sinica1842-c004-L"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c005-R">
+      <desc>pp. [7]-[8]; right face; source face SHA-256 be8d1d76f228834d7111e0b94a220f828233101003eb5e49e96318ee7becd849</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/be33b857-69ca-4457-b3f4-76522b444d75/full/!1400,1400/0/default.jpg"/>
+      <zone ulx="665" uly="0" lrx="1330" lry="1400" xml:id="zone-sinica1842-c005-R"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c005-L">
+      <desc>pp. [7]-[8]; left face; source face SHA-256 678f63717963f72665e8d1a60f9217e96170858c17cbae8e04cd38f2c6fbf7db</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/be33b857-69ca-4457-b3f4-76522b444d75/full/!1400,1400/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="665" lry="1400" xml:id="zone-sinica1842-c005-L"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c006-R">
+      <desc>pp. [9]-[10]; right face; source face SHA-256 6a6baaafd2f69a4a342b905644f7a632e84013b52ac5f694bdf8941d7942569e</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/b5f4fa53-29b3-4182-8ea8-a84f9d63411c/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="475" uly="0" lrx="950" lry="1000" xml:id="zone-sinica1842-c006-R"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c006-L">
+      <desc>pp. [9]-[10]; left face; source face SHA-256 97fc4326875e793442f47b33f44b562446d09ce39dbf3a4193712623db9cc956</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/b5f4fa53-29b3-4182-8ea8-a84f9d63411c/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="475" lry="1000" xml:id="zone-sinica1842-c006-L"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c007-R">
+      <desc>pp. [11]-[12]; right face; source face SHA-256 093cb3e713f316924b8e2e1f3dee3aaf978afef91eaabaaf50c51cfa80397ec0</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/20893654-2993-4569-8ae7-2bb3fabdac78/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="475" uly="0" lrx="950" lry="1000" xml:id="zone-sinica1842-c007-R"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c007-L">
+      <desc>pp. [11]-[12]; left face; source face SHA-256 f6fb656977b96691f05495285e22cc5b8e430e85bf18d0aa48f67d3d60c98b87</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/20893654-2993-4569-8ae7-2bb3fabdac78/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="475" lry="1000" xml:id="zone-sinica1842-c007-L"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c008-R">
+      <desc>pp. [13]-[14]; right face; source face SHA-256 e6b0fc2249bff5c75f3fb61281d778052ea3ce8927a4b775ca031f1adca14d2e</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/dc1ea382-f1ab-4176-9170-ee9d9ebc9886/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="475" uly="0" lrx="950" lry="1000" xml:id="zone-sinica1842-c008-R"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c008-L">
+      <desc>pp. [13]-[14]; left face; source face SHA-256 3e9afe8f7ec27f9f182b21d118696f3ed76b1ba0866d9be6ba65f716063d2252</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/dc1ea382-f1ab-4176-9170-ee9d9ebc9886/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="475" lry="1000" xml:id="zone-sinica1842-c008-L"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c009-R">
+      <desc>pp. [15]-[16]; right face; source face SHA-256 9b8332b894bd4e64361d9211f4a1d55e2a19ecba50285abe95e8b12eaced90ae</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/4b541ff3-bb13-4110-9f0f-93ca76869e63/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="475" uly="0" lrx="950" lry="1000" xml:id="zone-sinica1842-c009-R"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c009-L">
+      <desc>pp. [15]-[16]; left face; source face SHA-256 3c110a0361758ddb400785faa7e0717dac43aabaf559694c3766c6336608d293</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/4b541ff3-bb13-4110-9f0f-93ca76869e63/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="475" lry="1000" xml:id="zone-sinica1842-c009-L"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c010-R">
+      <desc>pp. [17]-[18]; right face; source face SHA-256 001ccfb45e4dcb54b35703b957e6bcfd153cd1b7ec281269a50084b108559f01</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/4e07c4b3-f776-4668-9899-70dc24a388f9/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="475" uly="0" lrx="950" lry="1000" xml:id="zone-sinica1842-c010-R"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c010-L">
+      <desc>pp. [17]-[18]; left face; source face SHA-256 f7c9cbeb26c87f1e5c3512b99c0e72cb564a8a34389fce423d0d7e041f227f67</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/4e07c4b3-f776-4668-9899-70dc24a388f9/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="475" lry="1000" xml:id="zone-sinica1842-c010-L"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c011-R">
+      <desc>pp. [19]-[20]; right face; source face SHA-256 440a4ce3f05b03a165ab45308440afab95990d7f89b1f4c2baccb0fa70aa6125</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/7385a8d2-01b5-4592-88db-6af22830b6a0/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="475" uly="0" lrx="950" lry="1000" xml:id="zone-sinica1842-c011-R"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c011-L">
+      <desc>pp. [19]-[20]; left face; source face SHA-256 a34cb6803f090f1e31ecd2703c7e2ea45a8c5f4fb50763182aac22c89f0a2898</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/7385a8d2-01b5-4592-88db-6af22830b6a0/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="475" lry="1000" xml:id="zone-sinica1842-c011-L"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c012-R">
+      <desc>pp. [21]-[22]; right face; source face SHA-256 b28f14434e11fad7f8ed75d07ca7dc6b7c0ffbae90e52c8cc28517b443dfad79</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/d92823b6-03d5-40a8-8019-615416605307/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="475" uly="0" lrx="950" lry="1000" xml:id="zone-sinica1842-c012-R"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c012-L">
+      <desc>pp. [21]-[22]; left face; source face SHA-256 b836404d139a7a9c4f5cf003ec41a3643d82632f75ec6157e704f59e13f46e37</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/d92823b6-03d5-40a8-8019-615416605307/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="475" lry="1000" xml:id="zone-sinica1842-c012-L"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c013-R">
+      <desc>pp. [23]-[24]; right face; source face SHA-256 8d00a8fb1edf722ccd06bde3406e8a4203dbac15eeca0b978e94d091130dd22d</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/443be452-f90b-495a-963f-abf831e20288/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="475" uly="0" lrx="950" lry="1000" xml:id="zone-sinica1842-c013-R"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c013-L">
+      <desc>pp. [23]-[24]; left face; source face SHA-256 3e54c78bb557d08f975579484be4f32e22b65c9e5a988a35b194656b6c70dbf8</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/443be452-f90b-495a-963f-abf831e20288/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="475" lry="1000" xml:id="zone-sinica1842-c013-L"/>
+    </surface>
+    <surface xml:id="surface-sinica1842-c014-R">
+      <desc>pp. [25]-[26]; right face; source face SHA-256 65aaa2ac234254f716d85c369ded4b950b0e123791be1c33f0094b24070b0a42</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/44267180-1fd0-4927-af01-202d51a674a9/full/!1000,1000/0/default.jpg"/>
+      <zone ulx="475" uly="0" lrx="950" lry="1000" xml:id="zone-sinica1842-c014-R"/>
+    </surface>
+  </facsimile>
+  <text xml:lang="lzh">
+    <body>
+      <div type="source-face" xml:id="sinica1842-c002-R">
+        <pb n="1" facs="#zone-sinica1842-c002-R"/>
+        <ab type="main" facs="#zone-sinica1842-c002-R" xml:id="sinica1842-c002-R-c01">光緒乙亥正月</ab>
+        <ab type="main" facs="#zone-sinica1842-c002-R" xml:id="sinica1842-c002-R-c02">西醫舉隅</ab>
+        <ab type="main" facs="#zone-sinica1842-c002-R" xml:id="sinica1842-c002-R-c03">由聞見錄摘印</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c002-L">
+        <pb n="2" facs="#zone-sinica1842-c002-L"/>
+        <ab type="main" facs="#zone-sinica1842-c002-L" xml:id="sinica1842-c002-L-heading">西醫舉隅序</ab>
+        <ab type="main" facs="#zone-sinica1842-c002-L" xml:id="sinica1842-c002-L-c01">泰西德君自游京師有年矣專岐黃業力學不倦於華洋</ab>
+        <ab type="main" facs="#zone-sinica1842-c002-L" xml:id="sinica1842-c002-L-c02">古今醫書無不考索研究探其精蘊日在所設施醫院診</ab>
+        <ab type="main" facs="#zone-sinica1842-c002-L" xml:id="sinica1842-c002-L-c03">視病證全活無算同治辛未同文館添設醫學延為教習</ab>
+        <ab type="main" facs="#zone-sinica1842-c002-L" xml:id="sinica1842-c002-L-c04">余每至館中見其與生徒口講指畫剖析疑義雖素不解</ab>
+        <ab type="main" facs="#zone-sinica1842-c002-L" xml:id="sinica1842-c002-L-c05">醫未敢斷為悉當而所言雅有理致娓娓可聽意其必有</ab>
+        <ab type="main" facs="#zone-sinica1842-c002-L" xml:id="sinica1842-c002-L-c06">著作欲先覩為快而君謙讓未遑不肯相示也今年春請</ab>
+        <ab type="main" facs="#zone-sinica1842-c002-L" xml:id="sinica1842-c002-L-c07">假暫還歐洲始出此編求為序之余惟人有中西之分而</ab>
+        <ab type="main" facs="#zone-sinica1842-c002-L" xml:id="sinica1842-c002-L-c08">形體無異臟腑無異則醫治之法亦必無異況君合中外</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c003-R">
+        <pb n="3" facs="#zone-sinica1842-c003-R"/>
+        <ab type="main" facs="#zone-sinica1842-c003-R" xml:id="sinica1842-c003-R-c01">各書旁參互證推求至當則此書之作固非專己守殘者</ab>
+        <ab type="main" facs="#zone-sinica1842-c003-R" xml:id="sinica1842-c003-R-c02">所可同日而語也昔朝鮮人著東醫寶鑑皆本中說而發</ab>
+        <ab type="main" facs="#zone-sinica1842-c003-R" xml:id="sinica1842-c003-R-c03">揮之著錄家尚以為可存君此書名言奇論多前人所未</ab>
+        <ab type="main" facs="#zone-sinica1842-c003-R" xml:id="sinica1842-c003-R-c04">發吾知不脛而走流傳必廣異日西醫之盛行將有十倍</ab>
+        <ab type="main" facs="#zone-sinica1842-c003-R" xml:id="sinica1842-c003-R-c05">於東醫者固可於此書卜之矣是為序</ab>
+        <ab type="main" facs="#zone-sinica1842-c003-R" xml:id="sinica1842-c003-R-c06">光緒初元春分後三日中州毛昶熙書於鐵如意館中</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c003-L">
+        <pb n="4" facs="#zone-sinica1842-c003-L"/>
+        <ab type="main" facs="#zone-sinica1842-c003-L" xml:id="sinica1842-c003-L-main-01">西醫舉隅序</ab>
+        <ab type="main" facs="#zone-sinica1842-c003-L" xml:id="sinica1842-c003-L-main-02">古人有言不為良相卽為良醫夫相</ab>
+        <ab type="main" facs="#zone-sinica1842-c003-L" xml:id="sinica1842-c003-L-main-03">之良醫之良未有不本於心之良也心</ab>
+        <ab type="main" facs="#zone-sinica1842-c003-L" xml:id="sinica1842-c003-L-main-04">之良若何曰仁曰誠曰不嗜利曰愛人如</ab>
+        <ab type="main" facs="#zone-sinica1842-c003-L" xml:id="sinica1842-c003-L-main-05">己蓋良相良醫分勢雖不同然其出於</ab>
+        <ab type="main" facs="#zone-sinica1842-c003-L" xml:id="sinica1842-c003-L-main-06">心之良則一也余自髫齡博載籍卽有</ab>
+        <ab type="main" facs="#zone-sinica1842-c003-L" xml:id="sinica1842-c003-L-main-07">志效古良相良醫<g ref="#gaiji-sinica1842-c003-L-g01">⟦g01⟧</g></ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c004-R">
+        <pb n="5" facs="#zone-sinica1842-c004-R"/>
+        <ab type="main" facs="#zone-sinica1842-c004-R" xml:id="sinica1842-c004-R-main-01">聖天子調元贊化襄廟謨以壽國脈</ab>
+        <ab type="main" facs="#zone-sinica1842-c004-R" xml:id="sinica1842-c004-R-main-02">診民瘼以壽蒼生迺王<g ref="#gaiji-sinica1842-c004-R-g02">⟦g02⟧</g>州云醫書</ab>
+        <ab type="main" facs="#zone-sinica1842-c004-R" xml:id="sinica1842-c004-R-main-03">尤難讀吾輩雖博通萬卷猶不能</ab>
+        <ab type="main" facs="#zone-sinica1842-c004-R" xml:id="sinica1842-c004-R-main-04">曉其意況以至精之學而責之至庸</ab>
+        <ab type="main" facs="#zone-sinica1842-c004-R" xml:id="sinica1842-c004-R-main-05">之醫故蓋甚畏之也由是言之精其</ab>
+        <ab type="main" facs="#zone-sinica1842-c004-R" xml:id="sinica1842-c004-R-main-06">術足以生人不精其術適足以殺人夫人</ab>
+        <ab type="main" facs="#zone-sinica1842-c004-R" xml:id="sinica1842-c004-R-main-07">命至重無罪之人不得妄殺有罪而擅</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c004-R" xml:id="sinica1842-c004-R-page-marker">一</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c004-L">
+        <pb n="6" facs="#zone-sinica1842-c004-L"/>
+        <ab type="main" facs="#zone-sinica1842-c004-L" xml:id="sinica1842-c004-L-main-01">殺人縣上之州之上之府之上之執法者</ab>
+        <ab type="main" facs="#zone-sinica1842-c004-L" xml:id="sinica1842-c004-L-main-02">司其大吏猶平及秋<g ref="#gaiji-sinica1842-c004-L-g03">⟦g03⟧</g>必於再必於三</ab>
+        <ab type="main" facs="#zone-sinica1842-c004-L" xml:id="sinica1842-c004-L-main-03">然後以其信獻達之秋曹上之天子天子</ab>
+        <ab type="main" facs="#zone-sinica1842-c004-L" xml:id="sinica1842-c004-L-main-04">曰可殺<g ref="#gaiji-sinica1842-c004-L-g04">⟦g04⟧</g>汝殺蓋人命之重而殺之必<g ref="#gaiji-sinica1842-c004-L-g05">⟦g05⟧</g></ab>
+        <ab type="main" facs="#zone-sinica1842-c004-L" xml:id="sinica1842-c004-L-main-05">之<g ref="#gaiji-sinica1842-c004-L-g06">⟦g06⟧</g>也而庸俗之醫直殺之三指之間呼</ab>
+        <ab type="main" facs="#zone-sinica1842-c004-L" xml:id="sinica1842-c004-L-main-06">吸之際與其殺人銳<g ref="#gaiji-sinica1842-c004-L-g07">⟦g07⟧</g>鋒刃而嚴於天子</ab>
+        <ab type="main" facs="#zone-sinica1842-c004-L" xml:id="sinica1842-c004-L-main-07">有司而其人曾無<g ref="#gaiji-sinica1842-c004-L-g08">⟦g08⟧</g>之罪<g ref="#gaiji-sinica1842-c004-L-g09">⟦g09⟧</g>大可畏</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c004-L" xml:id="sinica1842-c004-L-page-marker">二</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c005-R">
+        <pb n="7" facs="#zone-sinica1842-c005-R"/>
+        <ab type="main" facs="#zone-sinica1842-c005-R" xml:id="sinica1842-c005-R-main-01">耳嗚呼死者含冤莫伸生者抱痛去已</ab>
+        <ab type="main" facs="#zone-sinica1842-c005-R" xml:id="sinica1842-c005-R-main-02">而彼方<g ref="#gaiji-sinica1842-c005-R-g10">⟦g10⟧</g>坐<g ref="#gaiji-sinica1842-c005-R-g11">⟦g11⟧</g>不自悔艾其其良心蓋</ab>
+        <ab type="main" facs="#zone-sinica1842-c005-R" xml:id="sinica1842-c005-R-main-03">已先病者而死矣要其初心固無他不過</ab>
+        <ab type="main" facs="#zone-sinica1842-c005-R" xml:id="sinica1842-c005-R-main-04">假托此業以謀衣食肥身家耳曾以人</ab>
+        <ab type="main" facs="#zone-sinica1842-c005-R" xml:id="sinica1842-c005-R-main-05">命為重一出於惻心仁術而愛人如己哉</ab>
+        <ab type="main" facs="#zone-sinica1842-c005-R" xml:id="sinica1842-c005-R-main-06">英國德子固醫師不遠數萬里來京</ab>
+        <ab type="main" facs="#zone-sinica1842-c005-R" xml:id="sinica1842-c005-R-main-07">師施醫十餘年間活人無算而絕不受</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c005-R" xml:id="sinica1842-c005-R-page-marker">二</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c005-L">
+        <pb n="8" facs="#zone-sinica1842-c005-L"/>
+        <ab type="main" facs="#zone-sinica1842-c005-L" xml:id="sinica1842-c005-L-main-01">一錢仁人君子之用心其在斯乎所輯西</ab>
+        <ab type="main" facs="#zone-sinica1842-c005-L" xml:id="sinica1842-c005-L-main-02">醫舉隅一編篇頁無多而闡微窮奧</ab>
+        <ab type="main" facs="#zone-sinica1842-c005-L" xml:id="sinica1842-c005-L-main-03">皆與中國醫書互相發明而補其</ab>
+        <ab type="main" facs="#zone-sinica1842-c005-L" xml:id="sinica1842-c005-L-main-04">所不逮其於西醫殆<g ref="#gaiji-sinica1842-c005-L-g12">⟦g12⟧</g>牛之一毛豹之一</ab>
+        <ab type="main" facs="#zone-sinica1842-c005-L" xml:id="sinica1842-c005-L-main-05">斑龍之一鱗一爪歟余奉命有陪都</ab>
+        <ab type="main" facs="#zone-sinica1842-c005-L" xml:id="sinica1842-c005-L-main-06">之行適德醫師持書索序行李怱促</ab>
+        <ab type="main" facs="#zone-sinica1842-c005-L" xml:id="sinica1842-c005-L-main-07">聊書此以弁簡端時</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c006-R">
+        <pb n="9" facs="#zone-sinica1842-c006-R"/>
+        <ab type="main" facs="#zone-sinica1842-c006-R" xml:id="sinica1842-c006-R-main-01">光緒元年二月上浣完顏崇實樸山氏</ab>
+        <ab type="main" facs="#zone-sinica1842-c006-R" xml:id="sinica1842-c006-R-main-02">自序于怡雲書屋</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c006-R" xml:id="sinica1842-c006-R-page-marker">三</ab>
+        <ab type="seal" facs="#zone-sinica1842-c006-R" xml:id="sinica1842-c006-R-seal-1"><g ref="#gaiji-s1842-c006-r-seal01">⟦gaiji:s1842-c006-r-seal01⟧</g></ab>
+        <ab type="seal" facs="#zone-sinica1842-c006-R" xml:id="sinica1842-c006-R-seal-2"><g ref="#gaiji-s1842-c006-r-seal02">⟦gaiji:s1842-c006-r-seal02⟧</g></ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c006-L">
+        <pb n="10" facs="#zone-sinica1842-c006-L"/>
+        <ab type="main" facs="#zone-sinica1842-c006-L" xml:id="sinica1842-c006-L-main-01"><g ref="#gaiji-sinica1842-c006-L-g13">⟦g13⟧</g></ab>
+        <ab type="main" facs="#zone-sinica1842-c006-L" xml:id="sinica1842-c006-L-main-02">今時言醫之書多矣學醫之人</ab>
+        <ab type="main" facs="#zone-sinica1842-c006-L" xml:id="sinica1842-c006-L-main-03">亦眾矣願就書之言而辨其表</ab>
+        <ab type="main" facs="#zone-sinica1842-c006-L" xml:id="sinica1842-c006-L-main-04">裏虛實寒熱其於人身筋節</ab>
+        <ab type="main" facs="#zone-sinica1842-c006-L" xml:id="sinica1842-c006-L-main-05">部位脈絡血氣之運行固茫</ab>
+        <ab type="main" facs="#zone-sinica1842-c006-L" xml:id="sinica1842-c006-L-main-06">乎莫之見也泰西諸醫則圖</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c007-R">
+        <pb n="11" facs="#zone-sinica1842-c007-R"/>
+        <ab type="main" facs="#zone-sinica1842-c007-R" xml:id="sinica1842-c007-R-main-01">不力求確證而英國醫士德子</ab>
+        <ab type="main" facs="#zone-sinica1842-c007-R" xml:id="sinica1842-c007-R-main-02">固醫學甚允勤明較著者</ab>
+        <ab type="main" facs="#zone-sinica1842-c007-R" xml:id="sinica1842-c007-R-main-03">也同治壬申冬余患腸癰外</ab>
+        <ab type="main" facs="#zone-sinica1842-c007-R" xml:id="sinica1842-c007-R-main-04">潰證發不起時患口腐爛便閉</ab>
+        <ab type="main" facs="#zone-sinica1842-c007-R" xml:id="sinica1842-c007-R-main-05">不通已四旬餘不乏醫診視</ab>
+        <ab type="main" facs="#zone-sinica1842-c007-R" xml:id="sinica1842-c007-R-main-06">均以證為方書所罕見為之棘</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c007-R" xml:id="sinica1842-c007-R-small-name-note">貞</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c007-L">
+        <pb n="12" facs="#zone-sinica1842-c007-L"/>
+        <ab type="main" facs="#zone-sinica1842-c007-L" xml:id="sinica1842-c007-L-main-01">多友人張子曉華及門茶生</ab>
+        <ab type="main" facs="#zone-sinica1842-c007-L" xml:id="sinica1842-c007-L-main-02"><g ref="#gaiji-sinica1842-c007-L-g14">⟦g14⟧</g>力薦子固為余療治乃</ab>
+        <ab type="main" facs="#zone-sinica1842-c007-L" xml:id="sinica1842-c007-L-main-03">一見卽決其無害屬勿妄服藥</ab>
+        <ab type="main" facs="#zone-sinica1842-c007-L" xml:id="sinica1842-c007-L-main-04">惟令安心靜攝潰口污水西</ab>
+        <ab type="main" facs="#zone-sinica1842-c007-L" xml:id="sinica1842-c007-L-main-05">灌之<g ref="#gaiji-sinica1842-c007-L-g15">⟦g15⟧</g>飲食惟擇生精液</ab>
+        <ab type="main" facs="#zone-sinica1842-c007-L" xml:id="sinica1842-c007-L-main-06">易消導者而氣血自然運行</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c008-R">
+        <pb n="13" facs="#zone-sinica1842-c008-R"/>
+        <ab type="main" facs="#zone-sinica1842-c008-R" xml:id="sinica1842-c008-R-main-01">果逾兩閲月而患口肌肉生又兩</ab>
+        <ab type="main" facs="#zone-sinica1842-c008-R" xml:id="sinica1842-c008-R-main-02">閲月而復<g ref="#gaiji-sinica1842-c008-R-g16">⟦g16⟧</g>以通始信其臨證</ab>
+        <ab type="main" facs="#zone-sinica1842-c008-R" xml:id="sinica1842-c008-R-main-03">固獨照而靡遺也今春歸國</ab>
+        <ab type="main" facs="#zone-sinica1842-c008-R" xml:id="sinica1842-c008-R-main-04">瀕行出其所著西醫舉隅見示</ab>
+        <ab type="main" facs="#zone-sinica1842-c008-R" xml:id="sinica1842-c008-R-main-05">余于岐黃術素未肄業及之</ab>
+        <ab type="main" facs="#zone-sinica1842-c008-R" xml:id="sinica1842-c008-R-main-06">更何能贊一詞然卽其所示者</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c008-L">
+        <pb n="14" facs="#zone-sinica1842-c008-L"/>
+        <ab type="main" facs="#zone-sinica1842-c008-L" xml:id="sinica1842-c008-L-main-01">讀之語證必詳擇理必精凡惘</ab>
+        <ab type="main" facs="#zone-sinica1842-c008-L" xml:id="sinica1842-c008-L-main-02">恍無憑之言概置弗錄且不祕</ab>
+        <ab type="main" facs="#zone-sinica1842-c008-L" xml:id="sinica1842-c008-L-main-03">其所得而必公諸世何用心若</ab>
+        <ab type="main" facs="#zone-sinica1842-c008-L" xml:id="sinica1842-c008-L-main-04">斯之周博也蓋於余之病信其</ab>
+        <ab type="main" facs="#zone-sinica1842-c008-L" xml:id="sinica1842-c008-L-main-05">所言之當於所著之書信其所</ab>
+        <ab type="main" facs="#zone-sinica1842-c008-L" xml:id="sinica1842-c008-L-main-06">學者真故于其行也為綴數語</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c009-R">
+        <pb n="15" facs="#zone-sinica1842-c009-R"/>
+        <ab type="main" facs="#zone-sinica1842-c009-R" xml:id="sinica1842-c009-R-main-01">而録之時</ab>
+        <ab type="main" facs="#zone-sinica1842-c009-R" xml:id="sinica1842-c009-R-main-02">光緒建元孟春葉<g ref="#gaiji-sinica1842-c009-R-g17">⟦g17⟧</g>常恩識</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c009-L">
+        <pb n="16" facs="#zone-sinica1842-c009-L"/>
+        <ab type="main" facs="#zone-sinica1842-c009-L" xml:id="sinica1842-c009-L-main-01">予友德子固泰西名醫也奉國</ab>
+        <ab type="main" facs="#zone-sinica1842-c009-L" xml:id="sinica1842-c009-L-main-02">主命施醫中土設館于城東隅市</ab>
+        <ab type="main" facs="#zone-sinica1842-c009-L" xml:id="sinica1842-c009-L-main-03">已十餘年于茲矣予於公餘之暇時</ab>
+        <ab type="main" facs="#zone-sinica1842-c009-L" xml:id="sinica1842-c009-L-main-04">相過從見求治者踵相接無富貴</ab>
+        <ab type="main" facs="#zone-sinica1842-c009-L" xml:id="sinica1842-c009-L-main-05">貧賤悉與施治無德色亦無吝容</ab>
+        <ab type="main" facs="#zone-sinica1842-c009-L" xml:id="sinica1842-c009-L-main-06">孜孜焉以濟人利物為念蓋其居心</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c009-L" xml:id="sinica1842-c009-L-small-name-note">貞</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c010-R">
+        <pb n="17" facs="#zone-sinica1842-c010-R"/>
+        <ab type="main" facs="#zone-sinica1842-c010-R" xml:id="sinica1842-c010-R-main-01">惻怛秉性慈祥由乎天授者然也</ab>
+        <ab type="main" facs="#zone-sinica1842-c010-R" xml:id="sinica1842-c010-R-main-02">去夏予患背疽復轉而為<g ref="#gaiji-sinica1842-c010-R-g18">⟦g18⟧</g></ab>
+        <ab type="main" facs="#zone-sinica1842-c010-R" xml:id="sinica1842-c010-R-main-03">床褥三月有奇羣醫束手延德</ab>
+        <ab type="main" facs="#zone-sinica1842-c010-R" xml:id="sinica1842-c010-R-main-04">君治之應手而愈由是情好益篤</ab>
+        <ab type="main" facs="#zone-sinica1842-c010-R" xml:id="sinica1842-c010-R-main-05">過從無間朅日出所著西醫舉隅</ab>
+        <ab type="main" facs="#zone-sinica1842-c010-R" xml:id="sinica1842-c010-R-main-06">見示并乞言以弁諸首予不敏于軒</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c010-R" xml:id="sinica1842-c010-R-page-marker">一</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c010-L">
+        <pb n="18" facs="#zone-sinica1842-c010-L"/>
+        <ab type="main" facs="#zone-sinica1842-c010-L" xml:id="sinica1842-c010-L-main-01">岐一道素未究心何敢妄贊一詞第</ab>
+        <ab type="main" facs="#zone-sinica1842-c010-L" xml:id="sinica1842-c010-L-main-02">觀德君之為人誠實不妄粹然有</ab>
+        <ab type="main" facs="#zone-sinica1842-c010-L" xml:id="sinica1842-c010-L-main-03">古君子之風觀其行小<g ref="#gaiji-sinica1842-c010-L-g19">⟦g19⟧</g>以信其言</ab>
+        <ab type="main" facs="#zone-sinica1842-c010-L" xml:id="sinica1842-c010-L-main-04">矣其書議論殊奇也發人所未發</ab>
+        <ab type="main" facs="#zone-sinica1842-c010-L" xml:id="sinica1842-c010-L-main-05">于人身之筋絡血脈分縷析細入毫</ab>
+        <ab type="main" facs="#zone-sinica1842-c010-L" xml:id="sinica1842-c010-L-main-06">釐破千古之惑成一家之言雖議論</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c011-R">
+        <pb n="19" facs="#zone-sinica1842-c011-R"/>
+        <ab type="main" facs="#zone-sinica1842-c011-R" xml:id="sinica1842-c011-R-main-01">不必與古會而指陳確鑿迥非無據之</ab>
+        <ab type="main" facs="#zone-sinica1842-c011-R" xml:id="sinica1842-c011-R-main-02">談予既有以信德君之為人卽有以信</ab>
+        <ab type="main" facs="#zone-sinica1842-c011-R" xml:id="sinica1842-c011-R-main-03">德君之書之非無益于世也昔范文</ab>
+        <ab type="main" facs="#zone-sinica1842-c011-R" xml:id="sinica1842-c011-R-main-04">正公云不為良相當為良醫誠醫</ab>
+        <ab type="main" facs="#zone-sinica1842-c011-R" xml:id="sinica1842-c011-R-main-05">之為道足以調變陰陽挽回造化其</ab>
+        <ab type="main" facs="#zone-sinica1842-c011-R" xml:id="sinica1842-c011-R-main-06">用與濟世安民等今德君積數十</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c011-R" xml:id="sinica1842-c011-R-page-marker">二</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c011-L">
+        <pb n="20" facs="#zone-sinica1842-c011-L"/>
+        <ab type="main" facs="#zone-sinica1842-c011-L" xml:id="sinica1842-c011-L-main-01">年之學力汲汲得千古不傳之秘</ab>
+        <ab type="main" facs="#zone-sinica1842-c011-L" xml:id="sinica1842-c011-L-main-02">乃不自<g ref="#gaiji-sinica1842-c011-L-g20">⟦g20⟧</g>為枕中之寶而登之梨棗</ab>
+        <ab type="main" facs="#zone-sinica1842-c011-L" xml:id="sinica1842-c011-L-main-03">傳播將來其度量之宏豈在良相</ab>
+        <ab type="main" facs="#zone-sinica1842-c011-L" xml:id="sinica1842-c011-L-main-04">下哉予既服其術藝之精而尤歆其</ab>
+        <ab type="main" facs="#zone-sinica1842-c011-L" xml:id="sinica1842-c011-L-main-05">居心之厚也故不辭而為之序云</ab>
+        <ab type="main" facs="#zone-sinica1842-c011-L" xml:id="sinica1842-c011-L-main-06">大清光緒紀元年歲在乙亥孟春</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c011-L" xml:id="sinica1842-c011-L-page-marker">三</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c012-R">
+        <pb n="21" facs="#zone-sinica1842-c012-R"/>
+        <ab type="main" facs="#zone-sinica1842-c012-R" xml:id="sinica1842-c012-R-main-01">下澣山陰子韓譚寶琦拝手謹序</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c012-R" xml:id="sinica1842-c012-R-page-marker">三</ab>
+        <ab type="seal" facs="#zone-sinica1842-c012-R" xml:id="sinica1842-c012-R-seal-1"><g ref="#gaiji-s1842-c012-r-seal01">⟦gaiji:s1842-c012-r-seal01⟧</g></ab>
+        <ab type="seal" facs="#zone-sinica1842-c012-R" xml:id="sinica1842-c012-R-seal-2"><g ref="#gaiji-s1842-c012-r-seal02">⟦gaiji:s1842-c012-r-seal02⟧</g></ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c012-L">
+        <pb n="22" facs="#zone-sinica1842-c012-L"/>
+        <ab type="main" facs="#zone-sinica1842-c012-L" xml:id="sinica1842-c012-L-main-01">西醫舉隅序</ab>
+        <ab type="main" facs="#zone-sinica1842-c012-L" xml:id="sinica1842-c012-L-main-02">大抵論天下事而言大而無當其理高而無著者</ab>
+        <ab type="main" facs="#zone-sinica1842-c012-L" xml:id="sinica1842-c012-L-main-03">舉不足以濟醫其尤著者也夫醫人命之所係也</ab>
+        <ab type="main" facs="#zone-sinica1842-c012-L" xml:id="sinica1842-c012-L-main-04">一診之頃禍隨焉一藥之投死生判焉惡可以</ab>
+        <ab type="main" facs="#zone-sinica1842-c012-L" xml:id="sinica1842-c012-L-main-05">弗重乃吾嘗見夫世之言醫者矣談元說妙娓娓動</ab>
+        <ab type="main" facs="#zone-sinica1842-c012-L" xml:id="sinica1842-c012-L-main-06">人而一詢以全體之部位病證之本源則茫乎無以</ab>
+        <ab type="main" facs="#zone-sinica1842-c012-L" xml:id="sinica1842-c012-L-main-07">應也其論益精其道益昧可慨也夫德君子固受</ab>
+        <ab type="main" facs="#zone-sinica1842-c012-L" xml:id="sinica1842-c012-L-main-08">衆善之聘施醫春明十年于茲矣所接逆難怪證未</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c012-L" xml:id="sinica1842-c012-L-running-title">西醫舉隅</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c012-L" xml:id="sinica1842-c012-L-section-label">序</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c012-L" xml:id="sinica1842-c012-L-page-marker">一</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c013-R">
+        <pb n="23" facs="#zone-sinica1842-c013-R"/>
+        <ab type="main" facs="#zone-sinica1842-c013-R" xml:id="sinica1842-c013-R-main-01">易更僕數都人士奇其術競往叩之子固乃譯之</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-R" xml:id="sinica1842-c013-R-main-02">於書以公諸世理求其確言從其樸而醫學之精蘊</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-R" xml:id="sinica1842-c013-R-main-03">則無微弗彰焉特以歸期伊邇行李倉黃之際未及</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-R" xml:id="sinica1842-c013-R-main-04">付梓茲摘其載於聞見錄者裒為此卷<g ref="#gaiji-sinica1842-c013-R-g21">⟦g21⟧</g>曰舉隅</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-R" xml:id="sinica1842-c013-R-main-05">而問言於余聊即管見及者綴數語於簡端以歸</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-R" xml:id="sinica1842-c013-R-main-06">之焉是為序</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-R" xml:id="sinica1842-c013-R-main-07">乙亥春<g ref="#gaiji-sinica1842-c013-R-g22">⟦g22⟧</g>山樵者走筆</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c013-R" xml:id="sinica1842-c013-R-running-title">西醫舉隅</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c013-R" xml:id="sinica1842-c013-R-section-label">序</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c013-R" xml:id="sinica1842-c013-R-page-marker">二</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c013-L">
+        <pb n="24" facs="#zone-sinica1842-c013-L"/>
+        <ab type="main" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-main-01">西醫舉隅目錄</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-main-02">論心</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-main-03">論運血之器</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-main-04">哈斐論</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-main-05">運血之隧道</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-main-06">脈論</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-main-07">目睛論</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-main-08">牛痘考</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-main-09">偽金鷄喇說</ab>
+        <ab type="main" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-main-10">洗寃新說</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-running-title">西醫舉隅</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-section-label">目錄</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c013-L" xml:id="sinica1842-c013-L-page-marker">一</ab>
+      </div>
+      <div type="source-face" xml:id="sinica1842-c014-R">
+        <pb n="25" facs="#zone-sinica1842-c014-R"/>
+        <ab type="main" facs="#zone-sinica1842-c014-R" xml:id="sinica1842-c014-R-main-01">五字辯</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c014-R" xml:id="sinica1842-c014-R-running-title">西醫舉隅</ab>
+        <ab type="paratext" facs="#zone-sinica1842-c014-R" xml:id="sinica1842-c014-R-page-marker">二</ab>
+      </div>
+    </body>
+  </text>
+</TEI>
