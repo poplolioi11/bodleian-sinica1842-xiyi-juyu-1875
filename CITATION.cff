@@ -2,14 +2,15 @@ cff-version: 1.2.0
 message: Please cite this dataset when using the transcription or editorial documentation. See RIGHTS.md for the separate status of historical text and source images.
 type: dataset
 title: '西醫舉隅（1875；Bodleian Sinica 1842）：原題、序文、目錄及來源導覽 / Xi yi ju yu [Gleanings of Western medicine]: Prefaces, contents and source guide'
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
   orcid: https://orcid.org/0009-0003-9738-6914
 url: https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875
 license: CC-BY-4.0
-abstract: Xi yi ju yu [Gleanings of Western medicine] is an 1875 compilation of John Dudgeon’s medical articles from Zhong xi wen jian lu, catalogued with the place [Peking] and held as Bodleian Sinica 1842. Its five prefaces discuss medical responsibility, comparison of Chinese and Western medical books, and visual observation, while recounting medical work in Beijing, relationships with officials and readers, and the compilation’s publication. This release supports histories of medicine, translation and publishing through an AI-assisted initial transcription of 25 faces containing the title page, five prefaces and contents. JSON, TXT and TEI preserve face and column references, accompanied by links to the original and existing periodical texts, uncertainty records and seal gaiji. The medical articles and plates are not retranscribed in this release. Uncertain readings are marked; the transcription has not undergone full human collation or expert approval.
+abstract: Xi yi ju yu [Gleanings of Western medicine] is an 1875 compilation of John Dudgeon’s medical articles from Zhong xi wen jian lu, catalogued with the place [Peking] and held as Bodleian Sinica 1842. Its five prefaces discuss medical responsibility, comparison of Chinese and Western medical books, and visual observation, while recounting medical work in Beijing, relationships with officials and readers, and the compilation’s publication. This release supports histories of medicine, translation and publishing through an AI-assisted, source-revised transcription of 25 faces containing the title page, five prefaces and contents. JSON, TXT and TEI preserve face and column references, accompanied by links to the original and existing periodical texts, uncertainty records and seal gaiji. The medical articles and plates are not retranscribed in this release. Two separately saved AI readings were compared and reviewed against the source images. Uncertain readings are marked; the transcription
+  has not undergone full human collation or expert approval.
 keywords:
 - 西醫舉隅
 - Xi yi ju yu

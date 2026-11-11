@@ -1,6 +1,6 @@
 {
   "dataset_id": "bodleian-sinica1842-xiyi-juyu-1875-frontmatter",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "title": "西醫舉隅（1875；Bodleian Sinica 1842）：原題、序文、目錄及來源導覽 / Xi yi ju yu [Gleanings of Western medicine]: Prefaces, contents and source guide",
   "scope": {
     "extent": "partial",
@@ -18,13 +18,13 @@
     "not_a_full_book_transcription": true
   },
   "quality": {
-    "stage": "AI-assisted initial transcription, limited frontmatter",
+    "stage": "AI source transcription with separately saved independent reading and nonblind original-image adjudication; limited frontmatter",
     "assigned_faces": 25,
     "source_frames_for_assigned_faces": 13,
     "unprocessed_assigned_faces": 0,
-    "body_uncertainty_records": 22,
+    "body_uncertainty_records": 28,
     "whole_seal_gaiji_records": 4,
-    "independent_reading": "not-applied-in-this-initial-release",
+    "independent_reading": "completed by a separately saved fresh-context native reader; incorporated through nonblind source adjudication",
     "human_full_double_collation": "not-run",
     "expert_review": "not-run",
     "peer_review": "not-run",
@@ -33,7 +33,9 @@
     "actual_native_effort": null,
     "native_token_counts": null,
     "quality_not_implied_by_format_or_identifiers": true,
-    "independent_work_note": "A separate independent-reading activity is not incorporated into this fixed initial release; this release retains its initial169 unit strings."
+    "independent_work_note": "Input record declares no initial transcript supplied to the independent reader; this does not prove absence of pretraining memory or expert approval.",
+    "source_adjudication_faces": 25,
+    "historical_result_units": 174
   },
   "source": {
     "historical_title": "西醫舉隅",
@@ -137,7 +139,7 @@
         {
           "id": "sinica1842-c002-L-c01",
           "layer": "main",
-          "text": "泰西德君自游京師有年矣專岐黃業力學不倦於華洋",
+          "text": "泰西德君貞游京師有年矣專岐黃業力學不倦於華洋",
           "bbox": null
         },
         {
@@ -286,7 +288,14 @@
           "id": "sinica1842-c003-L-main-02",
           "layer": "main",
           "text": "古人有言不為良相卽為良醫夫相",
-          "bbox": null
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "行書左部不足分兩個碼位，保留初錄但不宣稱精確字形已核。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c003-L-main-03",
@@ -310,7 +319,14 @@
           "id": "sinica1842-c003-L-main-06",
           "layer": "main",
           "text": "心之良則一也余自髫齡博載籍卽有",
-          "bbox": null
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "同面另處仍未足分卽／即，不全域正規化。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c003-L-main-07",
@@ -320,10 +336,16 @@
           "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "末字右部筆畫待核；不按下頁聖天子語境補定。；穩定表示⟦g01⟧",
+              "reason": "末字右部筆畫待核；不按下頁聖天子語境補定。",
               "extent": 1
             }
           ]
+        },
+        {
+          "id": "sinica1842-c003-L-page-marker",
+          "layer": "paratext",
+          "text": "一",
+          "bbox": null
         }
       ]
     },
@@ -364,12 +386,12 @@
         {
           "id": "sinica1842-c004-R-main-02",
           "layer": "main",
-          "text": "診民瘼以壽蒼生迺王⟦g02⟧州云醫書",
+          "text": "診民瘼以壽蒼生迺王弇州云醫書",
           "bbox": null,
           "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "弇字部件在行楷中連寫；讀法候選不作精確字形確認。；穩定表示⟦g02⟧",
+              "reason": "生後字草書辶及上部連筆；保留原讀，不以獨立稿定迨。",
               "extent": 1
             }
           ]
@@ -378,7 +400,19 @@
           "id": "sinica1842-c004-R-main-03",
           "layer": "main",
           "text": "尤難讀吾輩雖博通萬卷猶不能",
-          "bbox": null
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "首字頂部連筆仍不足分尤／至；兩稿差異保留。",
+              "extent": 1
+            },
+            {
+              "cause": "reading-unresolved",
+              "reason": "卷下左旁及右部草書仍有歧義；保留初稿而不按模型票數採終。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c004-R-main-04",
@@ -389,8 +423,15 @@
         {
           "id": "sinica1842-c004-R-main-05",
           "layer": "main",
-          "text": "之醫故蓋甚畏之也由是言之精其",
-          "bbox": null
+          "text": "之醫歟蓋甚畏之也由是言之精其",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "甚下字上方田狀與下部筆勢可見，但不足穩定裁畏／愚。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c004-R-main-06",
@@ -443,42 +484,37 @@
         {
           "id": "sinica1842-c004-L-main-01",
           "layer": "main",
-          "text": "殺人縣上之州之上之府之上之執法者",
+          "text": "殺之縣上之州之上之府之上之執法有",
           "bbox": null
         },
         {
           "id": "sinica1842-c004-L-main-02",
           "layer": "main",
-          "text": "司其大吏猶平及秋⟦g03⟧必於再必於三",
+          "text": "司其大吏猶平⟦v2g01⟧疑至於再至於三",
           "bbox": null,
           "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "該字行楷部件未能確定，保存候選。；穩定表示⟦g03⟧",
-              "extent": 1
+              "reason": "平與疑間兩個實體字位尚未確讀；不能以平反矜疑的常見詞替代字形證據。",
+              "extent": 2
             }
           ]
         },
         {
           "id": "sinica1842-c004-L-main-03",
           "layer": "main",
-          "text": "然後以其信獻達之秋曹上之天子天子",
+          "text": "然後以其信讞達之秋曹上之天子天子",
           "bbox": null
         },
         {
           "id": "sinica1842-c004-L-main-04",
           "layer": "main",
-          "text": "曰可殺⟦g04⟧汝殺蓋人命之重而殺之必⟦g05⟧",
+          "text": "曰可殺然⟦v2g02⟧殺蓋人命之重而殺之如是",
           "bbox": null,
           "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "可殺後一字筆畫待核。；穩定表示⟦g04⟧",
-              "extent": 1
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "必後一字筆畫待核。；穩定表示⟦g05⟧",
+              "reason": "然下字左旁與右部草書不明；新增之亦沒有足夠獨立字位證據。",
               "extent": 1
             }
           ]
@@ -486,25 +522,18 @@
         {
           "id": "sinica1842-c004-L-main-05",
           "layer": "main",
-          "text": "之⟦g06⟧也而庸俗之醫直殺之三指之間呼",
-          "bbox": null,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "之後一字行楷待核。；穩定表示⟦g06⟧",
-              "extent": 1
-            }
-          ]
+          "text": "之難也而庸俗之醫直殺之三指之間呼",
+          "bbox": null
         },
         {
           "id": "sinica1842-c004-L-main-06",
           "layer": "main",
-          "text": "吸之際與其殺人銳⟦g07⟧鋒刃而嚴於天子",
+          "text": "吸之際然其殺人銳於鋒刃而嚴於天子",
           "bbox": null,
           "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "銳後一字待核，非由文意換字。；穩定表示⟦g07⟧",
+              "reason": "金旁可見，右部兌／屯連筆不足確定。",
               "extent": 1
             }
           ]
@@ -512,20 +541,8 @@
         {
           "id": "sinica1842-c004-L-main-07",
           "layer": "main",
-          "text": "有司而其人曾無⟦g08⟧之罪⟦g09⟧大可畏",
-          "bbox": null,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "此二字連寫，字數按可見字位暫記2，筆畫未定。；穩定表示⟦g08⟧",
-              "extent": 2
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "罪後語氣字待核。；穩定表示⟦g09⟧",
-              "extent": 1
-            }
-          ]
+          "text": "有司而又其人曾無纖毫之罪故大可畏",
+          "bbox": null
         },
         {
           "id": "sinica1842-c004-L-page-marker",
@@ -566,24 +583,26 @@
         {
           "id": "sinica1842-c005-R-main-01",
           "layer": "main",
-          "text": "耳嗚呼死者含冤莫伸生者抱痛去已",
-          "bbox": null
-        },
-        {
-          "id": "sinica1842-c005-R-main-02",
-          "layer": "main",
-          "text": "而彼方⟦g10⟧坐⟦g11⟧不自悔艾其其良心蓋",
+          "text": "耳嗚呼死者含寃莫伸生者抱痛⟦v2g03⟧已",
           "bbox": null,
           "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "方後一字行楷未解。；穩定表示⟦g10⟧",
+              "reason": "痛下的連筆字未決；語意不單獨採無。",
               "extent": 1
-            },
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c005-R-main-02",
+          "layer": "main",
+          "text": "而彼方⟦v2g04⟧然食息不自悔艾豈其良心盡",
+          "bbox": null,
+          "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "坐後兩字連寫待核；不以流暢句改定。；穩定表示⟦g11⟧",
-              "extent": 2
+              "reason": "方下首字左酉狀，右部連寫未定；僅把後續然食息分清。",
+              "extent": 1
             }
           ]
         },
@@ -596,14 +615,21 @@
         {
           "id": "sinica1842-c005-R-main-04",
           "layer": "main",
-          "text": "假托此業以謀衣食肥身家耳曾以人",
+          "text": "假托此業以謀衣食肥身家何嘗以人",
           "bbox": null
         },
         {
           "id": "sinica1842-c005-R-main-05",
           "layer": "main",
-          "text": "命為重一出於惻心仁術而愛人如己哉",
-          "bbox": null
+          "text": "命為重一出於⟦v2g05⟧心仁術而愛人如己哉",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "心前字左右旁尚不能確定。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c005-R-main-06",
@@ -667,26 +693,25 @@
         {
           "id": "sinica1842-c005-L-main-03",
           "layer": "main",
-          "text": "皆與中國醫書互相發明而補其",
+          "text": "皆足與中國醫書互相發明而補其",
           "bbox": null
         },
         {
           "id": "sinica1842-c005-L-main-04",
           "layer": "main",
-          "text": "所不逮其於西醫殆⟦g12⟧牛之一毛豹之一",
-          "bbox": null,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "此字行楷待核；不從常見比喻補字。；穩定表示⟦g12⟧",
-              "extent": 1
-            }
-          ]
+          "text": "所不逮其於西醫殆猶牛之一毛豹之一",
+          "bbox": null
         },
         {
           "id": "sinica1842-c005-L-main-05",
           "layer": "main",
-          "text": "斑龍之一鱗一爪歟余奉命有陪都",
+          "text": "斑龍之一鱗一爪歟余奉",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-L-raised-column",
+          "layer": "main",
+          "text": "命有陪都",
           "bbox": null
         },
         {
@@ -699,6 +724,12 @@
           "id": "sinica1842-c005-L-main-07",
           "layer": "main",
           "text": "聊書此以弁簡端時",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c005-L-page-marker",
+          "layer": "paratext",
+          "text": "三",
           "bbox": null
         }
       ]
@@ -741,7 +772,7 @@
         {
           "id": "sinica1842-c006-R-main-02",
           "layer": "main",
-          "text": "自序于怡雲書屋",
+          "text": "自序于怡之書屋",
           "bbox": null
         },
         {
@@ -758,7 +789,7 @@
           "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "整章穩定gaiji；候選崇實未升格精確碼位確認。 白地黑框/朱白反相式篆章，右部山/宗式組合，左部宀/貝式組合。",
+              "reason": "整章穩定gaiji；候選崇實未升格精確碼位確認。",
               "extent": "unknown"
             }
           ]
@@ -771,7 +802,7 @@
           "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "整章穩定gaiji，包含外框內所有可見篆形，不以候選正文填入。 外框方章，右列上方多條縱筆/橫畫交疊、下方三角山形，左列大曲筆縱下；字數仍未知。",
+              "reason": "整章穩定gaiji，包含外框內所有可見篆形，不以候選正文填入。",
               "extent": "unknown"
             }
           ]
@@ -808,15 +839,8 @@
         {
           "id": "sinica1842-c006-L-main-01",
           "layer": "main",
-          "text": "⟦g13⟧",
-          "bbox": null,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "獨立題署一字行楷待核；兩候選不作同字異體判定。；穩定表示⟦g13⟧",
-              "extent": 1
-            }
-          ]
+          "text": "敘",
+          "bbox": null
         },
         {
           "id": "sinica1842-c006-L-main-02",
@@ -827,8 +851,15 @@
         {
           "id": "sinica1842-c006-L-main-03",
           "layer": "main",
-          "text": "亦眾矣願就書之言而辨其表",
-          "bbox": null
+          "text": "亦眾矣頗就書之言而辨其表",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "行楷上部罒／血的分筆仍不穩，維持初錄碼位並附爭議，不全域正規化。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c006-L-main-04",
@@ -882,12 +913,19 @@
           "id": "sinica1842-c007-R-main-01",
           "layer": "main",
           "text": "不力求確證而英國醫士德子",
-          "bbox": null
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "首字形似不，示的讀法另稿已曝光；圖示的文意不能單獨選字，保留原讀與疑處。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c007-R-main-02",
           "layer": "main",
-          "text": "固醫學甚允勤明較著者",
+          "text": "固醫學其尤彰明較著者",
           "bbox": null
         },
         {
@@ -899,13 +937,13 @@
         {
           "id": "sinica1842-c007-R-main-04",
           "layer": "main",
-          "text": "潰證發不起時患口腐爛便閉",
+          "text": "潰證幾不起時患口腐爛便閉",
           "bbox": null
         },
         {
           "id": "sinica1842-c007-R-main-05",
           "layer": "main",
-          "text": "不通已四旬餘不乏醫診視",
+          "text": "不通已四旬餘不乏名醫診視",
           "bbox": null
         },
         {
@@ -952,46 +990,39 @@
         {
           "id": "sinica1842-c007-L-main-01",
           "layer": "main",
-          "text": "多友人張子曉華及門茶生",
+          "text": "手友人張子曉華及門蔡生",
           "bbox": null
         },
         {
           "id": "sinica1842-c007-L-main-02",
           "layer": "main",
-          "text": "⟦g14⟧力薦子固為余療治乃",
-          "bbox": null,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "欄首兩字連寫待核。；穩定表示⟦g14⟧",
-              "extent": 2
-            }
-          ]
+          "text": "博弁力薦子固為余療治乃",
+          "bbox": null
         },
         {
           "id": "sinica1842-c007-L-main-03",
           "layer": "main",
           "text": "一見卽決其無害屬勿妄服藥",
-          "bbox": null
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "行書即形的左部缺乏區分兩碼位的穩定筆畫；不自動換成通行即。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c007-L-main-04",
           "layer": "main",
-          "text": "惟令安心靜攝潰口污水西",
+          "text": "惟令安心靜攝潰口污水洒",
           "bbox": null
         },
         {
           "id": "sinica1842-c007-L-main-05",
           "layer": "main",
-          "text": "灌之⟦g15⟧飲食惟擇生精液",
-          "bbox": null,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "灌之後兩字待核，不做現代醫學釋義。；穩定表示⟦g15⟧",
-              "extent": 2
-            }
-          ]
+          "text": "濯之必潔飲食惟擇生精液",
+          "bbox": null
         },
         {
           "id": "sinica1842-c007-L-main-06",
@@ -1032,17 +1063,24 @@
           "id": "sinica1842-c008-R-main-01",
           "layer": "main",
           "text": "果逾兩閲月而患口肌肉生又兩",
-          "bbox": null
-        },
-        {
-          "id": "sinica1842-c008-R-main-02",
-          "layer": "main",
-          "text": "閲月而復⟦g16⟧以通始信其臨證",
           "bbox": null,
           "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "復後一字門內筆畫待核，未依病程修正。；穩定表示⟦g16⟧",
+              "reason": "門內兌／兑的細節在現有像素下不確定；不因二稿拼法而統一。",
+              "extent": 1
+            }
+          ]
+        },
+        {
+          "id": "sinica1842-c008-R-main-02",
+          "layer": "main",
+          "text": "閲月而便閉以通始信其臨證",
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "同面另處仍逐處保留字形問題。",
               "extent": 1
             }
           ]
@@ -1050,7 +1088,7 @@
         {
           "id": "sinica1842-c008-R-main-03",
           "layer": "main",
-          "text": "固獨照而靡遺也今春歸國",
+          "text": "固燭照而靡遺也今春歸國",
           "bbox": null
         },
         {
@@ -1069,7 +1107,14 @@
           "id": "sinica1842-c008-R-main-06",
           "layer": "main",
           "text": "更何能贊一詞然卽其所示者",
-          "bbox": null
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "草書左半未穩定區分，維持初碼位附候選。",
+              "extent": 1
+            }
+          ]
         }
       ]
     },
@@ -1104,13 +1149,27 @@
           "id": "sinica1842-c008-L-main-01",
           "layer": "main",
           "text": "讀之語證必詳擇理必精凡惘",
-          "bbox": null
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "右部罔／尚在連筆中仍有歧義；不按惝恍常見詞改字。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c008-L-main-02",
           "layer": "main",
           "text": "恍無憑之言概置弗錄且不祕",
-          "bbox": null
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "左旁礻／禾精確碼位仍須較清字形，不以語詞常用字統一。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c008-L-main-03",
@@ -1121,7 +1180,7 @@
         {
           "id": "sinica1842-c008-L-main-04",
           "layer": "main",
-          "text": "斯之周博也蓋於余之病信其",
+          "text": "斯之周溥也蓋於余之病信其",
           "bbox": null
         },
         {
@@ -1169,20 +1228,20 @@
           "id": "sinica1842-c009-R-main-01",
           "layer": "main",
           "text": "而録之時",
-          "bbox": null
-        },
-        {
-          "id": "sinica1842-c009-R-main-02",
-          "layer": "main",
-          "text": "光緒建元孟春葉⟦g17⟧常恩識",
           "bbox": null,
           "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "葉後字左旁行楷未定；不用人物名稱旁證替字。；穩定表示⟦g17⟧",
+              "reason": "金旁可見，排除歸；右部彔／录的細節仍留字形問題。",
               "extent": 1
             }
           ]
+        },
+        {
+          "id": "sinica1842-c009-R-main-02",
+          "layer": "main",
+          "text": "光緒建元孟春葉河常恩識",
+          "bbox": null
         }
       ]
     },
@@ -1223,14 +1282,21 @@
         {
           "id": "sinica1842-c009-L-main-02",
           "layer": "main",
-          "text": "主命施醫中土設館于城東隅市",
+          "text": "主命施醫中土設館于城東衢市",
           "bbox": null
         },
         {
           "id": "sinica1842-c009-L-main-03",
           "layer": "main",
           "text": "已十餘年于茲矣予於公餘之暇時",
-          "bbox": null
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "頂部艹／丷行書連筆尚不宜直接歸一。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c009-L-main-04",
@@ -1247,13 +1313,19 @@
         {
           "id": "sinica1842-c009-L-main-06",
           "layer": "main",
-          "text": "孜孜焉以濟人利物為念蓋其居心",
+          "text": "孜〻焉以濟人利物為念蓋其居心",
           "bbox": null
         },
         {
           "id": "sinica1842-c009-L-small-name-note",
           "layer": "paratext",
           "text": "貞",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c009-L-page-marker",
+          "layer": "paratext",
+          "text": "一",
           "bbox": null
         }
       ]
@@ -1289,27 +1361,33 @@
         {
           "id": "sinica1842-c010-R-main-01",
           "layer": "main",
-          "text": "惻怛秉性慈祥由乎天授者然也",
+          "text": "慷慨秉性慈祥由乎天挺者然也",
           "bbox": null
         },
         {
           "id": "sinica1842-c010-R-main-02",
           "layer": "main",
-          "text": "去夏予患背疽復轉而為⟦g18⟧",
-          "bbox": null,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "為後三字行楷與末字異體待核，保留可見字位。；穩定表示⟦g18⟧",
-              "extent": 3
-            }
-          ]
+          "text": "去夏予患疽復轉而為瘻纏綿",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c010-R-small-back-note",
+          "layer": "paratext",
+          "text": "背",
+          "bbox": null
         },
         {
           "id": "sinica1842-c010-R-main-03",
           "layer": "main",
           "text": "床褥三月有奇羣醫束手延德",
-          "bbox": null
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "君羊上下／左右的行楷分界仍留字形問題，不照二稿通行字全域替換。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c010-R-main-04",
@@ -1320,7 +1398,7 @@
         {
           "id": "sinica1842-c010-R-main-05",
           "layer": "main",
-          "text": "過從無間朅日出所著西醫舉隅",
+          "text": "過從無間暇日出所著西醫舉隅",
           "bbox": null
         },
         {
@@ -1379,32 +1457,37 @@
         {
           "id": "sinica1842-c010-L-main-03",
           "layer": "main",
-          "text": "古君子之風觀其行小⟦g19⟧以信其言",
-          "bbox": null,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "行後至以信前字樣待核，暫記兩字位。；穩定表示⟦g19⟧",
-              "extent": 2
-            }
-          ]
+          "text": "古君子之風觀其行亦足以信其言",
+          "bbox": null
         },
         {
           "id": "sinica1842-c010-L-main-04",
           "layer": "main",
-          "text": "矣其書議論殊奇也發人所未發",
+          "text": "矣其書議論新奇人所未發",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c010-L-small-inline-note",
+          "layer": "paratext",
+          "text": "也發",
           "bbox": null
         },
         {
           "id": "sinica1842-c010-L-main-05",
           "layer": "main",
-          "text": "于人身之筋絡血脈分縷析細入毫",
+          "text": "于人身之筋絡血脈條分縷析細入毫",
           "bbox": null
         },
         {
           "id": "sinica1842-c010-L-main-06",
           "layer": "main",
           "text": "釐破千古之惑成一家之言雖議論",
+          "bbox": null
+        },
+        {
+          "id": "sinica1842-c010-L-page-marker",
+          "layer": "paratext",
+          "text": "二",
           "bbox": null
         }
       ]
@@ -1447,7 +1530,14 @@
           "id": "sinica1842-c011-R-main-02",
           "layer": "main",
           "text": "談予既有以信德君之為人卽有以信",
-          "bbox": null
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "左部連筆不足核精確碼位；維持初碼位附爭議。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c011-R-main-03",
@@ -1458,13 +1548,13 @@
         {
           "id": "sinica1842-c011-R-main-04",
           "layer": "main",
-          "text": "正公云不為良相當為良醫誠醫",
+          "text": "正公云不為良相當為良醫誠以醫",
           "bbox": null
         },
         {
           "id": "sinica1842-c011-R-main-05",
           "layer": "main",
-          "text": "之為道足以調變陰陽挽回造化其",
+          "text": "之為道足以調燮陰陽挽回造化其",
           "bbox": null
         },
         {
@@ -1512,7 +1602,7 @@
         {
           "id": "sinica1842-c011-L-main-01",
           "layer": "main",
-          "text": "年之學力汲汲得千古不傳之秘",
+          "text": "年之學力孜〻矻〻得千古不傳之秘",
           "bbox": null
         },
         {
@@ -1523,7 +1613,7 @@
           "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "自後一字行楷待核；穩定表示⟦g20⟧",
+              "reason": "自後字行書仍不能定；左禾狀與下轉鉤可見，但不得從不自私的常見句法選私。",
               "extent": 1
             }
           ]
@@ -1537,7 +1627,7 @@
         {
           "id": "sinica1842-c011-L-main-04",
           "layer": "main",
-          "text": "下哉予既服其術藝之精而尤歆其",
+          "text": "下哉予既服其技藝之精而尤歎其",
           "bbox": null
         },
         {
@@ -1593,7 +1683,14 @@
           "id": "sinica1842-c012-R-main-01",
           "layer": "main",
           "text": "下澣山陰子韓譚寶琦拝手謹序",
-          "bbox": null
+          "bbox": null,
+          "gaps": [
+            {
+              "cause": "reading-unresolved",
+              "reason": "手旁右部較像丰式，缺乏共的八腳；保留初讀拝，不以常見拱手慣語覆寫，拝／拜精確碼位仍待核。",
+              "extent": 1
+            }
+          ]
         },
         {
           "id": "sinica1842-c012-R-page-marker",
@@ -1609,7 +1706,7 @@
           "gaps": [
             {
               "cause": "image-insufficient",
-              "reason": "完整方章以一個穩定gaiji表示，保留整章實際像素及形狀/候選；不是聲稱印字已逐字辨讀。 上方框線內右部環曲/長垂筆、左部多條縱筆及橫連，內部墨線可見，但原像素不足以逐篆確認。",
+              "reason": "完整方章以一個穩定gaiji表示，保留整章實際像素及形狀/候選；不是聲稱印字已逐字辨讀。",
               "extent": "unknown"
             }
           ]
@@ -1622,7 +1719,7 @@
           "gaps": [
             {
               "cause": "image-insufficient",
-              "reason": "完整方章以一個穩定gaiji表示，保留整章實際像素及形狀/候選；不是聲稱印字已逐字辨讀。 下方黑地白文方章；右部宀/目狀橫畫與下垂雙足，左部縱筆及折鉤/橫畫；不可按姓名直接定字。",
+              "reason": "完整方章以一個穩定gaiji表示，保留整章實際像素及形狀/候選；不是聲稱印字已逐字辨讀。",
               "extent": "unknown"
             }
           ]
@@ -1666,43 +1763,43 @@
         {
           "id": "sinica1842-c012-L-main-02",
           "layer": "main",
-          "text": "大抵論天下事而言大而無當其理高而無著者",
+          "text": "大抵論天下事、而其言大而無當、其理高而無著者、",
           "bbox": null
         },
         {
           "id": "sinica1842-c012-L-main-03",
           "layer": "main",
-          "text": "舉不足以濟醫其尤著者也夫醫人命之所係也",
+          "text": "舉不足以有濟、醫其尤著者也、夫醫人命之所係也、",
           "bbox": null
         },
         {
           "id": "sinica1842-c012-L-main-04",
           "layer": "main",
-          "text": "一診之頃禍隨焉一藥之投死生判焉惡可以",
+          "text": "一診之頃禍福隨焉、一藥之投死生判焉、是惡可以",
           "bbox": null
         },
         {
           "id": "sinica1842-c012-L-main-05",
           "layer": "main",
-          "text": "弗重乃吾嘗見夫世之言醫者矣談元說妙娓娓動",
+          "text": "弗重、乃吾嘗見夫世之言醫者矣、談元說妙娓娓動",
           "bbox": null
         },
         {
           "id": "sinica1842-c012-L-main-06",
           "layer": "main",
-          "text": "人而一詢以全體之部位病證之本源則茫乎無以",
+          "text": "人、而一詢以全體之部位病證之本源、則茫乎無以",
           "bbox": null
         },
         {
           "id": "sinica1842-c012-L-main-07",
           "layer": "main",
-          "text": "應也其論益精其道益昧可慨也夫德君子固受",
+          "text": "應也、其論益精、其道益昧、可慨也夫、德君子固、受",
           "bbox": null
         },
         {
           "id": "sinica1842-c012-L-main-08",
           "layer": "main",
-          "text": "衆善之聘施醫春明十年于茲矣所接逆難怪證未",
+          "text": "衆善之聘、施醫春明、十年於茲矣、所拯逆難怪證未",
           "bbox": null
         },
         {
@@ -1715,12 +1812,6 @@
           "id": "sinica1842-c012-L-section-label",
           "layer": "paratext",
           "text": "序",
-          "bbox": null
-        },
-        {
-          "id": "sinica1842-c012-L-page-marker",
-          "layer": "paratext",
-          "text": "一",
           "bbox": null
         }
       ]
@@ -1756,44 +1847,37 @@
         {
           "id": "sinica1842-c013-R-main-01",
           "layer": "main",
-          "text": "易更僕數都人士奇其術競往叩之子固乃譯之",
+          "text": "易更僕數、都人士奇其術、競往扣之、子固乃譯之",
           "bbox": null
         },
         {
           "id": "sinica1842-c013-R-main-02",
           "layer": "main",
-          "text": "於書以公諸世理求其確言從其樸而醫學之精蘊",
+          "text": "於書以公諸世、理求其確、言從其樸、而醫學之精蘊、",
           "bbox": null
         },
         {
           "id": "sinica1842-c013-R-main-03",
           "layer": "main",
-          "text": "則無微弗彰焉特以歸期伊邇行李倉黃之際未及",
+          "text": "則無微弗彰焉、特以歸期伊邇、行李倉黃之際、未及",
           "bbox": null
         },
         {
           "id": "sinica1842-c013-R-main-04",
           "layer": "main",
-          "text": "付梓茲摘其載於聞見錄者裒為此卷⟦g21⟧曰舉隅",
-          "bbox": null,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "卷後一字待核，不依常見命名句式改字；穩定表示⟦g21⟧",
-              "extent": 1
-            }
-          ]
+          "text": "付梓、茲摘其載於聞見錄者、裒為此卷、字曰舉隅",
+          "bbox": null
         },
         {
           "id": "sinica1842-c013-R-main-05",
           "layer": "main",
-          "text": "而問言於余聊即管見及者綴數語於簡端以歸",
+          "text": "而問言於余、聊即管見所及者、綴數語於簡端、以歸",
           "bbox": null
         },
         {
           "id": "sinica1842-c013-R-main-06",
           "layer": "main",
-          "text": "之焉是為序",
+          "text": "之焉、是為序",
           "bbox": null
         },
         {
@@ -1804,7 +1888,7 @@
           "gaps": [
             {
               "cause": "reading-unresolved",
-              "reason": "署款山前一字待核，不以作者別號旁證補字；穩定表示⟦g22⟧",
+              "reason": "春後竹頭及下部繁筆有箋候選形，但現有1000衍生圖仍未足以定署名，不按人名表補。",
               "extent": 1
             }
           ]
@@ -1819,12 +1903,6 @@
           "id": "sinica1842-c013-R-section-label",
           "layer": "paratext",
           "text": "序",
-          "bbox": null
-        },
-        {
-          "id": "sinica1842-c013-R-page-marker",
-          "layer": "paratext",
-          "text": "二",
           "bbox": null
         }
       ]
@@ -1908,7 +1986,7 @@
         {
           "id": "sinica1842-c013-L-main-09",
           "layer": "main",
-          "text": "偽金鷄喇說",
+          "text": "僞金鷄納說",
           "bbox": null
         },
         {
@@ -1980,7 +2058,7 @@
         {
           "id": "sinica1842-c014-R-page-marker",
           "layer": "paratext",
-          "text": "二",
+          "text": "一",
           "bbox": null
         }
       ]

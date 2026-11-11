@@ -1,0 +1,24 @@
+{
+  "scope": "Later collection mark is separated from author text and four author seals. No image is distributed.",
+  "records": [
+    {
+      "id": "collection-mark-c002-R-01",
+      "page_id": "sinica1842-c002-R",
+      "status": "unresolved-lettering",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dbd5255d-cb83-4102-b759-47d1ed345e73.json",
+      "source_frame_sha256": "45131473955d0b3648a6c415b424106e2879340026c046b7bdca0c7f856b3990",
+      "source_region_xyxy": [
+        910,
+        1090,
+        1015,
+        1180
+      ],
+      "coordinate_frame": "Official1330x1400 derivative pixels",
+      "description": "Faint circular collection stamp below the printed frame, Latin perimeter and central emblem.",
+      "candidate": "BODLEIAN LIBRARY",
+      "candidate_not_inserted_in_author_text": true,
+      "char_count": "unknown",
+      "source_images_included": false
+    }
+  ]
+}

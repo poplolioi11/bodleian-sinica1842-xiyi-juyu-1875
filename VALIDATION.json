@@ -1,39 +1,55 @@
 {
-  "schema": "publication-format-checks/1",
-  "checked_at": "2026-11-11T11:27:40.329078+00:00",
-  "scope": "25 frontmatter faces only",
-  "json_txt_tei_exact_unit_strings_and_order": "passed",
+  "scope": "25frontmatterfaces only",
+  "version": "0.2.0",
   "face_count": 25,
-  "unit_count": 169,
-  "body_uncertainty_records": 22,
-  "whole_seal_gaiji_records": 4,
-  "tei_relaxng": {
-    "status": "passed",
-    "edition": "P5 4.12.0",
-    "schema_sha256": "b0f115095ead2ccc6933aa3365c6f4a82cba3b2ec7eee7f76bb616d7a63b7e48",
-    "edition_url": "https://www.tei-c.org/Vault/P5/4.12.0/"
+  "historical_unit_count": 174,
+  "later_collection_marks_separate": 1,
+  "initial_units_mapped": 169,
+  "independent_units_mapped": 175,
+  "raw_unit_mapping": "all once; source reviewed",
+  "raw_initial_and_independent_preserved": true,
+  "native_source_adjudication_faces": 25,
+  "body_uncertainty_records": 28,
+  "whole_author_seal_gaiji": 4,
+  "json_txt_tei_strings_and_order": "passed",
+  "original_source_punctuation_count": 37,
+  "small_note_anchors": 4,
+  "tei_p5_4_12_0_relaxng": "passed",
+  "cff_1_2_0_schema": "passed",
+  "privacy_allowlist": "passed",
+  "private_annotations_contract_for_v020": {
+    "exit_code": 3,
+    "status": "incomplete",
+    "pending_types": {
+      "unknown-model": 176
+    },
+    "other_pending_types": [],
+    "explicit_alignment_units": 176,
+    "true_initial_units": 169,
+    "historical_result_units": 174,
+    "events": 218,
+    "not_full_traceability": true
   },
-  "cff": {
-    "status": "passed",
-    "version": "1.2.0",
-    "schema_url": "https://citation-file-format.github.io/1.2.0/schema.json",
-    "schema_sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b"
-  },
+  "text_publication_policy_for_v020": "allowed-as-recorded; no legal certification",
+  "human_or_expert_review": false,
+  "accuracy_measurement": false,
+  "full_book_complete": false,
+  "remote_publication_performed": false,
   "negative_checks": [
     {
       "case": "changed-character",
       "rejected": true
     },
     {
-      "case": "missing-column",
+      "case": "missing-unit",
       "rejected": true
     },
     {
-      "case": "exchanged-order",
+      "case": "swapped-order",
       "rejected": true
     },
     {
-      "case": "changed-source",
+      "case": "source-hash-change",
       "rejected": true
     },
     {
@@ -41,32 +57,15 @@
       "rejected": true
     },
     {
-      "case": "changed-uncertainty-position",
+      "case": "uncertainty-offset-change",
       "rejected": true
     },
     {
-      "case": "external-entity",
+      "case": "external-DTD",
       "rejected": true
     }
   ],
-  "public_allowlist": "passed",
-  "private_paths_credentials_images_programs": "not included in checked package",
-  "source_surface_unit_bindings": "169 of169 checked against fixed source-linked initial master",
-  "scholarly_accuracy_certified": false,
-  "expert_review_completed": false,
-  "full_book_transcription_complete": false,
-  "full_tei_apparatus_odd_schematron": "not-run",
-  "complete_private_annotations_contract": false,
-  "private_annotation_check": {
-    "status": "incomplete",
-    "exit_code": 3,
-    "pending_count": 169,
-    "pending_types": {
-      "unknown-model": 169
-    },
-    "unit_output_bindings": 169,
-    "legacy_span_events": 26,
-    "independent_work": "not-applied-in-this-initial-release"
-  },
-  "text_publication_purpose_gate": "allowed-as-recorded; not legal certification"
+  "body_strings_unchanged_from_first_v020_candidate": true,
+  "coverage_title_correction_overlay_prepared": true,
+  "known_v010_baseline_preserved": true
 }

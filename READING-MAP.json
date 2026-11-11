@@ -1,8 +1,8 @@
 {
   "schema": "source-reading-map/1",
-  "scope": "Two small name notes within the25 assigned frontmatter faces.",
+  "scope": "Four anchored small notes in the25face transcription; raised命有陪都 remains its own main-column unit.",
   "offset_convention": "Zero-based Unicode codepoint boundary in the anchor unit; an anchor is editorial navigation and is not added punctuation or a textual emendation.",
-  "faithful_text_unchanged": true,
+  "faithful_text_unchanged": false,
   "continuous_reading_layer_produced": false,
   "notes": [
     {
@@ -26,6 +26,23 @@
       "placement": "Small name note beside the character固 in予友德子固. Keep this note separate from the main-text reading order.",
       "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b541ff3-bb13-4110-9f0f-93ca76869e63.json",
       "source_face_sha256": "3c110a0361758ddb400785faa7e0717dac43aabaf559694c3766c6336608d293"
+    },
+    {
+      "page_id": "sinica1842-c010-R",
+      "note_unit_id": "sinica1842-c010-R-small-back-note",
+      "note_text": "背",
+      "anchor_unit_id": "sinica1842-c010-R-main-02",
+      "anchor_boundary": 4,
+      "placement": "小字背在患旁、疽上，與主欄等大文字分開；初稿把背串進患疽。"
+    },
+    {
+      "page_id": "sinica1842-c010-L",
+      "note_unit_id": "sinica1842-c010-L-small-inline-note",
+      "note_text": "也發",
+      "anchor_unit_id": "sinica1842-c010-L-main-04",
+      "anchor_boundary": 7,
+      "placement": "奇下人上較小二字可見也的轉鉤與發的癶／下部繁筆；獨立稿留gaiji，這次非盲回圖判讀也發，不接在頁末。"
     }
-  ]
+  ],
+  "faithful_text_version": "0.2.0 source-adjudicated"
 }
