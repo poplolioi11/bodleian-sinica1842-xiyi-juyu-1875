@@ -1,0 +1,122 @@
+{
+  "version": "0.3.0",
+  "full_book_text_provided": false,
+  "reviewed_frontmatter_faces": 25,
+  "new_initial_complete_prose_faces": [
+    "c033-L",
+    "c034-R",
+    "c034-L",
+    "c035-R",
+    "c035-L",
+    "c036-R",
+    "c036-L",
+    "c037-R",
+    "c037-L",
+    "c038-R",
+    "c038-L",
+    "c039-R",
+    "c077-L",
+    "c078-R",
+    "c078-L",
+    "c079-R",
+    "c079-L",
+    "c080-L",
+    "c081-R",
+    "c081-L",
+    "c082-L",
+    "c083-R",
+    "c083-L",
+    "c084-R",
+    "c086-L",
+    "c087-R",
+    "c087-L",
+    "c088-R"
+  ],
+  "new_initial_selected_figure_table_surfaces": [
+    {
+      "id": "c030-L",
+      "role": "diagram"
+    },
+    {
+      "id": "c031-R",
+      "role": "diagram"
+    },
+    {
+      "id": "c032-full",
+      "role": "foldout"
+    },
+    {
+      "id": "c050-R",
+      "role": "diagram"
+    },
+    {
+      "id": "c051-full",
+      "role": "foldout"
+    },
+    {
+      "id": "c056-R",
+      "role": "diagram"
+    },
+    {
+      "id": "c060-R",
+      "role": "diagram"
+    },
+    {
+      "id": "c089-L",
+      "role": "diagram-only-in-mixed-face"
+    },
+    {
+      "id": "c090-R",
+      "role": "diagram"
+    },
+    {
+      "id": "c093-L",
+      "role": "diagram"
+    },
+    {
+      "id": "c093-R",
+      "role": "table-only-in-mixed-face"
+    },
+    {
+      "id": "c094-R",
+      "role": "diagram"
+    },
+    {
+      "id": "c095-full",
+      "role": "foldout"
+    }
+  ],
+  "total_surfaces": 66,
+  "not_all41_complete_prose": true,
+  "excluded_operational_text": [
+    "c060-L",
+    "c061–c074",
+    "c075-R"
+  ],
+  "c060_R_scope": "Isolated eye diagram only; adjacent operational text excluded",
+  "other_parent_periodical_prose": "Existing text linked in READING-GUIDE.md; not copied into this dataset",
+  "appendix": "五字辯 is not newly transcribed; existing parent-periodical text linked; Oxford final-face comparison remains outside this release.",
+  "review_states": [
+    {
+      "id": "front25",
+      "faces": 25,
+      "stage": "AI source transcription with separately saved independent reading and nonblind original-image adjudication; limited frontmatter",
+      "independent_reading": "completed by a separately saved fresh-context native reader; incorporated through nonblind source adjudication",
+      "source_adjudication_faces": 25,
+      "fixed_from_version": "0.2.0",
+      "units": 174
+    },
+    {
+      "id": "new41",
+      "surfaces": 41,
+      "complete_prose_faces": 28,
+      "selected_figure_table_surfaces": 13,
+      "stage": "AI source-image initial transcription; not independently collated",
+      "units_excluding_separate_notes": 561,
+      "separate_notes": 21,
+      "table_records": 4,
+      "uncertainty_records": 144,
+      "gaiji_records": 7
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "scope": "Four original tables; fixed textual projections already occur once among the561 new native units. Structural records are parallel metadata, not extra transcribed tables.",
+  "tables": [
+    {
+      "id": "c086-L-T01",
+      "page_id": "c086-L",
+      "title_as_printed": "身量\n由頂至踵",
+      "columns_as_printed": [
+        "性別",
+        "尺",
+        "寸",
+        "分"
+      ],
+      "rows_as_printed": [
+        [
+          "男",
+          "五",
+          "六",
+          "六"
+        ],
+        [
+          "女",
+          "五",
+          "一",
+          "○"
+        ]
+      ],
+      "note": "Source row labels/numerals only, no unit conversion. Links previous small-type explanation; not calibrated character boxes.",
+      "reading_position": {
+        "after_unit": "c086-L-c09",
+        "before_unit": "c086-L-c10"
+      }
+    },
+    {
+      "id": "c087-R-T01",
+      "page_id": "c087-R",
+      "header_groups_right_to_left": [
+        "由頂至\n交骨",
+        "由交骨\n至足",
+        "由肩至\n手稍",
+        "大腿骨\n脛骨",
+        "跗骨\n骼髆骨",
+        "臂骨\n髀骨"
+      ],
+      "row_groups_as_printed": [
+        [
+          "二九六",
+          "二九○",
+          "二五六",
+          "一五八\n一二七",
+          "一二二\n一○五",
+          "○九五\n○十一"
+        ],
+        [
+          "二七一",
+          "二五十二",
+          "二二八",
+          "一四六\n一一九",
+          "一一五\n○十二七",
+          "○八八\n○九九"
+        ]
+      ],
+      "note": "Merged header groups and original stacked numeral strings preserved provisionally. No decimal points, zero conversion, sex labels or one-to-one bone measurement mapping supplied where not explicitly printed. Group alignment and dense subcolumns require independent source review.",
+      "reading_position": {
+        "before_unit": "c087-R-c01"
+      }
+    },
+    {
+      "id": "c088-R-T01",
+      "page_id": "c088-R",
+      "header_groups_right_to_left": [
+        "年齒",
+        "門牙",
+        "輔牙",
+        "虎牙",
+        "邊牙\n前",
+        "邊牙\n後",
+        "槽牙\n前",
+        "槽牙\n中",
+        "槽牙\n後"
+      ],
+      "rows_as_printed": [
+        [
+          "七",
+          "○",
+          "○",
+          "○",
+          "○",
+          "○",
+          "四",
+          "○",
+          "○"
+        ],
+        [
+          "八",
+          "四",
+          "○",
+          "○",
+          "○",
+          "○",
+          "四",
+          "○",
+          "○"
+        ],
+        [
+          "九",
+          "四",
+          "四",
+          "○",
+          "○",
+          "○",
+          "四",
+          "○",
+          "○"
+        ],
+        [
+          "十",
+          "四",
+          "四",
+          "○",
+          "四",
+          "○",
+          "四",
+          "○",
+          "○"
+        ],
+        [
+          "十一",
+          "四",
+          "四",
+          "○",
+          "四",
+          "四",
+          "四",
+          "○",
+          "○"
+        ],
+        [
+          "十二至十三年",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "○",
+          "○"
+        ],
+        [
+          "十四至十五",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "○"
+        ],
+        [
+          "十六至十八",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四"
+        ]
+      ],
+      "note": "Circles remain source ○, not numeric0. Small stacked age ranges retained provisionally, require independent source review. No contemporary dental/clinical assertion.",
+      "reading_position": {
+        "before_unit": "c088-R-c01"
+      }
+    },
+    {
+      "id": "c093-R-table1",
+      "source_scope": "table-only, adjacent prose uses existing-text link",
+      "header": [
+        "層位",
+        "橫徑",
+        "斜徑",
+        "前後徑"
+      ],
+      "source_table_groups": [
+        {
+          "title": "婦人度數",
+          "rows": [
+            [
+              "上",
+              "五寸二分",
+              "四寸八分",
+              "四寸二分五厘"
+            ],
+            [
+              "中",
+              "四寸七分五厘",
+              "五寸二分",
+              "四寸七分"
+            ],
+            [
+              "下",
+              "四寸二分",
+              "○",
+              "五寸"
+            ]
+          ]
+        },
+        {
+          "title": "男人度數",
+          "rows": [
+            [
+              "上",
+              "四寸六分",
+              "四寸五分",
+              "四寸"
+            ],
+            [
+              "中",
+              "四寸",
+              "五寸",
+              "五寸"
+            ],
+            [
+              "下",
+              "三寸",
+              "○",
+              "三寸三分"
+            ]
+          ]
+        }
+      ],
+      "no_unit_conversion": true,
+      "no_circle_to_zero_normalization": true
+    }
+  ]
+}

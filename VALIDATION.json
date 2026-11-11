@@ -1,71 +1,48 @@
 {
-  "scope": "25frontmatterfaces only",
-  "version": "0.2.0",
-  "face_count": 25,
-  "historical_unit_count": 174,
-  "later_collection_marks_separate": 1,
-  "initial_units_mapped": 169,
-  "independent_units_mapped": 175,
-  "raw_unit_mapping": "all once; source reviewed",
-  "raw_initial_and_independent_preserved": true,
-  "native_source_adjudication_faces": 25,
-  "body_uncertainty_records": 28,
-  "whole_author_seal_gaiji": 4,
-  "json_txt_tei_strings_and_order": "passed",
-  "original_source_punctuation_count": 37,
-  "small_note_anchors": 4,
-  "tei_p5_4_12_0_relaxng": "passed",
-  "cff_1_2_0_schema": "passed",
-  "privacy_allowlist": "passed",
-  "private_annotations_contract_for_v020": {
-    "exit_code": 3,
-    "status": "incomplete",
-    "pending_types": {
-      "unknown-model": 176
-    },
-    "other_pending_types": [],
-    "explicit_alignment_units": 176,
-    "true_initial_units": 169,
-    "historical_result_units": 174,
-    "events": 218,
-    "not_full_traceability": true
-  },
-  "text_publication_policy_for_v020": "allowed-as-recorded; no legal certification",
-  "human_or_expert_review": false,
-  "accuracy_measurement": false,
-  "full_book_complete": false,
-  "remote_publication_performed": false,
-  "negative_checks": [
-    {
-      "case": "changed-character",
-      "rejected": true
-    },
-    {
-      "case": "missing-unit",
-      "rejected": true
-    },
-    {
-      "case": "swapped-order",
-      "rejected": true
-    },
-    {
-      "case": "source-hash-change",
-      "rejected": true
-    },
-    {
-      "case": "duplicate-id",
-      "rejected": true
-    },
-    {
-      "case": "uncertainty-offset-change",
-      "rejected": true
-    },
-    {
-      "case": "external-DTD",
-      "rejected": true
-    }
+  "schema": "fixed-integration-check/1",
+  "status": "passed",
+  "front25_deep_equal_to_v020": true,
+  "new41_source_files_verified": 67,
+  "new_native_units": 561,
+  "new_separate_notes": 21,
+  "original_tables": 4,
+  "new_stored_codepoints_units_and_notes": 8702,
+  "export_units": 803,
+  "derived_margin_export_units": 47,
+  "roundtrip": "passed",
+  "source_judgment_performed": false,
+  "accuracy_measured": false,
+  "public_common_envelope_included": false,
+  "public_master_and_export_map": "book.json + EXPORT-MAP.json",
+  "public_only_reconstruction": "passed",
+  "fixed_new41_unit_strings": "passed",
+  "negative_mutations_rejected": [
+    "TXT one-codepoint substitution",
+    "TEI changed unit",
+    "swapped TXT unit mapping",
+    "duplicate unit identity",
+    "fixed source hash changed"
   ],
-  "body_strings_unchanged_from_first_v020_candidate": true,
-  "coverage_title_correction_overlay_prepared": true,
-  "known_v010_baseline_preserved": true
+  "source_exclusions": "passed",
+  "semantic_traceability": {
+    "actual_exit": 3,
+    "pending_reason": "unknown-model only",
+    "observations": 803
+  },
+  "text_publication_gate": {
+    "purpose": "text-publication",
+    "status": "allowed-as-recorded"
+  },
+  "text_publication_global_pending": [],
+  "tei_official_rng": {
+    "version": "TEI P5 4.12.0",
+    "sha256": "b0f115095ead2ccc6933aa3365c6f4a82cba3b2ec7eee7f76bb616d7a63b7e48",
+    "status": "passed"
+  },
+  "cff_full_schema_formatchecker": {
+    "version": "1.2.0",
+    "sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b",
+    "status": "passed"
+  },
+  "text_publication_note": "allowed-as-recorded verifies bounded purpose records, not global legal certification or scholarly quality."
 }

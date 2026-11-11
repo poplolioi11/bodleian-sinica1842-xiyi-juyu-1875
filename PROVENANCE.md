@@ -1,11 +1,15 @@
 # 底本與來源
 
-原書：《西醫舉隅》。館目拼音原樣`xi yi ju yu`，展示名`Xi yi ju yu`；方括號英文題名為編者意譯。歷史作者德貞（John Dudgeon），館目著錄1875、[Peking]。題頁可見「光緒乙亥正月」「由聞見錄摘印」；題署、原版年代及數位資料製作日期分開，不以掃描上傳時間作原書刊年。
+原書《西醫舉隅》，歷史作者德貞（John Dudgeon）。館目拼音原樣為`xi yi ju yu`，展示名`Xi yi ju yu`；英文方括號題名是整理者意譯。牛津館目著錄1875年、[Peking]，館藏號Sinica1842。題頁寫明「光緒乙亥正月」「由聞見錄摘印」。書目年代與題頁年代不等同當冊實際印次日期，後者未定；掃描及數位資料製作日期另計。
 
-館藏：Bodleian Libraries, University of Oxford，Sinica 1842。[原件](https://digital.bodleian.ox.ac.uk/objects/8203fa5a-7b99-40bf-9642-3ae16068072b/)、[IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/8203fa5a-7b99-40bf-9642-3ae16068072b.json)、[官方館目固定快照](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%201842.xml)。館目快照於前次查核保存，本次於2026-11-11按原題及前置範圍核對；不是宣稱已讀取館目現行網頁全部內容。
+- [Digital Bodleian原件](https://digital.bodleian.ox.ac.uk/objects/8203fa5a-7b99-40bf-9642-3ae16068072b/)
+- [官方IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/8203fa5a-7b99-40bf-9642-3ae16068072b.json)
+- [牛津官方館目固定快照](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%201842.xml)
 
-原題面為第2張右面；五序從第2張左面至第13張右面；目錄為第13張左面及第14張右面，合25面，來源整圖13張。這些數字是數位影像/展開面定位，非原刻葉碼。book.json每面連至官方canvas、來源整圖URL及實際來源影像校驗值，左右面與來源衍生圖像素範圍明列。單位字框未確認處保留null。
+0.3.0沿用前版已固定的館目、來源身分及條款證據，未宣稱本輪重新讀取現行網頁。原題面為第2張右面；五序為第2張左面至第13張右面；目錄為第13張左面及第14張右面，合25面、13張來源整圖。這些是影像序及展開面定位，並非原刻葉碼。此25面資料與0.2.0完全相同；既有兩份AI讀稿比較及非盲回圖修訂狀態保留。
 
-來源影像與裁片未包含於本包；SHA-256只檢查相應保存位元組，不證明原圖支持某一讀字。正文、插圖及附目是本冊其他層，未在本版新錄；現有母刊文字入口與缺口另見READING-GUIDE.md。
+本版另依凍結初錄新增28面完整正文與13個選定圖字／表格層，並非41面完整正文或全書全文。固定初錄的SHA-256為`ea13af7adcaacb26454f5f564d3f4110a907be254fe62d4a03f08383e9d3f7a1`；此hash辨識保存資料，不是館方簽章或正確率證據。本輪整合不重新判字，也不提高新增41面的校讀狀態。
 
-0.2.0依同一底本兩份保存讀稿與非盲原圖裁定製作；原0.1.0固定版保留。可核對變更與來源面校驗值見CHANGES.json；數位影像順序仍非原刻頁碼。
+SOURCE-MAP.json提供原件canvas、影像入口、實得檔hash、尺寸與可用來源區塊。新稿主要使用來源預覽及隔離裁片，未宣稱原生解析度或逐字座標。c060右的來源URL是右半部定位連結，實際檔為既有固定預覽裁片；相鄰操作性正文未納入。原圖與裁片不隨本包散布。
+
+母刊已有正文只連結，不抄成自製轉錄；本冊與母刊尚未逐字全校。COVERAGE.json及READING-GUIDE.md列出新增層、既有文字入口、未新錄及排除範圍。五字辯不是本版新錄範圍。0.1.0及0.2.0固定版本與引用保留。

@@ -1,5 +1,7 @@
 {
-  "position_convention": "0-based Unicode codepoints, end exclusive; candidates are not adopted text. Some unresolved forms retain their literal current reading.",
+  "position_convention": "Zero-based Unicode codepoints, end exclusive; literal strings are not normalized. matching_ranges may list multiple locations without selecting one. Inherited front25 records retain their original fields.",
+  "front25_inherited_records": 32,
+  "new41_initial_records": 144,
   "records": [
     {
       "id": "sinica1842-c003-L-g01",
@@ -638,6 +640,2924 @@
       "bbox": null,
       "retains_current_literal": true,
       "exact_encoding_status": "unknown"
+    },
+    {
+      "id": "U1842-pulse01-曾",
+      "unit_id": "c033-L-c02",
+      "span": "曾",
+      "preferred": "曾",
+      "candidates": [
+        "嘗"
+      ],
+      "reason": "Fine upper form in source not fully resolved.",
+      "page_id": "c033-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/820a0805-25dd-42cc-9e8f-86f11161034e.json",
+      "matching_ranges": [
+        {
+          "start": 9,
+          "end": 10
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-pulse01-先",
+      "unit_id": "c033-L-c02",
+      "span": "先",
+      "preferred": "先",
+      "candidates": [
+        "帥"
+      ],
+      "reason": "Source glyph after 氣血之 not normalized by familiar wording.",
+      "page_id": "c033-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/820a0805-25dd-42cc-9e8f-86f11161034e.json",
+      "matching_ranges": [
+        {
+          "start": 21,
+          "end": 22
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-pulse01-榮",
+      "unit_id": "c033-L-c02",
+      "span": "榮",
+      "preferred": "榮",
+      "candidates": [
+        "營"
+      ],
+      "reason": "Upper stacked component source glyph uncertain; no terminology normalization.",
+      "page_id": "c033-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/820a0805-25dd-42cc-9e8f-86f11161034e.json",
+      "matching_ranges": [
+        {
+          "start": 23,
+          "end": 24
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-pulse01-竊",
+      "unit_id": "c033-L-c04",
+      "span": "竊",
+      "preferred": "竊",
+      "candidates": [
+        "密"
+      ],
+      "reason": "Dense upper/interior form insufficient at fixed preview.",
+      "page_id": "c033-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/820a0805-25dd-42cc-9e8f-86f11161034e.json",
+      "matching_ranges": [
+        {
+          "start": 7,
+          "end": 8
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-pulse01-長註",
+      "unit_id": "c034-R-n01",
+      "span": "草減",
+      "preferred": "草減",
+      "candidates": [
+        "草殞"
+      ],
+      "reason": "Long double-line note has fine repeated glyphs and may continue into next column; native source recheck and segmentation required. Entire note attempted, not silently omitted.",
+      "page_id": "c034-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c8bb2bf3-d72b-4dd9-becd-a4ed2d927f22.json",
+      "matching_ranges": [
+        {
+          "start": 20,
+          "end": 22
+        },
+        {
+          "start": 55,
+          "end": 57
+        }
+      ],
+      "range_precision": "all literal matches; original record does not select one occurrence"
+    },
+    {
+      "id": "U1842-pulse01-河堤錨",
+      "unit_id": "c034-R-n02",
+      "span": "河堤",
+      "preferred": "河堤",
+      "candidates": [],
+      "reason": "Small note location identified within source column; exact attachment after 有類 provisional, must recheck source.",
+      "page_id": "c034-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c8bb2bf3-d72b-4dd9-becd-a4ed2d927f22.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-pulse01-旁礴",
+      "unit_id": "c035-R-c09",
+      "span": "礴",
+      "preferred": "礴",
+      "candidates": [
+        "磅"
+      ],
+      "reason": "Dense stone-radical glyph beside 旁, preserve source candidate.",
+      "page_id": "c035-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/73919852-9389-4b7b-9b36-21853f74043a.json",
+      "matching_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-pulse01-己",
+      "unit_id": "c035-R-c06",
+      "span": "己",
+      "preferred": "己",
+      "candidates": [
+        "巳"
+      ],
+      "reason": "Source loop terminal unclear; year not silently corrected by chronology.",
+      "page_id": "c035-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/73919852-9389-4b7b-9b36-21853f74043a.json",
+      "matching_ranges": [
+        {
+          "start": 25,
+          "end": 26
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-c034L-01",
+      "unit_id": "c034-L-c03",
+      "extent_original_glyphs": 1,
+      "candidates": [
+        "槖",
+        "橐"
+      ],
+      "reason": "Dense printed first glyph before 筒; encoding unresolved at preview resolution.",
+      "page_id": "c034-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c8bb2bf3-d72b-4dd9-becd-a4ed2d927f22.json"
+    },
+    {
+      "id": "U1842-b002-01",
+      "unit_id": "c036-R-c02",
+      "span": "茫",
+      "preferred": "茫",
+      "candidates": [
+        "乖"
+      ],
+      "reason": "First glyph before 然 at fixed preview unresolved.",
+      "page_id": "c036-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/eccb1696-efcd-412f-a31b-da2d32b3d6c9.json",
+      "matching_ranges": [
+        {
+          "start": 10,
+          "end": 11
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b002-02",
+      "unit_id": "c036-R-c02",
+      "span": "籍",
+      "preferred": "籍",
+      "candidates": [
+        "藉"
+      ],
+      "reason": "Source codepoint not normalized by common usage.",
+      "page_id": "c036-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/eccb1696-efcd-412f-a31b-da2d32b3d6c9.json",
+      "matching_ranges": [
+        {
+          "start": 19,
+          "end": 20
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b002-03",
+      "unit_id": "c036-R-c03",
+      "span": "胗",
+      "preferred": "胗",
+      "candidates": [
+        "診"
+      ],
+      "reason": "Printed left component appears flesh-radical; candidate retained.",
+      "page_id": "c036-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/eccb1696-efcd-412f-a31b-da2d32b3d6c9.json",
+      "matching_ranges": [
+        {
+          "start": 9,
+          "end": 10
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b002-04",
+      "unit_id": "c036-R-c04",
+      "span": "勿",
+      "preferred": "勿",
+      "candidates": [
+        "分"
+      ],
+      "reason": "Source glyph before 論 looks 勿; not repaired by wording.",
+      "page_id": "c036-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/eccb1696-efcd-412f-a31b-da2d32b3d6c9.json",
+      "matching_ranges": [
+        {
+          "start": 24,
+          "end": 25
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b002-05",
+      "unit_id": "c036-R-c07",
+      "span": "慈",
+      "preferred": "慈",
+      "candidates": [
+        "蔥"
+      ],
+      "reason": "Source first glyph in 慈葱 unclear; both source glyphs remain visible rather than medical normalization.",
+      "page_id": "c036-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/eccb1696-efcd-412f-a31b-da2d32b3d6c9.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b002-06",
+      "unit_id": "c036-L-c05",
+      "span": "耆",
+      "preferred": "耆",
+      "candidates": [
+        "彥"
+      ],
+      "reason": "Dense upper component at preview resolution.",
+      "page_id": "c036-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/eccb1696-efcd-412f-a31b-da2d32b3d6c9.json",
+      "matching_ranges": [
+        {
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b002-07",
+      "unit_id": "c036-L-c06",
+      "span": "决",
+      "preferred": "决",
+      "candidates": [
+        "決"
+      ],
+      "reason": "Source left radical ice/water uncertain.",
+      "page_id": "c036-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/eccb1696-efcd-412f-a31b-da2d32b3d6c9.json",
+      "matching_ranges": [
+        {
+          "start": 14,
+          "end": 15
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b002-08",
+      "unit_id": "c036-L-c07",
+      "span": "姙",
+      "preferred": "姙",
+      "candidates": [
+        "妊"
+      ],
+      "reason": "Historical glyph form kept; fine component unresolved.",
+      "page_id": "c036-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/eccb1696-efcd-412f-a31b-da2d32b3d6c9.json",
+      "matching_ranges": [
+        {
+          "start": 10,
+          "end": 11
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b002-09",
+      "unit_id": "c037-R-c01",
+      "span": "恆",
+      "preferred": "恆",
+      "candidates": [
+        "恒"
+      ],
+      "reason": "Right component not confidently distinguished at preview.",
+      "page_id": "c037-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/00780407-bb2d-4220-8cc9-4d2729510e3c.json",
+      "matching_ranges": [
+        {
+          "start": 26,
+          "end": 27
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b002-10",
+      "unit_id": "c037-R-c10",
+      "span": "又何謂",
+      "preferred": "又何謂",
+      "candidates": [],
+      "reason": "Native source read attempted: first3characters faint; whole frame used as complement. Smaller final-column classification needs independent source review.",
+      "page_id": "c037-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/00780407-bb2d-4220-8cc9-4d2729510e3c.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-c035L-layout",
+      "unit_id": "c035-L-n05",
+      "span": "昔西醫亦云有氣管者",
+      "preferred": "昔西醫亦云有氣管者",
+      "candidates": [],
+      "reason": "All observed small-type text attempted, but grammatical status/attachment to following 空虛 needs independent source check. No whole unprocessed paragraph represented as a single missing glyph.",
+      "page_id": "c035-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/73919852-9389-4b7b-9b36-21853f74043a.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 9
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-c035L-昔",
+      "unit_id": "c035-L-n05",
+      "span": "昔",
+      "preferred": "昔",
+      "candidates": [
+        "言"
+      ],
+      "reason": "First printed glyph of small type at native source unclear.",
+      "page_id": "c035-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/73919852-9389-4b7b-9b36-21853f74043a.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-c035L-opening",
+      "unit_id": "c035-L-n01",
+      "span": "若心果能生血",
+      "preferred": "若心果能生血",
+      "candidates": [],
+      "reason": "Narrow native ROI clipped this opening; wholeframe used, resolution limit remains.",
+      "page_id": "c035-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/73919852-9389-4b7b-9b36-21853f74043a.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 6
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-c035L-01",
+      "unit_id": "c035-L-n05",
+      "extent_original_glyphs": 1,
+      "candidates": [
+        "宰",
+        "辛"
+      ],
+      "reason": "Dense upper roof/vertical form before 割 not settled by meaning.",
+      "page_id": "c035-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/73919852-9389-4b7b-9b36-21853f74043a.json"
+    },
+    {
+      "id": "U1842-c035L-02",
+      "unit_id": "c035-L-n05",
+      "extent_original_glyphs": 1,
+      "candidates": [
+        "豁",
+        "鈴"
+      ],
+      "reason": "Dense radical combination before 然 unresolved after source reading.",
+      "page_id": "c035-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/73919852-9389-4b7b-9b36-21853f74043a.json"
+    },
+    {
+      "id": "U1842-b004-01",
+      "unit_id": "c038-R-c02",
+      "span": "睽",
+      "preferred": "睽",
+      "candidates": [
+        "暌"
+      ],
+      "reason": "Fine left component in original after 未免有.",
+      "page_id": "c038-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/589a618c-9605-48bf-9983-369a8d43f688.json",
+      "matching_ranges": [
+        {
+          "start": 19,
+          "end": 20
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-02",
+      "unit_id": "c038-R-c04",
+      "span": "隱寓",
+      "preferred": "隱寓",
+      "candidates": [
+        "隱㝢"
+      ],
+      "reason": "Source fine roof/interior form not normalized.",
+      "page_id": "c038-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/589a618c-9605-48bf-9983-369a8d43f688.json",
+      "matching_ranges": [
+        {
+          "start": 7,
+          "end": 9
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-03",
+      "unit_id": "c038-R-c06",
+      "span": "不於免",
+      "preferred": "不於免",
+      "candidates": [
+        "不免於"
+      ],
+      "reason": "Apparent source word order retained, not repaired by grammar.",
+      "page_id": "c038-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/589a618c-9605-48bf-9983-369a8d43f688.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-04",
+      "unit_id": "c038-R-c06",
+      "span": "虛虛",
+      "preferred": "虛虛",
+      "candidates": [
+        "虛實"
+      ],
+      "reason": "Repeated source glyph kept, no doctrinal correction.",
+      "page_id": "c038-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/589a618c-9605-48bf-9983-369a8d43f688.json",
+      "matching_ranges": [
+        {
+          "start": 17,
+          "end": 19
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-05",
+      "unit_id": "c038-L-c03",
+      "span": "子盾",
+      "preferred": "子盾",
+      "candidates": [
+        "矛盾"
+      ],
+      "reason": "First source glyph looks 子; not modern phrase normalization.",
+      "page_id": "c038-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/589a618c-9605-48bf-9983-369a8d43f688.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-06",
+      "unit_id": "c038-L-c04",
+      "span": "裡",
+      "preferred": "裡",
+      "candidates": [
+        "裏"
+      ],
+      "reason": "Source form fine components uncertain.",
+      "page_id": "c038-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/589a618c-9605-48bf-9983-369a8d43f688.json",
+      "matching_ranges": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-07",
+      "unit_id": "c038-L-c06",
+      "span": "致望",
+      "preferred": "致望",
+      "candidates": [
+        "致墾",
+        "致懇"
+      ],
+      "reason": "Dense glyph after 致 retained for source check.",
+      "page_id": "c038-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/589a618c-9605-48bf-9983-369a8d43f688.json",
+      "matching_ranges": [
+        {
+          "start": 24,
+          "end": 26
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-08",
+      "unit_id": "c039-R-c03",
+      "span": "莫弗",
+      "preferred": "莫弗",
+      "candidates": [
+        "莫拂"
+      ],
+      "reason": "Proper-name/word transliteration not identified through external inference.",
+      "page_id": "c039-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9065828d-b55f-4639-a165-17c10cab2067.json",
+      "matching_ranges": [
+        {
+          "start": 7,
+          "end": 9
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-09",
+      "unit_id": "c039-R-c03",
+      "span": "遣",
+      "preferred": "遣",
+      "candidates": [
+        "遠"
+      ],
+      "reason": "Source walking/enclosure form unresolved at preview.",
+      "page_id": "c039-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9065828d-b55f-4639-a165-17c10cab2067.json",
+      "matching_ranges": [
+        {
+          "start": 17,
+          "end": 18
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-10",
+      "unit_id": "c039-R-c07",
+      "span": "已",
+      "preferred": "已",
+      "candidates": [
+        "己"
+      ],
+      "reason": "Source loop/terminal ambiguous.",
+      "page_id": "c039-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9065828d-b55f-4639-a165-17c10cab2067.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-11",
+      "unit_id": "c039-R-c09",
+      "span": "錄注言",
+      "preferred": "錄注言",
+      "candidates": [
+        "錄註言"
+      ],
+      "reason": "Small type source radical and phrase unresolved.",
+      "page_id": "c039-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9065828d-b55f-4639-a165-17c10cab2067.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-12",
+      "unit_id": "c039-R-c10",
+      "span": "廬",
+      "preferred": "廬",
+      "candidates": [
+        "臚"
+      ],
+      "reason": "Printed dense first glyph before 陳 not replaced by idiom.",
+      "page_id": "c039-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9065828d-b55f-4639-a165-17c10cab2067.json",
+      "matching_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-13",
+      "unit_id": "c039-R-c10",
+      "span": "候脈",
+      "preferred": "候脈",
+      "candidates": [
+        "侯脈"
+      ],
+      "reason": "Faint folded-edge glyph; whole frame used to complement crop.",
+      "page_id": "c039-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9065828d-b55f-4639-a165-17c10cab2067.json",
+      "matching_ranges": [
+        {
+          "start": 8,
+          "end": 10
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b004-smalltype",
+      "unit_id": "c039-R-c09",
+      "span": "錄注言",
+      "preferred": "錄注言",
+      "candidates": [],
+      "reason": "Two final smaller-type columns continue source text; semantic body/inset classification remains provisional. No letters omitted or silently relocated.",
+      "page_id": "c039-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9065828d-b55f-4639-a165-17c10cab2067.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-01",
+      "unit_id": "c077-L-c02",
+      "span": "矜",
+      "preferred": "矜",
+      "candidates": [
+        "奔",
+        "賙"
+      ],
+      "reason": "Source fine upper components uncertain.",
+      "page_id": "c077-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/03dae51e-f635-4eaa-add9-4f0ec1a3e861.json",
+      "matching_ranges": [
+        {
+          "start": 21,
+          "end": 22
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-02",
+      "unit_id": "c077-L-c03",
+      "span": "癲癇",
+      "preferred": "癲癇",
+      "candidates": [
+        "瘋癲"
+      ],
+      "reason": "Original disease-name glyphs retained, no modern terminology replacement.",
+      "page_id": "c077-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/03dae51e-f635-4eaa-add9-4f0ec1a3e861.json",
+      "matching_ranges": [
+        {
+          "start": 7,
+          "end": 9
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-03",
+      "unit_id": "c077-L-c04",
+      "span": "至真",
+      "preferred": "至真",
+      "candidates": [
+        "至其"
+      ],
+      "reason": "Fine glyph after 至 unresolved.",
+      "page_id": "c077-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/03dae51e-f635-4eaa-add9-4f0ec1a3e861.json",
+      "matching_ranges": [
+        {
+          "start": 2,
+          "end": 4
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-04",
+      "unit_id": "c077-L-c07",
+      "span": "槎",
+      "preferred": "槎",
+      "candidates": [
+        "楂"
+      ],
+      "reason": "Printed tree component kept.",
+      "page_id": "c077-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/03dae51e-f635-4eaa-add9-4f0ec1a3e861.json",
+      "matching_ranges": [
+        {
+          "start": 8,
+          "end": 9
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-05",
+      "unit_id": "c077-L-c07",
+      "span": "著者也",
+      "preferred": "著者也",
+      "candidates": [
+        "著者地"
+      ],
+      "reason": "Source phrase kept, not grammar repair.",
+      "page_id": "c077-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/03dae51e-f635-4eaa-add9-4f0ec1a3e861.json",
+      "matching_ranges": [
+        {
+          "start": 20,
+          "end": 23
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-06",
+      "unit_id": "c078-R-c02",
+      "span": "法爾",
+      "preferred": "法爾",
+      "candidates": [
+        "法彌"
+      ],
+      "reason": "Historical foreign name from source, no external substitution.",
+      "page_id": "c078-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b0966a72-cc9e-404f-b35e-d5197a32a93d.json",
+      "matching_ranges": [
+        {
+          "start": 3,
+          "end": 5
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-07",
+      "unit_id": "c078-R-c03",
+      "span": "會",
+      "preferred": "會",
+      "candidates": [
+        "曾"
+      ],
+      "reason": "Source glyph after 者 retained with candidate.",
+      "page_id": "c078-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b0966a72-cc9e-404f-b35e-d5197a32a93d.json",
+      "matching_ranges": [
+        {
+          "start": 8,
+          "end": 9
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-08",
+      "unit_id": "c078-R-c07",
+      "span": "敘",
+      "preferred": "敘",
+      "candidates": [
+        "敎",
+        "效"
+      ],
+      "reason": "Dense source form after 應 uncertain.",
+      "page_id": "c078-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b0966a72-cc9e-404f-b35e-d5197a32a93d.json",
+      "matching_ranges": [
+        {
+          "start": 17,
+          "end": 18
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-09",
+      "unit_id": "c078-R-c09",
+      "span": "遭死",
+      "preferred": "遭死",
+      "candidates": [
+        "遇死"
+      ],
+      "reason": "Source left component of first glyph uncertain.",
+      "page_id": "c078-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b0966a72-cc9e-404f-b35e-d5197a32a93d.json",
+      "matching_ranges": [
+        {
+          "start": 2,
+          "end": 4
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-10",
+      "unit_id": "c079-R-c01",
+      "span": "棟",
+      "preferred": "棟",
+      "candidates": [
+        "揀",
+        "檢"
+      ],
+      "reason": "Source glyph before 驗 unclear; no formulaic normalization.",
+      "page_id": "c079-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/514326ef-834e-4d94-875d-3535de44ffb3.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-11",
+      "unit_id": "c079-R-c08",
+      "span": "讞",
+      "preferred": "讞",
+      "candidates": [
+        "謙"
+      ],
+      "reason": "Fine components in source word after 昭信 retained.",
+      "page_id": "c079-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/514326ef-834e-4d94-875d-3535de44ffb3.json",
+      "matching_ranges": [
+        {
+          "start": 20,
+          "end": 21
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-12",
+      "unit_id": "c079-L-c02",
+      "span": "晉和魯凝",
+      "preferred": "晉和魯凝",
+      "candidates": [
+        "晉和凝"
+      ],
+      "reason": "Historic name sequence not silently identified or corrected.",
+      "page_id": "c079-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/514326ef-834e-4d94-875d-3535de44ffb3.json",
+      "matching_ranges": [
+        {
+          "start": 9,
+          "end": 13
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-13",
+      "unit_id": "c079-L-c02",
+      "span": "宋氏子中允官懞",
+      "preferred": "宋氏子中允官懞",
+      "candidates": [
+        "宋氏子中允官蒙"
+      ],
+      "reason": "Historical-name typography unresolved.",
+      "page_id": "c079-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/514326ef-834e-4d94-875d-3535de44ffb3.json",
+      "matching_ranges": [
+        {
+          "start": 17,
+          "end": 24
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-14",
+      "unit_id": "c079-L-c04",
+      "span": "遞",
+      "preferred": "遞",
+      "candidates": [
+        "遰"
+      ],
+      "reason": "Small inner walking-radical component.",
+      "page_id": "c079-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/514326ef-834e-4d94-875d-3535de44ffb3.json",
+      "matching_ranges": [
+        {
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-15",
+      "unit_id": "c079-L-c05",
+      "span": "大昕",
+      "preferred": "大昕",
+      "candidates": [
+        "大斯"
+      ],
+      "reason": "Source foreign transliteration not normalized.",
+      "page_id": "c079-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/514326ef-834e-4d94-875d-3535de44ffb3.json",
+      "matching_ranges": [
+        {
+          "start": 19,
+          "end": 21
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b005-16",
+      "unit_id": "c079-L-c08",
+      "span": "繙",
+      "preferred": "繙",
+      "candidates": [
+        "繹",
+        "翻"
+      ],
+      "reason": "Printed silk radical retained.",
+      "page_id": "c079-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/514326ef-834e-4d94-875d-3535de44ffb3.json",
+      "matching_ranges": [
+        {
+          "start": 6,
+          "end": 7
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-01",
+      "unit_id": "c080-L-c01",
+      "span": "濫竽",
+      "preferred": "濫竽",
+      "candidates": [
+        "濫芋"
+      ],
+      "reason": "Source form, not idiom-based correction.",
+      "page_id": "c080-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6d938fc4-565b-4286-a398-719621756464.json",
+      "matching_ranges": [
+        {
+          "start": 19,
+          "end": 21
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-02",
+      "unit_id": "c080-L-c03",
+      "span": "骸",
+      "preferred": "骸",
+      "candidates": [
+        "髒"
+      ],
+      "reason": "Source bone radical observed, fine component retained.",
+      "page_id": "c080-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6d938fc4-565b-4286-a398-719621756464.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-03",
+      "unit_id": "c080-L-c04",
+      "span": "考覈",
+      "preferred": "考覈",
+      "candidates": [
+        "考覆"
+      ],
+      "reason": "Dense source glyph under cover fold.",
+      "page_id": "c080-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6d938fc4-565b-4286-a398-719621756464.json",
+      "matching_ranges": [
+        {
+          "start": 13,
+          "end": 15
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-04",
+      "unit_id": "c080-L-c07",
+      "span": "攸繫",
+      "preferred": "攸繫",
+      "candidates": [
+        "攸繋"
+      ],
+      "reason": "Historical graph not normalized.",
+      "page_id": "c080-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6d938fc4-565b-4286-a398-719621756464.json",
+      "matching_ranges": [
+        {
+          "start": 21,
+          "end": 23
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-05",
+      "unit_id": "c081-R-c02",
+      "span": "胸臆吉祥",
+      "preferred": "胸臆吉祥",
+      "candidates": [
+        "胸臆吉祥",
+        "惱臆吉祥"
+      ],
+      "reason": "Unusual source phrase kept without semantic rewrite; exact first dense form unresolved.",
+      "page_id": "c081-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b8bce5e-1498-48b9-8528-9e14d99d1044.json",
+      "matching_ranges": [
+        {
+          "start": 16,
+          "end": 20
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-06",
+      "unit_id": "c081-R-c03",
+      "span": "皮廢",
+      "preferred": "皮廢",
+      "candidates": [
+        "皮爛"
+      ],
+      "reason": "Source lower part read 廢, no pathology-based correction.",
+      "page_id": "c081-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b8bce5e-1498-48b9-8528-9e14d99d1044.json",
+      "matching_ranges": [
+        {
+          "start": 12,
+          "end": 14
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-07",
+      "unit_id": "c081-R-c04",
+      "span": "喝報",
+      "preferred": "喝報",
+      "candidates": [
+        "曷報"
+      ],
+      "reason": "Original口radical provisionally read from native ROI.",
+      "page_id": "c081-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b8bce5e-1498-48b9-8528-9e14d99d1044.json",
+      "matching_ranges": [
+        {
+          "start": 23,
+          "end": 25
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-08",
+      "unit_id": "c081-R-c06",
+      "span": "書件",
+      "preferred": "書件",
+      "candidates": [
+        "書吏"
+      ],
+      "reason": "Native source says 件 provisionally; not legal-phrase replacement.",
+      "page_id": "c081-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b8bce5e-1498-48b9-8528-9e14d99d1044.json",
+      "matching_ranges": [
+        {
+          "start": 10,
+          "end": 12
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-09",
+      "unit_id": "c081-R-c10",
+      "span": "傾",
+      "preferred": "傾",
+      "candidates": [
+        "偽",
+        "㑑"
+      ],
+      "reason": "Dense source glyph after 是書之 unresolved.",
+      "page_id": "c081-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b8bce5e-1498-48b9-8528-9e14d99d1044.json",
+      "matching_ranges": [
+        {
+          "start": 13,
+          "end": 14
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-10",
+      "unit_id": "c081-R-c10",
+      "span": "畫吏",
+      "preferred": "畫吏",
+      "candidates": [
+        "書吏"
+      ],
+      "reason": "Source upper/lower rule distinction uncertain.",
+      "page_id": "c081-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b8bce5e-1498-48b9-8528-9e14d99d1044.json",
+      "matching_ranges": [
+        {
+          "start": 25,
+          "end": 27
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-11",
+      "unit_id": "c081-L-c03",
+      "span": "緣",
+      "preferred": "緣",
+      "candidates": [
+        "縱"
+      ],
+      "reason": "Source component uncertain.",
+      "page_id": "c081-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b8bce5e-1498-48b9-8528-9e14d99d1044.json",
+      "matching_ranges": [
+        {
+          "start": 11,
+          "end": 12
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-12",
+      "unit_id": "c081-L-c04",
+      "span": "恐執敢",
+      "preferred": "恐執敢",
+      "candidates": [
+        "恐執敢",
+        "恐執"
+      ],
+      "reason": "Unusual source phrase retained, not repaired by meaning.",
+      "page_id": "c081-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b8bce5e-1498-48b9-8528-9e14d99d1044.json",
+      "matching_ranges": [
+        {
+          "start": 5,
+          "end": 8
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-13",
+      "unit_id": "c081-L-c05",
+      "span": "剖哲",
+      "preferred": "剖哲",
+      "candidates": [
+        "剖析"
+      ],
+      "reason": "Printed second glyph provisionally 哲, no idiom normalization.",
+      "page_id": "c081-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b8bce5e-1498-48b9-8528-9e14d99d1044.json",
+      "matching_ranges": [
+        {
+          "start": 10,
+          "end": 12
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-14",
+      "unit_id": "c081-L-c05",
+      "span": "概茫",
+      "preferred": "概茫",
+      "candidates": [
+        "概茫",
+        "槪茫"
+      ],
+      "reason": "Source tree/rice component retained.",
+      "page_id": "c081-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b8bce5e-1498-48b9-8528-9e14d99d1044.json",
+      "matching_ranges": [
+        {
+          "start": 20,
+          "end": 22
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-15",
+      "unit_id": "c081-L-c08",
+      "span": "厥辜",
+      "preferred": "厥辜",
+      "candidates": [
+        "厥辜",
+        "厥罪"
+      ],
+      "reason": "Historical phrase unmodernized.",
+      "page_id": "c081-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b8bce5e-1498-48b9-8528-9e14d99d1044.json",
+      "matching_ranges": [
+        {
+          "start": 25,
+          "end": 27
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-16",
+      "unit_id": "c082-L-c01",
+      "span": "據",
+      "preferred": "據",
+      "candidates": [
+        "據",
+        "擧"
+      ],
+      "reason": "Source heading also 醫士之據, fine component uncertain.",
+      "page_id": "c082-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b9a3b0ad-a499-4e0b-a7c3-41425828e03a.json",
+      "matching_ranges": [
+        {
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-17",
+      "unit_id": "c082-L-c08",
+      "span": "庸眾共懷",
+      "preferred": "庸眾共懷",
+      "candidates": [
+        "庸眾共懷",
+        "庸眾共曉"
+      ],
+      "reason": "Printed dense final glyph retained.",
+      "page_id": "c082-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b9a3b0ad-a499-4e0b-a7c3-41425828e03a.json",
+      "matching_ranges": [
+        {
+          "start": 5,
+          "end": 9
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-18",
+      "unit_id": "c083-R-c03",
+      "span": "同家",
+      "preferred": "同家",
+      "candidates": [
+        "同家",
+        "回家"
+      ],
+      "reason": "Source enclosure at first glyph unresolved.",
+      "page_id": "c083-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c0f7c503-93eb-4382-b14f-65ef5abed0a7.json",
+      "matching_ranges": [
+        {
+          "start": 5,
+          "end": 7
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-19",
+      "unit_id": "c083-R-c05",
+      "span": "其是在",
+      "preferred": "其是在",
+      "candidates": [
+        "其是在",
+        "其實在"
+      ],
+      "reason": "Source word sequence retained without grammatical repair.",
+      "page_id": "c083-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c0f7c503-93eb-4382-b14f-65ef5abed0a7.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-20",
+      "unit_id": "c083-R-c06",
+      "span": "培補",
+      "preferred": "培補",
+      "candidates": [
+        "培補",
+        "裨補"
+      ],
+      "reason": "Source left component retained.",
+      "page_id": "c083-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c0f7c503-93eb-4382-b14f-65ef5abed0a7.json",
+      "matching_ranges": [
+        {
+          "start": 3,
+          "end": 5
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-21",
+      "unit_id": "c083-R-c08",
+      "span": "術",
+      "preferred": "術",
+      "candidates": [
+        "術",
+        "殊"
+      ],
+      "reason": "Source glyph before 不可 retained.",
+      "page_id": "c083-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c0f7c503-93eb-4382-b14f-65ef5abed0a7.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-22",
+      "unit_id": "c083-L-c04",
+      "span": "其妄",
+      "preferred": "其妄",
+      "candidates": [
+        "其妄",
+        "其安"
+      ],
+      "reason": "Source component retained.",
+      "page_id": "c083-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c0f7c503-93eb-4382-b14f-65ef5abed0a7.json",
+      "matching_ranges": [
+        {
+          "start": 18,
+          "end": 20
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-23",
+      "unit_id": "c083-L-c06",
+      "span": "無妄無人",
+      "preferred": "無妄無人",
+      "candidates": [
+        "無妄無人",
+        "無妄人"
+      ],
+      "reason": "Apparent extra 無 retained, no maxim-based deletion.",
+      "page_id": "c083-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c0f7c503-93eb-4382-b14f-65ef5abed0a7.json",
+      "matching_ranges": [
+        {
+          "start": 23,
+          "end": 27
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-24",
+      "unit_id": "c083-L-c09",
+      "span": "詢之、倘",
+      "preferred": "詢之、倘",
+      "candidates": [
+        "詢之、倘",
+        "詢之、"
+      ],
+      "reason": "Source fold-edge 倘 read from full frame, not limited half crop.",
+      "page_id": "c083-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c0f7c503-93eb-4382-b14f-65ef5abed0a7.json",
+      "matching_ranges": [
+        {
+          "start": 10,
+          "end": 14
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-25",
+      "unit_id": "c084-R-c02",
+      "span": "灰然",
+      "preferred": "灰然",
+      "candidates": [
+        "灰然",
+        "欣然"
+      ],
+      "reason": "Original source glyph not replaced by familiar contrast.",
+      "page_id": "c084-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/233121cf-a817-4304-9877-824731f0b739.json",
+      "matching_ranges": [
+        {
+          "start": 6,
+          "end": 8
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-26",
+      "unit_id": "c084-R-c03",
+      "span": "秘窖",
+      "preferred": "秘窖",
+      "candidates": [
+        "秘窖",
+        "秘密"
+      ],
+      "reason": "Source uncommon wording retained.",
+      "page_id": "c084-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/233121cf-a817-4304-9877-824731f0b739.json",
+      "matching_ranges": [
+        {
+          "start": 2,
+          "end": 4
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b006-27",
+      "unit_id": "c084-R-c06",
+      "span": "僅於",
+      "preferred": "僅於",
+      "candidates": [
+        "僅於",
+        "僅於"
+      ],
+      "reason": "Fine printed glyph and source syntax unresolved.",
+      "page_id": "c084-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/233121cf-a817-4304-9877-824731f0b739.json",
+      "matching_ranges": [
+        {
+          "start": 17,
+          "end": 19
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-01",
+      "unit_id": "c086-L-c01",
+      "span": "毀",
+      "preferred": "毀",
+      "candidates": [
+        "毀",
+        "毆"
+      ],
+      "reason": "Fine source weapon/stroke component.",
+      "page_id": "c086-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/68542bd6-2822-4bd0-952c-309ef3cab072.json",
+      "matching_ranges": [
+        {
+          "start": 8,
+          "end": 9
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-02",
+      "unit_id": "c086-L-c03",
+      "span": "腿挺",
+      "preferred": "腿挺",
+      "candidates": [
+        "腿挺",
+        "腿脛"
+      ],
+      "reason": "Original bone-name glyph retained.",
+      "page_id": "c086-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/68542bd6-2822-4bd0-952c-309ef3cab072.json",
+      "matching_ranges": [
+        {
+          "start": 24,
+          "end": 26
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-03",
+      "unit_id": "c086-L-c07",
+      "span": "校量",
+      "preferred": "校量",
+      "candidates": [
+        "校量",
+        "較量"
+      ],
+      "reason": "Native source 校, not replaced with modern usage.",
+      "page_id": "c086-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/68542bd6-2822-4bd0-952c-309ef3cab072.json",
+      "matching_ranges": [
+        {
+          "start": 4,
+          "end": 6
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-04",
+      "unit_id": "c086-L-c09",
+      "span": "尺大一寸四分",
+      "preferred": "尺大一寸四分",
+      "candidates": [
+        "尺大一寸四分"
+      ],
+      "reason": "Original unit wording retained; no conversion.",
+      "page_id": "c086-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/68542bd6-2822-4bd0-952c-309ef3cab072.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 6
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-05",
+      "unit_id": "c087-R-c01",
+      "span": "膀骨",
+      "preferred": "膀骨",
+      "candidates": [
+        "膀骨",
+        "膝骨"
+      ],
+      "reason": "Native source monthly/phonetic component preserved.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 3
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-06",
+      "unit_id": "c087-R-c04",
+      "span": "膀骨",
+      "preferred": "膀骨",
+      "candidates": [
+        "膀骨",
+        "膝骨"
+      ],
+      "reason": "Same printed word not normalized to modern anatomy.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 3
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-07",
+      "unit_id": "c087-R-c13",
+      "span": "并人",
+      "preferred": "并人",
+      "candidates": [
+        "并人",
+        "並人"
+      ],
+      "reason": "Unusual source phrase not guessed by account of event.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 19,
+          "end": 21
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-08",
+      "unit_id": "c087-R-c15",
+      "span": "眞憑的",
+      "preferred": "眞憑的",
+      "candidates": [
+        "眞憑的",
+        "眞凴的"
+      ],
+      "reason": "Native component not settled.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 22,
+          "end": 25
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-09",
+      "unit_id": "c087-R-c19",
+      "span": "照體",
+      "preferred": "照體",
+      "candidates": [
+        "照體",
+        "照體"
+      ],
+      "reason": "Whole-frame edge text fine components provisional.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 20,
+          "end": 22
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-10",
+      "unit_id": "c087-R-c21",
+      "span": "若或生人",
+      "preferred": "若或生人",
+      "candidates": [
+        "若或生人",
+        "若或生人"
+      ],
+      "reason": "Gutter text continues beyond fixed geometric crop, read from whole frame; first words provisional.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 4
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-11",
+      "unit_id": "c087-R-c21",
+      "span": "覺仵",
+      "preferred": "覺仵",
+      "candidates": [
+        "覺仵",
+        "覺仵"
+      ],
+      "reason": "Gutter historic phrase unresolved, no semantic reconstruction.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 16,
+          "end": 18
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-12",
+      "unit_id": "c087-L-c01",
+      "span": "齡牙",
+      "preferred": "齡牙",
+      "candidates": [
+        "齡牙",
+        "齡牙"
+      ],
+      "reason": "Original heading term retained, not modernized.",
+      "page_id": "c087-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 12,
+          "end": 14
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-13",
+      "unit_id": "c087-L-c08",
+      "span": "火痛",
+      "preferred": "火痛",
+      "candidates": [
+        "火痛",
+        "火痛"
+      ],
+      "reason": "Source component retained, not modern clinical phrase.",
+      "page_id": "c087-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 20,
+          "end": 22
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-14",
+      "unit_id": "c088-R-c02",
+      "span": "週圍",
+      "preferred": "週圍",
+      "candidates": [
+        "週圍",
+        "周圍"
+      ],
+      "reason": "Source走radical not normalized.",
+      "page_id": "c088-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a7af3c9c-c1b1-4c99-9900-001db879b7a7.json",
+      "matching_ranges": [
+        {
+          "start": 11,
+          "end": 13
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-15",
+      "unit_id": "c088-R-c06",
+      "span": "黯然",
+      "preferred": "黯然",
+      "candidates": [
+        "黯然",
+        "黯然"
+      ],
+      "reason": "Fine dense source adjective.",
+      "page_id": "c088-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a7af3c9c-c1b1-4c99-9900-001db879b7a7.json",
+      "matching_ranges": [
+        {
+          "start": 15,
+          "end": 17
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-16",
+      "unit_id": "c088-R-T01",
+      "span": "十二至十三年",
+      "preferred": "十二至十三年",
+      "candidates": [
+        "十二至十三年"
+      ],
+      "reason": "Small stacked range below 十一, reading order provisional.",
+      "page_id": "c088-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a7af3c9c-c1b1-4c99-9900-001db879b7a7.json",
+      "matching_ranges": [
+        {
+          "start": 129,
+          "end": 135
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-17",
+      "unit_id": "c088-R-T01",
+      "span": "十四至十五",
+      "preferred": "十四至十五",
+      "candidates": [
+        "十四至十五"
+      ],
+      "reason": "Printed stacked source range provisional.",
+      "page_id": "c088-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a7af3c9c-c1b1-4c99-9900-001db879b7a7.json",
+      "matching_ranges": [
+        {
+          "start": 152,
+          "end": 157
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-18",
+      "unit_id": "c088-R-T01",
+      "span": "十六至十八",
+      "preferred": "十六至十八",
+      "candidates": [
+        "十六至十八"
+      ],
+      "reason": "Printed stacked source range provisional.",
+      "page_id": "c088-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a7af3c9c-c1b1-4c99-9900-001db879b7a7.json",
+      "matching_ranges": [
+        {
+          "start": 174,
+          "end": 179
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-19",
+      "unit_id": "c087-R-T01",
+      "span": "二五十二",
+      "preferred": "二五十二",
+      "candidates": [
+        "二五十二",
+        "二五一"
+      ],
+      "reason": "Sparse strokes/stacked numerals unresolved; not changed by expected unit.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 82,
+          "end": 86
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-20",
+      "unit_id": "c087-R-T01",
+      "span": "○十一",
+      "preferred": "○十一",
+      "candidates": [
+        "○十一",
+        "○九二"
+      ],
+      "reason": "Sparse source numeral string unresolved.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 74,
+          "end": 77
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-21",
+      "unit_id": "c087-R-T01",
+      "span": "○十二七",
+      "preferred": "○十二七",
+      "candidates": [
+        "○十二七",
+        "○一○七"
+      ],
+      "reason": "Stacked source numeral string unresolved.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 103,
+          "end": 107
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-22",
+      "unit_id": "c087-R-T01",
+      "span": "跗骨",
+      "preferred": "跗骨",
+      "candidates": [
+        "跗骨",
+        "跗骨"
+      ],
+      "reason": "Source bone label and grouping provisional.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 29,
+          "end": 31
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-23",
+      "unit_id": "c087-R-T01",
+      "span": "骼髆骨",
+      "preferred": "骼髆骨",
+      "candidates": [
+        "骼髆骨",
+        "骼髆骨"
+      ],
+      "reason": "Dense source bone-name compound, exact graph components provisional.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 32,
+          "end": 35
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b007-24",
+      "unit_id": "c087-R-T01",
+      "span": "髀骨",
+      "preferred": "髀骨",
+      "candidates": [
+        "髀骨",
+        "髀骨"
+      ],
+      "reason": "Dense source bone-name last header provisional.",
+      "page_id": "c087-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "matching_ranges": [
+        {
+          "start": 39,
+          "end": 41
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b008-01",
+      "unit_id": "c090-R-fig2",
+      "span": "孩身",
+      "preferred": "孩身",
+      "candidates": [
+        "破身"
+      ],
+      "reason": "Original stage label first dense graph retained provisionally, no age/clinical normalization.",
+      "page_id": "c090-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec3d1e8f-f28b-4b95-913d-2d47d886258e.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 3
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b008-02",
+      "unit_id": "c090-R-mark1",
+      "span": "二",
+      "preferred": "二",
+      "candidates": [],
+      "reason": "Two small horizontal ink marks beside second jaw diagram, provisionally separated from titles; character versus illustration/mark uncertain.",
+      "page_id": "c090-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec3d1e8f-f28b-4b95-913d-2d47d886258e.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b008-03",
+      "unit_id": "c093-R-table1",
+      "span": "厘",
+      "preferred": "厘",
+      "candidates": [
+        "釐"
+      ],
+      "reason": "Original simplified 厘 versus dense 釐 component not normalized; both occurrences linked to source table.",
+      "page_id": "c093-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/47a5b668-7d8d-43b4-a4de-576daea9c6d4.json",
+      "matching_ranges": [
+        {
+          "start": 33,
+          "end": 34
+        },
+        {
+          "start": 42,
+          "end": 43
+        }
+      ],
+      "range_precision": "all literal matches; original record does not select one occurrence"
+    },
+    {
+      "id": "U1842-b009-01",
+      "unit_id": "c031-R-label-08",
+      "span": "供",
+      "preferred": "供",
+      "candidates": [
+        "拱"
+      ],
+      "reason": "Historical diagram label dense glyph retained; no circulatory-route inference.",
+      "page_id": "c031-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/292da10d-c43e-45cb-97c8-88076af2332a.json",
+      "matching_ranges": [
+        {
+          "start": 6,
+          "end": 7
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b009-02",
+      "unit_id": "c031-R-label-21",
+      "span": "肚",
+      "preferred": "肚",
+      "candidates": [
+        "腹"
+      ],
+      "reason": "Source glyph in first umbilical annotation retained provisionally.",
+      "page_id": "c031-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/292da10d-c43e-45cb-97c8-88076af2332a.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b009-03",
+      "unit_id": "c031-R-label-22",
+      "span": "腹臍",
+      "preferred": "腹臍",
+      "candidates": [
+        "肚臍"
+      ],
+      "reason": "Source vertical long caption differs from other callout; no global term replacement.",
+      "page_id": "c031-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/292da10d-c43e-45cb-97c8-88076af2332a.json",
+      "matching_ranges": [
+        {
+          "start": 3,
+          "end": 5
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b009-04",
+      "unit_id": "c031-R-label-27",
+      "span": "胆",
+      "preferred": "胆",
+      "candidates": [
+        "膽"
+      ],
+      "reason": "Native simple source component retained, not normalized.",
+      "page_id": "c031-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/292da10d-c43e-45cb-97c8-88076af2332a.json",
+      "matching_ranges": [
+        {
+          "start": 6,
+          "end": 7
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b009-05",
+      "unit_id": "c031-R-label-31",
+      "span": "到趾",
+      "preferred": "到趾",
+      "candidates": [
+        "到趾",
+        "到趾"
+      ],
+      "reason": "Small vertical callout not expanded by anatomy knowledge.",
+      "page_id": "c031-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/292da10d-c43e-45cb-97c8-88076af2332a.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b009-06",
+      "unit_id": "c050-R-fig3-label-06",
+      "span": "辛",
+      "preferred": "辛",
+      "candidates": [
+        "己",
+        "庚"
+      ],
+      "reason": "Source small single glyph at left underside of instrument3, not treated as English scale lettering.",
+      "page_id": "c050-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35cad0c9-7d1e-42c5-ba58-c1334c61f101.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-01",
+      "unit_id": "c056-R-fig1-label-12",
+      "span": "眼系",
+      "preferred": "眼系",
+      "candidates": [
+        "系眼"
+      ],
+      "reason": "Two glyphs by nerve end; spatial left-to-right order preserved, intended reading direction provisional.",
+      "page_id": "c056-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/70f4df1d-1fb2-4957-acf4-e1f4e1a9af08.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-02",
+      "unit_id": "c056-R-fig3-label-04",
+      "span": "巳",
+      "preferred": "巳",
+      "candidates": [
+        "己"
+      ],
+      "reason": "Original white loop shape.",
+      "page_id": "c056-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/70f4df1d-1fb2-4957-acf4-e1f4e1a9af08.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-03",
+      "unit_id": "c093-L-title1",
+      "span": "尻",
+      "preferred": "尻",
+      "candidates": [
+        "尻",
+        "尾"
+      ],
+      "reason": "Original pelvis heading, not modernized.",
+      "page_id": "c093-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/47a5b668-7d8d-43b4-a4de-576daea9c6d4.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-04",
+      "unit_id": "c093-L-title2",
+      "span": "尻",
+      "preferred": "尻",
+      "candidates": [
+        "尻",
+        "尾"
+      ],
+      "reason": "Original pelvis heading, not modernized.",
+      "page_id": "c093-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/47a5b668-7d8d-43b4-a4de-576daea9c6d4.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-05",
+      "unit_id": "c093-L-male-label-01",
+      "span": "膀",
+      "preferred": "膀",
+      "candidates": [
+        "髂"
+      ],
+      "reason": "Original graph kept, not modern bone nomenclature.",
+      "page_id": "c093-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/47a5b668-7d8d-43b4-a4de-576daea9c6d4.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-06",
+      "unit_id": "c093-L-male-label-04",
+      "span": "髖髆骨",
+      "preferred": "髖髆骨",
+      "candidates": [
+        "髖髆骨",
+        "髀髆骨"
+      ],
+      "reason": "Dense compound label provisional.",
+      "page_id": "c093-L",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/47a5b668-7d8d-43b4-a4de-576daea9c6d4.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-07",
+      "unit_id": "c094-R-label-007",
+      "span": "竅",
+      "preferred": "竅",
+      "candidates": [
+        "竅",
+        "窩"
+      ],
+      "reason": "Fine source glyph in paired head labels.",
+      "page_id": "c094-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a73fcf18-da91-4595-885f-6b9387b76ab1.json",
+      "matching_ranges": [
+        {
+          "start": 2,
+          "end": 3
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-08",
+      "unit_id": "c094-R-label-016",
+      "span": "竅",
+      "preferred": "竅",
+      "candidates": [
+        "竅",
+        "窩"
+      ],
+      "reason": "Fine source glyph in paired head labels.",
+      "page_id": "c094-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a73fcf18-da91-4595-885f-6b9387b76ab1.json",
+      "matching_ranges": [
+        {
+          "start": 2,
+          "end": 3
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-09",
+      "unit_id": "c094-R-label-023",
+      "span": "鷹",
+      "preferred": "鷹",
+      "candidates": [
+        "應"
+      ],
+      "reason": "Original shoulder compound source graph.",
+      "page_id": "c094-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a73fcf18-da91-4595-885f-6b9387b76ab1.json",
+      "matching_ranges": [
+        {
+          "start": 3,
+          "end": 4
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-10",
+      "unit_id": "c094-R-label-027",
+      "span": "胗",
+      "preferred": "胗",
+      "candidates": [
+        "胳",
+        "胗"
+      ],
+      "reason": "Dense original limb label.",
+      "page_id": "c094-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a73fcf18-da91-4595-885f-6b9387b76ab1.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-11",
+      "unit_id": "c094-R-label-034",
+      "span": "胗",
+      "preferred": "胗",
+      "candidates": [
+        "胳",
+        "胗"
+      ],
+      "reason": "Dense original limb label.",
+      "page_id": "c094-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a73fcf18-da91-4595-885f-6b9387b76ab1.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-12",
+      "unit_id": "c094-R-label-037",
+      "span": "肘臂",
+      "preferred": "肘臂",
+      "candidates": [
+        "肘臂",
+        "肘臁"
+      ],
+      "reason": "Source outer elbow label provisional.",
+      "page_id": "c094-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a73fcf18-da91-4595-885f-6b9387b76ab1.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 3
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-13",
+      "unit_id": "c094-R-label-039",
+      "span": "髀",
+      "preferred": "髀",
+      "candidates": [
+        "骱"
+      ],
+      "reason": "Original forearm label, not normalized.",
+      "page_id": "c094-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a73fcf18-da91-4595-885f-6b9387b76ab1.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-14",
+      "unit_id": "c094-R-label-043",
+      "span": "髀",
+      "preferred": "髀",
+      "candidates": [
+        "骱"
+      ],
+      "reason": "Original forearm label, not normalized.",
+      "page_id": "c094-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a73fcf18-da91-4595-885f-6b9387b76ab1.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-15",
+      "unit_id": "c094-R-label-062",
+      "span": "左",
+      "preferred": "左",
+      "candidates": [
+        "右"
+      ],
+      "reason": "Apparent left/right repetition retained as printed, not symmetry-based correction.",
+      "page_id": "c094-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a73fcf18-da91-4595-885f-6b9387b76ab1.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-16",
+      "unit_id": "c094-R-label-064",
+      "span": "左",
+      "preferred": "左",
+      "candidates": [
+        "右"
+      ],
+      "reason": "Apparent left/right repetition retained as printed.",
+      "page_id": "c094-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a73fcf18-da91-4595-885f-6b9387b76ab1.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-17",
+      "unit_id": "c094-R-label-067",
+      "span": "脈",
+      "preferred": "脈",
+      "candidates": [
+        "胍"
+      ],
+      "reason": "Original foot label unusual, no modern substitution.",
+      "page_id": "c094-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a73fcf18-da91-4595-885f-6b9387b76ab1.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b010-18",
+      "unit_id": "c094-R-label-076",
+      "span": "跦",
+      "preferred": "跦",
+      "candidates": [
+        "跗"
+      ],
+      "reason": "Printed inner foot label source component uncertain.",
+      "page_id": "c094-R",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a73fcf18-da91-4595-885f-6b9387b76ab1.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b011-01",
+      "unit_id": "c032-full-caption",
+      "span": "畫",
+      "preferred": "畫",
+      "candidates": [
+        "畫",
+        "書"
+      ],
+      "reason": "Original first caption graph preserved; no replacement with modern diagram explanation.",
+      "page_id": "c032-full",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6f5635e9-ea00-432f-bd25-62694305c39e.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b011-02",
+      "unit_id": "c032-full-caption",
+      "span": "此喻",
+      "preferred": "此喻",
+      "candidates": [
+        "此喻",
+        "比喻"
+      ],
+      "reason": "Source caption wording preserved, not silently normalized.",
+      "page_id": "c032-full",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6f5635e9-ea00-432f-bd25-62694305c39e.json",
+      "matching_ranges": [
+        {
+          "start": 6,
+          "end": 8
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b011-03",
+      "unit_id": "c095-full-label-02",
+      "span": "篩羅",
+      "preferred": "篩羅",
+      "candidates": [
+        "篩羅",
+        "篩羅"
+      ],
+      "reason": "Historical skull label not modernized.",
+      "page_id": "c095-full",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7ff2e246-2383-43b1-9063-6ac77a2f8c91.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b011-04",
+      "unit_id": "c095-full-label-12",
+      "span": "犁",
+      "preferred": "犁",
+      "candidates": [
+        "犁",
+        "犂"
+      ],
+      "reason": "Source variant form provisional.",
+      "page_id": "c095-full",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7ff2e246-2383-43b1-9063-6ac77a2f8c91.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b011-05",
+      "unit_id": "c095-full-label-13",
+      "span": "卷",
+      "preferred": "卷",
+      "candidates": [
+        "捲"
+      ],
+      "reason": "No added hand radical.",
+      "page_id": "c095-full",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7ff2e246-2383-43b1-9063-6ac77a2f8c91.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b011-06",
+      "unit_id": "c095-full-label-20",
+      "span": "索",
+      "preferred": "索",
+      "candidates": [
+        "鎖"
+      ],
+      "reason": "Original clavicle label not changed by modern terminology.",
+      "page_id": "c095-full",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7ff2e246-2383-43b1-9063-6ac77a2f8c91.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b011-07",
+      "unit_id": "c095-full-label-22",
+      "span": "胳",
+      "preferred": "胳",
+      "candidates": [
+        "胳",
+        "胯"
+      ],
+      "reason": "Original limb label first graph.",
+      "page_id": "c095-full",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7ff2e246-2383-43b1-9063-6ac77a2f8c91.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b011-08",
+      "unit_id": "c095-full-label-26",
+      "span": "骼",
+      "preferred": "骼",
+      "candidates": [
+        "骼",
+        "髀",
+        "腓"
+      ],
+      "reason": "Dense historical source bone label retained.",
+      "page_id": "c095-full",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7ff2e246-2383-43b1-9063-6ac77a2f8c91.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b011-09",
+      "unit_id": "c095-full-label-35",
+      "span": "骼",
+      "preferred": "骼",
+      "candidates": [
+        "骼",
+        "髀",
+        "腓"
+      ],
+      "reason": "Dense historical source bone label retained independently of other occurrence.",
+      "page_id": "c095-full",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7ff2e246-2383-43b1-9063-6ac77a2f8c91.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b011-10",
+      "unit_id": "c095-full-label-36",
+      "span": "脚",
+      "preferred": "脚",
+      "candidates": [
+        "腳"
+      ],
+      "reason": "Original simple graph retained.",
+      "page_id": "c095-full",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7ff2e246-2383-43b1-9063-6ac77a2f8c91.json",
+      "matching_ranges": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b011-11",
+      "unit_id": "c095-full-label-38",
+      "span": "趾",
+      "preferred": "趾",
+      "candidates": [
+        "趾",
+        "跗"
+      ],
+      "reason": "Fine foot-label component provisional.",
+      "page_id": "c095-full",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7ff2e246-2383-43b1-9063-6ac77a2f8c91.json",
+      "matching_ranges": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "range_precision": "unique literal match"
+    },
+    {
+      "id": "U1842-b011-12",
+      "unit_id": "c095-full-label-39",
+      "span": "節",
+      "preferred": "節",
+      "candidates": [
+        "節",
+        "塊"
+      ],
+      "reason": "Small chest caption read from source preview; native side callout crop does not cover full central caption.",
+      "page_id": "c095-full",
+      "review_status": "initial-unresolved",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7ff2e246-2383-43b1-9063-6ac77a2f8c91.json",
+      "matching_ranges": [
+        {
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "range_precision": "unique literal match"
     }
   ]
 }

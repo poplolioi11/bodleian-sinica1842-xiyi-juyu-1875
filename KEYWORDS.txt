@@ -15,3 +15,7 @@ Bodleian Libraries
 Sinica 1842
 TEI XML
 IIIF
+圖解知識史
+法醫學史
+history of forensic medicine
+anatomical diagrams

@@ -1,0 +1,226 @@
+{
+  "schema": "sinica1842-fixed-public-package/1",
+  "version": "0.3.0",
+  "title": "西醫舉隅 / Xi yi ju yu [Gleanings of Western medicine]",
+  "scope": {
+    "extent": "partial",
+    "existing_reviewed_frontmatter_faces": 25,
+    "new_initial_complete_prose_faces": 28,
+    "new_initial_selected_figure_table_surfaces": 13,
+    "total_included_surfaces": 66,
+    "not_all_41_complete_prose": true,
+    "not_a_full_book_transcription": true,
+    "excluded_operational_text": "c060-L, c061–c074, c075-R; c060-R includes only the isolated eye diagram",
+    "existing_periodical_texts": "Links only; not copied into this transcription",
+    "new_prose_page_ids": [
+      "c033-L",
+      "c034-R",
+      "c034-L",
+      "c035-R",
+      "c035-L",
+      "c036-R",
+      "c036-L",
+      "c037-R",
+      "c037-L",
+      "c038-R",
+      "c038-L",
+      "c039-R",
+      "c077-L",
+      "c078-R",
+      "c078-L",
+      "c079-R",
+      "c079-L",
+      "c080-L",
+      "c081-R",
+      "c081-L",
+      "c082-L",
+      "c083-R",
+      "c083-L",
+      "c084-R",
+      "c086-L",
+      "c087-R",
+      "c087-L",
+      "c088-R"
+    ],
+    "new_selected_layer_page_ids": [
+      {
+        "id": "c030-L",
+        "role": "diagram"
+      },
+      {
+        "id": "c031-R",
+        "role": "diagram"
+      },
+      {
+        "id": "c032-full",
+        "role": "foldout"
+      },
+      {
+        "id": "c050-R",
+        "role": "diagram"
+      },
+      {
+        "id": "c051-full",
+        "role": "foldout"
+      },
+      {
+        "id": "c056-R",
+        "role": "diagram"
+      },
+      {
+        "id": "c060-R",
+        "role": "diagram"
+      },
+      {
+        "id": "c089-L",
+        "role": "diagram-only-in-mixed-face"
+      },
+      {
+        "id": "c090-R",
+        "role": "diagram"
+      },
+      {
+        "id": "c093-L",
+        "role": "diagram"
+      },
+      {
+        "id": "c093-R",
+        "role": "table-only-in-mixed-face"
+      },
+      {
+        "id": "c094-R",
+        "role": "diagram"
+      },
+      {
+        "id": "c095-full",
+        "role": "foldout"
+      }
+    ]
+  },
+  "files": {
+    "ABSTRACTS.md": {
+      "sha256": "2c02af8a53798a081dcc3d019a30de9dba56b560d0e26e2767010f39a8fcb7d0",
+      "bytes": 1490
+    },
+    "CHANGELOG.md": {
+      "sha256": "80233c4937c7bb3899be68e5e76ffaf31a5918affbdd50d7f3adcab6008999db",
+      "bytes": 425
+    },
+    "CHANGES-v0.2.0.json": {
+      "sha256": "1c221a003dabe97219939cb864a74538e07c62e07a4ca762d24a863c589c8315",
+      "bytes": 62017
+    },
+    "CHANGES.json": {
+      "sha256": "787a2517521d354e4230d479ad88448bfec3ecf311736702c9467ffd6b0e31db",
+      "bytes": 1661
+    },
+    "CITATION.cff": {
+      "sha256": "83fb209f14afa804be8b0b5d8e878b21406dd4cb46c8bccf27a34bfa720255df",
+      "bytes": 1613
+    },
+    "COLLECTION-MARKS.json": {
+      "sha256": "3b251be8760df2e0fcad5588f549a169e068ee3d05bbe88d44c698cc8bf01863",
+      "bytes": 912
+    },
+    "COVERAGE.json": {
+      "sha256": "53028bff47a8dd36c7318c70dad7ff2024694360a31843f696cc262701636848",
+      "bytes": 2727
+    },
+    "DATA-DICTIONARY.md": {
+      "sha256": "ba8eccc81463bf6fe334b5cae980ab01461acbbf60d2b7167873b288153cf4c8",
+      "bytes": 2450
+    },
+    "EXPORT-MAP.json": {
+      "sha256": "4ce3e84de6b3a66f4c04868309743db2bc198e49be1c7ec69470af94b04b4a98",
+      "bytes": 137572
+    },
+    "KEYWORDS.txt": {
+      "sha256": "efc0ca77347c2bfeec32f4a0729ddc961fda7322715478640a828baf0a4b773e",
+      "bytes": 289
+    },
+    "LICENSE.md": {
+      "sha256": "e61b6d027c63747c79fc89a6ddd6cf0a57dfcb8d1589f6f838daf139c1bb6ef9",
+      "bytes": 1194
+    },
+    "METADATA.json": {
+      "sha256": "249cc767cb43585ca17c63c707c72e5b333421fffbe402c30ea560380b9240e5",
+      "bytes": 7201
+    },
+    "METHODS.md": {
+      "sha256": "2f0aeb9a54a3fbded45b9ff5e804848c448c913e140e83c4eebe0157738d4e6f",
+      "bytes": 2382
+    },
+    "PROVENANCE.md": {
+      "sha256": "8e3262937f1dc6811ea2b84afb298d36c0624cd90ffa69ef861249b0440fb81e",
+      "bytes": 2202
+    },
+    "QUALITY.md": {
+      "sha256": "99508c257a6318d1e431f5590448592a55a189c9db019644dd11c245ccab5842",
+      "bytes": 1515
+    },
+    "READING-GUIDE.md": {
+      "sha256": "3496e5ef94c296ea68a9c8cedb0bf0a3c5aa252ce7a65b4a6061139480083ff8",
+      "bytes": 5280
+    },
+    "READING-MAP.json": {
+      "sha256": "a93cec7c6ded56e1d00c7b115dd658bc1cb1bbf1ed437734394f81f0de28bee0",
+      "bytes": 20329
+    },
+    "README.md": {
+      "sha256": "67643296b75ddbc68f9c2f675ba8f2ebba49a3eb67c28e2ac531c6a5461245d2",
+      "bytes": 3297
+    },
+    "RIGHTS.md": {
+      "sha256": "e61b6d027c63747c79fc89a6ddd6cf0a57dfcb8d1589f6f838daf139c1bb6ef9",
+      "bytes": 1194
+    },
+    "SOURCE-MAP.json": {
+      "sha256": "fecbaa0d680bec5922f282b83b4a616ebecfdad6369dbcde50534862e37a2347",
+      "bytes": 53884
+    },
+    "TABLES.json": {
+      "sha256": "a9d847dca7a48aec7c9e9a949df727f3172dfcd9530b23ed5f975381a4d96277",
+      "bytes": 5286
+    },
+    "TRANSCRIPTION-POLICY.md": {
+      "sha256": "267823104d2fff94b39cd3d4c27ec2f90e5abcd57b62c0bb08010c35ba1a5b63",
+      "bytes": 921
+    },
+    "VALIDATION.json": {
+      "sha256": "8896b0d3747e7b13b2bca2225b9eb21d2023fe1dd34b81286bdd9fd4222ea3ad",
+      "bytes": 1587
+    },
+    "book.json": {
+      "sha256": "df61f58cde3b80a9ff754d6e085cd4dd2e483c7c6564fcf03331681374ae5db0",
+      "bytes": 325027
+    },
+    "book.tei.sidecar.json": {
+      "sha256": "9b4d732a8d1d2e29b9162ed999125433606c0d01e9cfd1cec63bad7b27644553",
+      "bytes": 103454
+    },
+    "book.tei.xml": {
+      "sha256": "e6ce6f6b6a507a0d025f26b189a6cff7c03c0f6221e3cc6da86cbd48b2873bfd",
+      "bytes": 72453
+    },
+    "book.txt": {
+      "sha256": "2ed0d4ab0b2101843b28d94d66236a3bb9f51908c4ea3471de5a3f9563b2ba84",
+      "bytes": 32954
+    },
+    "book.txt.sidecar.json": {
+      "sha256": "4c5ab665f71877c27f38f01424df60aea5f2497120659755e8b4be0f56378a53",
+      "bytes": 108876
+    },
+    "gaiji.json": {
+      "sha256": "826eee82535230bbec50d1ff4ce7571b71da2c41a07570ccfb75f7cccbd7ef12",
+      "bytes": 15074
+    },
+    "uncertainties.json": {
+      "sha256": "b51cebfb88ceec99e36d6d46b238591b991db7ef15c3123947ae93882cd64193",
+      "bytes": 107944
+    }
+  },
+  "source_images_included": false,
+  "dedicated_programs_prompts_worklogs_included": false,
+  "normalization": "none",
+  "manifest_self_hash_excluded": true
+}

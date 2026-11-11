@@ -1,6 +1,6 @@
 {
   "schema": "source-reading-map/1",
-  "scope": "Four anchored small notes in the25face transcription; raised命有陪都 remains its own main-column unit.",
+  "scope": "Inherited4 frontmatter small-note anchors plus21 separate initial notes, including a cross-face continuation.",
   "offset_convention": "Zero-based Unicode codepoint boundary in the anchor unit; an anchor is editorial navigation and is not added punctuation or a textual emendation.",
   "faithful_text_unchanged": false,
   "continuous_reading_layer_produced": false,
@@ -44,5 +44,536 @@
       "placement": "奇下人上較小二字可見也的轉鉤與發的癶／下部繁筆；獨立稿留gaiji，這次非盲回圖判讀也發，不接在頁末。"
     }
   ],
-  "faithful_text_version": "0.2.0 source-adjudicated"
+  "faithful_text_version": "0.3.0; front25 unchanged from0.2.0, new41 initial",
+  "inherited_front25_map_version": "0.2.0",
+  "new41_notes": [
+    {
+      "id": "c033-L-n01",
+      "layer": "original-small-note",
+      "text": "榮血屬陰\n衞氣屬陽",
+      "parent_unit_id": "c033-L-c03",
+      "anchor": {
+        "offset": 5,
+        "after_text": "衞行脈外、",
+        "counting": "Unicode codepoints in stored parent string including source punctuation",
+        "status": "source-located"
+      },
+      "subcolumn_order": "right-to-left, each top-to-bottom",
+      "responsibility": "original print; not modern editor"
+    },
+    {
+      "id": "c033-L-n02",
+      "layer": "original-small-note",
+      "text": "雞之生卵也",
+      "parent_unit_id": "c033-L-c08",
+      "anchor": {
+        "offset": 16,
+        "after_text": "異於、",
+        "counting": "Unicode codepoints in stored parent string including source punctuation",
+        "status": "source-located"
+      },
+      "subcolumn_order": "right-to-left, each top-to-bottom",
+      "responsibility": "original print; not modern editor"
+    },
+    {
+      "id": "c033-L-n03",
+      "layer": "original-small-note",
+      "text": "西醫有問症\n篇以驗胎兒",
+      "parent_unit_id": "c033-L-c09",
+      "anchor": {
+        "offset": 22,
+        "after_text": "食之、",
+        "counting": "Unicode codepoints in stored parent string including source punctuation",
+        "status": "source-located"
+      },
+      "subcolumn_order": "right-to-left, each top-to-bottom",
+      "responsibility": "original print; not modern editor"
+    },
+    {
+      "id": "c034-R-n01",
+      "layer": "original-small-note",
+      "text": "西國有禁溺殺子女之律、如敢故殺其子女捏報草減者、罪之、西醫必剖驗胎兒之肺、置於水中、如沉而不浮、則知其胎兒實屬草減而無疑、但一經呼吸、則其肺必浮、如果內有元氣、其肺亦浮於水、此其確據也、",
+      "parent_unit_id": "c034-R-c01",
+      "anchor": {
+        "offset": 15,
+        "after_text": "然者也、",
+        "counting": "Unicode codepoints in stored parent string including source punctuation",
+        "status": "native-source-verified-after-然者也"
+      },
+      "subcolumn_order": "right-to-left, each top-to-bottom",
+      "responsibility": "original print; not modern editor"
+    },
+    {
+      "id": "c034-R-n02",
+      "layer": "original-small-note",
+      "text": "河堤",
+      "parent_unit_id": "c034-R-c05",
+      "anchor": {
+        "offset": 12,
+        "after_text": "有類",
+        "counting": "Unicode codepoints in stored parent string including source punctuation",
+        "status": "provisional-position-within-parent-column"
+      },
+      "subcolumn_order": "right-to-left, each top-to-bottom",
+      "responsibility": "original print; not modern editor"
+    },
+    {
+      "id": "c034-R-n03",
+      "layer": "original-small-note",
+      "text": "此即廻\n血管也",
+      "parent_unit_id": "c034-R-c06",
+      "anchor": {
+        "offset": 16,
+        "after_text": "青筋、",
+        "counting": "Unicode codepoints in stored parent string including source punctuation",
+        "status": "source-located"
+      },
+      "subcolumn_order": "right-to-left, each top-to-bottom",
+      "responsibility": "original print; not modern editor"
+    },
+    {
+      "id": "c034-R-n04",
+      "layer": "original-small-note",
+      "text": "是乃津液",
+      "parent_unit_id": "c034-R-c07",
+      "anchor": {
+        "offset": 20,
+        "after_text": "凋謝、",
+        "counting": "Unicode codepoints in stored parent string including source punctuation",
+        "status": "source-located"
+      },
+      "subcolumn_order": "right-to-left, each top-to-bottom",
+      "responsibility": "original print; not modern editor"
+    },
+    {
+      "id": "c034-R-n05",
+      "layer": "original-small-note",
+      "text": "衞主氣人之一身脈絡糾纏既云脈外咸有衞氣以副之",
+      "parent_unit_id": "c034-R-c09",
+      "anchor": {
+        "offset": 4,
+        "after_text": "外之理、",
+        "counting": "Unicode codepoints in stored parent string including source punctuation",
+        "status": "source-located"
+      },
+      "subcolumn_order": "right-to-left, each top-to-bottom",
+      "responsibility": "original print; not modern editor"
+    },
+    {
+      "id": "c034-L-n01",
+      "layer": "original-small-note",
+      "text": "如實有其氣、入水不沉、嘗見淹死之屍、數日必浮、其故何也、蓋緣腹肺壞爛、則生氣、是以知氣生則浮也",
+      "parent_unit_id": "c034-L-c01",
+      "anchor": {
+        "offset": 5,
+        "after_text": "有淹斃者、",
+        "counting": "Unicode codepoints in stored parent string including source punctuation",
+        "status": "source-located"
+      },
+      "subcolumn_order": "right-to-left, each top-to-bottom",
+      "responsibility": "original print; not modern editor"
+    },
+    {
+      "id": "c034-L-n02",
+      "layer": "original-small-note",
+      "text": "設使果有十二經、與診脈之一道、吾無取焉",
+      "parent_unit_id": "c034-L-c07",
+      "anchor": {
+        "offset": 2,
+        "after_text": "數、",
+        "counting": "Unicode codepoints in stored parent string including source punctuation",
+        "status": "source-located"
+      },
+      "subcolumn_order": "right-to-left, each top-to-bottom",
+      "responsibility": "original print; not modern editor"
+    },
+    {
+      "id": "c034-R-n00",
+      "layer": "original-small-note-continuation",
+      "text": "心之跳動、與其母心\n之跳動之數不同、",
+      "continuation_of": "c033-L-n03",
+      "parent_unit_id": "c033-L-c09",
+      "anchor": {
+        "offset": 22,
+        "after_text": "食之、",
+        "counting": "Unicode codepoints in stored parent string including source punctuation",
+        "status": "source-located"
+      },
+      "source_page_id": "c034-R",
+      "subcolumn_order": "right-to-left, each top-to-bottom; starts at top of next source face",
+      "responsibility": "original print; source-verified cross-page continuation"
+    },
+    {
+      "id": "c035-L-n01",
+      "layer": "original-small-type-inset",
+      "text": "若心果能生血、按食物養身之理、終難恰當、夫血爲飲食之精英所化、由口以至肛門、雖有曲折、而無此徑、食物穿腸而行、又安得以養其身哉、",
+      "parent_unit_id": "c035-L-b01",
+      "anchor": {
+        "offset": 25,
+        "after_text": "脾統血",
+        "counting": "Unicode codepoints including stored source marks",
+        "status": "source-positioned; exact small-type/main-body interpretation provisional"
+      },
+      "subcolumn_order": "right-to-left each top-to-bottom, continuation across physical columns",
+      "source_interpretation_limit": "Opening 若心果能生血 lies beyond right edge of native region, read on whole1000 source; native only evidence for remaining text. No claim that narrow region contains whole inset."
+    },
+    {
+      "id": "c035-L-n02",
+      "layer": "original-small-type-inset",
+      "text": "殊不知血無藏法、如血藏則爲悶窒、係病矣、如寒冬月嚴寒、行路之人往往",
+      "parent_unit_id": "c035-L-b02",
+      "anchor": {
+        "offset": 8,
+        "after_text": "肝藏血者、",
+        "counting": "Unicode codepoints including stored source marks",
+        "status": "source-positioned; exact small-type/main-body interpretation provisional"
+      },
+      "subcolumn_order": "right-to-left each top-to-bottom, continuation across physical columns",
+      "source_interpretation_limit": "Typeface/position separation only; not a claim that the inset is semantically an author footnote."
+    },
+    {
+      "id": "c035-L-n03",
+      "layer": "original-small-type-inset",
+      "text": "凝結不能運行之所致也、",
+      "parent_unit_id": "c035-L-b03",
+      "anchor": {
+        "offset": 12,
+        "after_text": "係血",
+        "counting": "Unicode codepoints including stored source marks",
+        "status": "source-positioned; exact small-type/main-body interpretation provisional"
+      },
+      "subcolumn_order": "right-to-left each top-to-bottom, continuation across physical columns",
+      "source_interpretation_limit": "Typeface/position separation only; not a claim that the inset is semantically an author footnote."
+    },
+    {
+      "id": "c035-L-n04",
+      "layer": "original-small-type-inset",
+      "text": "按脾臟專司生津、以助消化其",
+      "parent_unit_id": "c035-L-b04",
+      "anchor": {
+        "offset": 8,
+        "after_text": "脾統血者、",
+        "counting": "Unicode codepoints including stored source marks",
+        "status": "source-positioned; exact small-type/main-body interpretation provisional"
+      },
+      "subcolumn_order": "right-to-left each top-to-bottom, continuation across physical columns",
+      "source_interpretation_limit": "Typeface/position separation only; not a claim that the inset is semantically an author footnote."
+    },
+    {
+      "id": "c035-L-n05",
+      "layer": "original-small-type-inset",
+      "text": "昔西醫亦云有氣管者、因[[G1842-c035L-01]]割牛羊、見其管中[[G1842-c035L-02]]然",
+      "parent_unit_id": "c035-L-b06",
+      "anchor": {
+        "offset": 16,
+        "after_text": "行脈者、",
+        "counting": "Unicode codepoints including stored source marks",
+        "status": "source-positioned; exact small-type/main-body interpretation provisional"
+      },
+      "subcolumn_order": "right-to-left each top-to-bottom, continuation across physical columns",
+      "source_interpretation_limit": "Small type ends beside subsequent main-size 空虛; source text roles and cross-column resumption retained as uncertain, not silently made a continuous clinical explanation."
+    },
+    {
+      "id": "c037-L-n01",
+      "layer": "original-small-type-inset",
+      "text": "此更屬\n無憑",
+      "parent_unit_id": "c037-L-c07",
+      "anchor": {
+        "offset": 23,
+        "after_text": "關涉也、",
+        "counting": "Unicode codepoints in stored parent"
+      },
+      "subcolumn_order": "right-to-left each top-to-bottom",
+      "reading_note": "無 belongs to small-type inset, not next main line."
+    },
+    {
+      "id": "c077-L-n01",
+      "layer": "original-small-type-inset",
+      "text": "英京有防災科之醫\n士四十六名每名醫\n士各有紀綜一年\n一次呈之於國、",
+      "parent_unit_id": "c077-L-c04",
+      "anchor": {
+        "offset": 18,
+        "after_text": "一切等事、",
+        "counting": "Unicode codepoints in stored parent"
+      },
+      "subcolumn_order": "right-to-left each top-to-bottom",
+      "reading_note": "Original small type kept separate; exact physical column alignment awaits independent source review."
+    },
+    {
+      "id": "c078-R-n01",
+      "layer": "original-small-type-inset",
+      "text": "乃大英國\n之南郡也",
+      "parent_unit_id": "c078-R-c07",
+      "anchor": {
+        "offset": 28,
+        "after_text": "英格利之地、",
+        "counting": "Unicode codepoints in stored parent"
+      },
+      "subcolumn_order": "right-to-left each top-to-bottom",
+      "reading_note": "Original small type kept separate; exact physical column alignment awaits independent source review."
+    },
+    {
+      "id": "c078-L-n01",
+      "layer": "original-small-type-inset",
+      "text": "此不列於海船在洋\n面之上遭風沉溺者、",
+      "parent_unit_id": "c078-L-c09",
+      "anchor": {
+        "offset": 16,
+        "after_text": "二千六百八十一名、",
+        "counting": "Unicode codepoints in stored parent"
+      },
+      "subcolumn_order": "right-to-left each top-to-bottom",
+      "reading_note": "Original small type kept separate; exact physical column alignment awaits independent source review."
+    },
+    {
+      "id": "c081-R-n01",
+      "layer": "original-small-type-inset",
+      "text": "西國之官亦不明\n檢驗之事全憑醫\n士驗証爲據、然而西醫恪遵國律雖毫末之微無敢朦弊\n作姦者、○再西醫與仵作原本一科且是以佐其讞獄也、",
+      "parent_unit_id": "c081-R-c06",
+      "anchor": {
+        "offset": 19,
+        "after_text": "捏詞索賄之端、",
+        "counting": "Unicode codepoints in stored parent"
+      },
+      "reading_note": "Complete same inset spans parts of three physical columns. Large-type 所以 is the main-text resumption, excluded from small type. Source circle inside inset retained; not forced into two separately anchored notes.",
+      "source_roi": {
+        "sha256": "730cbf5966e072ee77c51c39926e54132bf2c7616aae5c13f01d751f31a0cda7"
+      }
+    }
+  ],
+  "tables": [
+    {
+      "id": "c086-L-T01",
+      "page_id": "c086-L",
+      "title_as_printed": "身量\n由頂至踵",
+      "columns_as_printed": [
+        "性別",
+        "尺",
+        "寸",
+        "分"
+      ],
+      "rows_as_printed": [
+        [
+          "男",
+          "五",
+          "六",
+          "六"
+        ],
+        [
+          "女",
+          "五",
+          "一",
+          "○"
+        ]
+      ],
+      "note": "Source row labels/numerals only, no unit conversion. Links previous small-type explanation; not calibrated character boxes.",
+      "reading_position": {
+        "after_unit": "c086-L-c09",
+        "before_unit": "c086-L-c10"
+      }
+    },
+    {
+      "id": "c087-R-T01",
+      "page_id": "c087-R",
+      "header_groups_right_to_left": [
+        "由頂至\n交骨",
+        "由交骨\n至足",
+        "由肩至\n手稍",
+        "大腿骨\n脛骨",
+        "跗骨\n骼髆骨",
+        "臂骨\n髀骨"
+      ],
+      "row_groups_as_printed": [
+        [
+          "二九六",
+          "二九○",
+          "二五六",
+          "一五八\n一二七",
+          "一二二\n一○五",
+          "○九五\n○十一"
+        ],
+        [
+          "二七一",
+          "二五十二",
+          "二二八",
+          "一四六\n一一九",
+          "一一五\n○十二七",
+          "○八八\n○九九"
+        ]
+      ],
+      "note": "Merged header groups and original stacked numeral strings preserved provisionally. No decimal points, zero conversion, sex labels or one-to-one bone measurement mapping supplied where not explicitly printed. Group alignment and dense subcolumns require independent source review.",
+      "reading_position": {
+        "before_unit": "c087-R-c01"
+      }
+    },
+    {
+      "id": "c088-R-T01",
+      "page_id": "c088-R",
+      "header_groups_right_to_left": [
+        "年齒",
+        "門牙",
+        "輔牙",
+        "虎牙",
+        "邊牙\n前",
+        "邊牙\n後",
+        "槽牙\n前",
+        "槽牙\n中",
+        "槽牙\n後"
+      ],
+      "rows_as_printed": [
+        [
+          "七",
+          "○",
+          "○",
+          "○",
+          "○",
+          "○",
+          "四",
+          "○",
+          "○"
+        ],
+        [
+          "八",
+          "四",
+          "○",
+          "○",
+          "○",
+          "○",
+          "四",
+          "○",
+          "○"
+        ],
+        [
+          "九",
+          "四",
+          "四",
+          "○",
+          "○",
+          "○",
+          "四",
+          "○",
+          "○"
+        ],
+        [
+          "十",
+          "四",
+          "四",
+          "○",
+          "四",
+          "○",
+          "四",
+          "○",
+          "○"
+        ],
+        [
+          "十一",
+          "四",
+          "四",
+          "○",
+          "四",
+          "四",
+          "四",
+          "○",
+          "○"
+        ],
+        [
+          "十二至十三年",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "○",
+          "○"
+        ],
+        [
+          "十四至十五",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "○"
+        ],
+        [
+          "十六至十八",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四",
+          "四"
+        ]
+      ],
+      "note": "Circles remain source ○, not numeric0. Small stacked age ranges retained provisionally, require independent source review. No contemporary dental/clinical assertion.",
+      "reading_position": {
+        "before_unit": "c088-R-c01"
+      }
+    },
+    {
+      "id": "c093-R-table1",
+      "source_scope": "table-only, adjacent prose uses existing-text link",
+      "header": [
+        "層位",
+        "橫徑",
+        "斜徑",
+        "前後徑"
+      ],
+      "source_table_groups": [
+        {
+          "title": "婦人度數",
+          "rows": [
+            [
+              "上",
+              "五寸二分",
+              "四寸八分",
+              "四寸二分五厘"
+            ],
+            [
+              "中",
+              "四寸七分五厘",
+              "五寸二分",
+              "四寸七分"
+            ],
+            [
+              "下",
+              "四寸二分",
+              "○",
+              "五寸"
+            ]
+          ]
+        },
+        {
+          "title": "男人度數",
+          "rows": [
+            [
+              "上",
+              "四寸六分",
+              "四寸五分",
+              "四寸"
+            ],
+            [
+              "中",
+              "四寸",
+              "五寸",
+              "五寸"
+            ],
+            [
+              "下",
+              "三寸",
+              "○",
+              "三寸三分"
+            ]
+          ]
+        }
+      ],
+      "no_unit_conversion": true,
+      "no_circle_to_zero_normalization": true
+    }
+  ]
 }
