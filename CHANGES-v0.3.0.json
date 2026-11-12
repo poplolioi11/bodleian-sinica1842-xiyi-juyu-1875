@@ -1,0 +1,96 @@
+{
+  "base_version": "0.2.0",
+  "result_version": "0.3.0",
+  "front25_text_or_record_changes": [],
+  "front25_unchanged": true,
+  "new_initial_complete_prose_faces": [
+    "c033-L",
+    "c034-R",
+    "c034-L",
+    "c035-R",
+    "c035-L",
+    "c036-R",
+    "c036-L",
+    "c037-R",
+    "c037-L",
+    "c038-R",
+    "c038-L",
+    "c039-R",
+    "c077-L",
+    "c078-R",
+    "c078-L",
+    "c079-R",
+    "c079-L",
+    "c080-L",
+    "c081-R",
+    "c081-L",
+    "c082-L",
+    "c083-R",
+    "c083-L",
+    "c084-R",
+    "c086-L",
+    "c087-R",
+    "c087-L",
+    "c088-R"
+  ],
+  "new_initial_selected_figure_table_layers": [
+    {
+      "id": "c030-L",
+      "role": "diagram"
+    },
+    {
+      "id": "c031-R",
+      "role": "diagram"
+    },
+    {
+      "id": "c032-full",
+      "role": "foldout"
+    },
+    {
+      "id": "c050-R",
+      "role": "diagram"
+    },
+    {
+      "id": "c051-full",
+      "role": "foldout"
+    },
+    {
+      "id": "c056-R",
+      "role": "diagram"
+    },
+    {
+      "id": "c060-R",
+      "role": "diagram"
+    },
+    {
+      "id": "c089-L",
+      "role": "diagram-only-in-mixed-face"
+    },
+    {
+      "id": "c090-R",
+      "role": "diagram"
+    },
+    {
+      "id": "c093-L",
+      "role": "diagram"
+    },
+    {
+      "id": "c093-R",
+      "role": "table-only-in-mixed-face"
+    },
+    {
+      "id": "c094-R",
+      "role": "diagram"
+    },
+    {
+      "id": "c095-full",
+      "role": "foldout"
+    }
+  ],
+  "new_native_units": 561,
+  "new_separate_notes": 21,
+  "original_tables": 4,
+  "source_text_edited_during_integration": false,
+  "previous_source_adjudication_changes": "CHANGES-v0.2.0.json",
+  "not_an_accuracy_measurement": true
+}

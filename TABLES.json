@@ -1,12 +1,12 @@
 {
-  "scope": "Four original tables; fixed textual projections already occur once among the561 new native units. Structural records are parallel metadata, not extra transcribed tables.",
+  "scope": "Four original table records; their textual representations occur once within568 native units. Parallel structures do not add transcribed text.",
   "tables": [
     {
       "id": "c086-L-T01",
       "page_id": "c086-L",
       "title_as_printed": "身量\n由頂至踵",
       "columns_as_printed": [
-        "性別",
+        "",
         "尺",
         "寸",
         "分"
@@ -29,7 +29,25 @@
       "reading_position": {
         "after_unit": "c086-L-c09",
         "before_unit": "c086-L-c10"
-      }
+      },
+      "column_roles": [
+        "gender label (editorial, not printed 性別)",
+        "原尺",
+        "原寸",
+        "原分"
+      ],
+      "original_numeral_strings": [
+        {
+          "physical_row": "upper 男",
+          "string": "五六六",
+          "unit_string": "尺寸分"
+        },
+        {
+          "physical_row": "lower 女",
+          "string": "五一○",
+          "unit_string": "尺寸分"
+        }
+      ]
     },
     {
       "id": "c087-R-T01",
@@ -38,31 +56,54 @@
         "由頂至\n交骨",
         "由交骨\n至足",
         "由肩至\n手稍",
-        "大腿骨\n脛骨",
-        "跗骨\n骼髆骨",
-        "臂骨\n髀骨"
+        "大腿骨",
+        "脛骨",
+        "斷骨",
+        "髆轉骨",
+        "臂骨",
+        "髀骨"
       ],
       "row_groups_as_printed": [
         [
           "二九六",
           "二九○",
           "二五六",
-          "一五八\n一二七",
-          "一二二\n一○五",
-          "○九五\n○十一"
+          "一五八",
+          "一二七",
+          "一二二",
+          "一○五",
+          "○九五",
+          "○十二"
         ],
         [
           "二七一",
-          "二五十二",
+          "二五十一",
           "二二八",
-          "一四六\n一一九",
-          "一一五\n○十二七",
-          "○八八\n○九九"
+          "一四六",
+          "一一九",
+          "一一五",
+          "○十二七",
+          "○八八",
+          "○九九"
         ]
       ],
-      "note": "Merged header groups and original stacked numeral strings preserved provisionally. No decimal points, zero conversion, sex labels or one-to-one bone measurement mapping supplied where not explicitly printed. Group alignment and dense subcolumns require independent source review.",
+      "note": "兩原稿的數字有誤；此處按native原字串與9子欄保存。二五十一、○十二、○十二七均不數值化、不補小數點；與上頁男女映射另層，不假稱原表另印男女。",
       "reading_position": {
         "before_unit": "c087-R-c01"
+      },
+      "physical_layout": {
+        "large_cells": 6,
+        "subcolumns_per_cell": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        "value_rows": 2,
+        "gender_labels_printed_here": false,
+        "units_printed_here": false
       }
     },
     {
@@ -71,7 +112,7 @@
       "header_groups_right_to_left": [
         "年齒",
         "門牙",
-        "輔牙",
+        "門輔牙",
         "虎牙",
         "邊牙\n前",
         "邊牙\n後",
@@ -81,7 +122,7 @@
       ],
       "rows_as_printed": [
         [
-          "七",
+          "七、",
           "○",
           "○",
           "○",
@@ -92,7 +133,7 @@
           "○"
         ],
         [
-          "八",
+          "八、",
           "四",
           "○",
           "○",
@@ -103,7 +144,7 @@
           "○"
         ],
         [
-          "九",
+          "九、",
           "四",
           "四",
           "○",
@@ -114,7 +155,7 @@
           "○"
         ],
         [
-          "十",
+          "十、",
           "四",
           "四",
           "○",
@@ -125,7 +166,7 @@
           "○"
         ],
         [
-          "十一",
+          "十二、",
           "四",
           "四",
           "○",
@@ -136,7 +177,7 @@
           "○"
         ],
         [
-          "十二至十三年",
+          "十二\n十三年",
           "四",
           "四",
           "四",
@@ -147,7 +188,7 @@
           "○"
         ],
         [
-          "十四至十五",
+          "十三年\n十四",
           "四",
           "四",
           "四",
@@ -158,7 +199,7 @@
           "○"
         ],
         [
-          "十六至十八",
+          "十八、\n三十五",
           "四",
           "四",
           "四",
@@ -169,19 +210,80 @@
           "四"
         ]
       ],
-      "note": "Circles remain source ○, not numeric0. Small stacked age ranges retained provisionally, require independent source review. No contemporary dental/clinical assertion.",
+      "note": "表年齒末3格含雙小欄，保留原字串／位置而不插原無之至字；第6、7格年/半仍疑讀，另q。末格右十八、左三十五，不按現代齒齡改寫。○保留為原圈。",
       "reading_position": {
         "before_unit": "c088-R-c01"
-      }
+      },
+      "age_cell_physical_subcolumns_right_to_left": [
+        {
+          "row_index": 1,
+          "subcolumns": [
+            "七、"
+          ],
+          "separator_is_editorial": false
+        },
+        {
+          "row_index": 2,
+          "subcolumns": [
+            "八、"
+          ],
+          "separator_is_editorial": false
+        },
+        {
+          "row_index": 3,
+          "subcolumns": [
+            "九、"
+          ],
+          "separator_is_editorial": false
+        },
+        {
+          "row_index": 4,
+          "subcolumns": [
+            "十、"
+          ],
+          "separator_is_editorial": false
+        },
+        {
+          "row_index": 5,
+          "subcolumns": [
+            "十二、"
+          ],
+          "separator_is_editorial": false
+        },
+        {
+          "row_index": 6,
+          "subcolumns": [
+            "十二",
+            "十三年"
+          ],
+          "separator_is_editorial": false
+        },
+        {
+          "row_index": 7,
+          "subcolumns": [
+            "十三年",
+            "十四"
+          ],
+          "separator_is_editorial": false
+        },
+        {
+          "row_index": 8,
+          "subcolumns": [
+            "十八、",
+            "三十五"
+          ],
+          "separator_is_editorial": false
+        }
+      ]
     },
     {
       "id": "c093-R-table1",
       "source_scope": "table-only, adjacent prose uses existing-text link",
       "header": [
-        "層位",
-        "橫徑",
-        "斜徑",
-        "前後徑"
+        "",
+        "横逕",
+        "斜逕",
+        "前後逕"
       ],
       "source_table_groups": [
         {
@@ -232,7 +334,14 @@
         }
       ],
       "no_unit_conversion": true,
-      "no_circle_to_zero_normalization": true
+      "no_circle_to_zero_normalization": true,
+      "column_roles": [
+        "layer label (editorial, not printed 層位)",
+        "原横逕",
+        "原斜逕",
+        "原前後逕"
+      ],
+      "page_id": "c093-R"
     }
   ]
 }

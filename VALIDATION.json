@@ -1,33 +1,34 @@
 {
-  "schema": "fixed-integration-check/1",
+  "schema": "fixed-v040-integration/1",
   "status": "passed",
-  "front25_deep_equal_to_v020": true,
-  "new41_source_files_verified": 67,
-  "new_native_units": 561,
-  "new_separate_notes": 21,
+  "front25_deep_equal_v030": true,
+  "canonical41_unit_and_note_strings_fixed": true,
+  "new_native_units": 568,
+  "new_separate_notes": 24,
   "original_tables": 4,
-  "new_stored_codepoints_units_and_notes": 8702,
-  "export_units": 803,
-  "derived_margin_export_units": 47,
+  "new_uncertainties": 52,
+  "new_gaiji": 1,
+  "export_units": 857,
+  "derived_margin_export_units": 91,
+  "new_stored_codepoints_units_and_notes": 8746,
+  "new_source_refs_hash_checked": 94,
   "roundtrip": "passed",
-  "source_judgment_performed": false,
+  "source_judgment_performed_by_integrator": false,
   "accuracy_measured": false,
   "public_common_envelope_included": false,
-  "public_master_and_export_map": "book.json + EXPORT-MAP.json",
   "public_only_reconstruction": "passed",
-  "fixed_new41_unit_strings": "passed",
+  "canonical41_strings_and_offsets": "passed",
+  "all24_note_anchors": "passed",
+  "context_labels_excluded_from_text": 13,
   "negative_mutations_rejected": [
-    "TXT one-codepoint substitution",
+    "TXT one-codepoint change",
     "TEI changed unit",
-    "swapped TXT unit mapping",
-    "duplicate unit identity",
-    "fixed source hash changed"
+    "swapped TXT unit map"
   ],
-  "source_exclusions": "passed",
   "semantic_traceability": {
     "actual_exit": 3,
     "pending_reason": "unknown-model only",
-    "observations": 803
+    "observations": 857
   },
   "text_publication_gate": {
     "purpose": "text-publication",
@@ -44,5 +45,5 @@
     "sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b",
     "status": "passed"
   },
-  "text_publication_note": "allowed-as-recorded verifies bounded purpose records, not global legal certification or scholarly quality."
+  "scope": "Engineering consistency of the fixed partial edition; no scholarly accuracy, human review or legal certification."
 }

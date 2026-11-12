@@ -3,21 +3,21 @@ message: Please cite this dataset when using the transcription or editorial docu
   for the separate status of historical text and source images.
 type: dataset
 title: 西醫舉隅 / Xi yi ju yu [Gleanings of Western medicine]
-version: 0.3.0
+version: 0.4.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
   orcid: https://orcid.org/0009-0003-9738-6914
 url: https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875
 license: CC-BY-4.0
-abstract: Xi yi ju yu [Gleanings of Western medicine] is an 1875 compilation of John Dudgeon’s medical
-  articles from Zhong xi wen jian lu, catalogued with the place [Peking] and held as Bodleian Sinica 1842.
-  Its five prefaces and articles on the heart, circulation, eyes and forensic medicine support studies
-  of late Qing medicine, translation, visual knowledge and publishing. This release retains 25 source-revised
-  frontmatter faces and adds initial transcriptions of 28 complete prose faces and 13 selected diagram-label
-  or table layers. JSON, TXT and TEI provide the text, notes, uncertainties and source references; existing
-  periodical texts are linked rather than copied. This is a partial-book, AI-assisted edition, without
-  full human collation; uncertain readings are marked.
+abstract: Xi yi ju yu [Gleanings of Western medicine] compiles John Dudgeon’s medical articles from Zhong
+  xi wen jian lu, catalogued as an 1875 [Peking] edition and held as Bodleian Sinica 1842. Its five prefaces
+  and articles on the heart, circulation, eyes and forensic medicine support studies of late Qing medicine,
+  translation, visual knowledge and publishing. This release preserves 25 title, preface and contents
+  faces and supplies revised text for 28 complete prose faces and 13 selected diagram-label or table layers.
+  JSON, TXT and TEI retain source characters, notes, uncertainties and links to the original; other existing
+  periodical texts are linked rather than copied. AI independent readings were compared through nonblind
+  source-image adjudication; full human collation has not been performed and unresolved readings are marked.
 keywords:
 - 西醫舉隅
 - Xi yi ju yu

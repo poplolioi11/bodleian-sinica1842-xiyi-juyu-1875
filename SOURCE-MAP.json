@@ -1,5 +1,5 @@
 {
-  "scope": "25 unchanged source-reviewed frontmatterfaces and41 initial source surfaces:28 complete prosefaces plus13 selected figure/tablelayers; images not distributed.",
+  "scope": "25 inherited frontmatter faces plus28 complete prosefaces and13 selected original diagram/tablelayers, reviewed within the declared layers. No images distributed.",
   "pages": [
     {
       "page_id": "sinica1842-c002-R",
@@ -575,7 +575,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c034-R",
@@ -601,7 +601,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c034-L",
@@ -627,7 +627,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c035-R",
@@ -653,7 +653,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c035-L",
@@ -679,7 +679,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c036-R",
@@ -705,7 +705,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c036-L",
@@ -731,7 +731,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c037-R",
@@ -757,7 +757,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c037-L",
@@ -783,7 +783,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c038-R",
@@ -809,7 +809,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c038-L",
@@ -835,7 +835,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c039-R",
@@ -861,7 +861,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c077-L",
@@ -887,7 +887,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c078-R",
@@ -913,7 +913,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c078-L",
@@ -939,7 +939,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c079-R",
@@ -965,7 +965,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c079-L",
@@ -991,7 +991,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c080-L",
@@ -1017,7 +1017,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c081-R",
@@ -1043,7 +1043,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c081-L",
@@ -1069,7 +1069,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c082-L",
@@ -1095,7 +1095,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c083-R",
@@ -1121,7 +1121,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c083-L",
@@ -1147,7 +1147,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c084-R",
@@ -1173,7 +1173,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c086-L",
@@ -1199,7 +1199,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c087-R",
@@ -1225,7 +1225,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c087-L",
@@ -1251,7 +1251,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c088-R",
@@ -1277,7 +1277,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": true,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c030-L",
@@ -1303,7 +1303,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": false,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c031-R",
@@ -1329,7 +1329,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": false,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c032-full",
@@ -1355,7 +1355,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": false,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c050-R",
@@ -1381,7 +1381,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": false,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c051-full",
@@ -1407,7 +1407,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": false,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c056-R",
@@ -1433,7 +1433,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": false,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c060-R",
@@ -1461,7 +1461,7 @@
       "all_layers_requested": false,
       "whole_frame_not_supplied": true,
       "source_url_note": "Source-location link for right half; actual local image is lossless crop of fixed preview, not downloaded via this link.",
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c089-L",
@@ -1487,7 +1487,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": false,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c090-R",
@@ -1513,7 +1513,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": false,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c093-L",
@@ -1539,7 +1539,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": false,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c093-R",
@@ -1565,7 +1565,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": false,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c094-R",
@@ -1591,7 +1591,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": false,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     },
     {
       "page_id": "c095-full",
@@ -1617,7 +1617,7 @@
       ],
       "no_native_resolution_claim": true,
       "all_layers_requested": false,
-      "quality_stratum": "new41-initial"
+      "quality_stratum": "new41-source-adjudicated"
     }
   ]
 }

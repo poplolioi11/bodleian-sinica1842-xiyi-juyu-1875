@@ -1,8 +1,8 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "full_book_text_provided": false,
   "reviewed_frontmatter_faces": 25,
-  "new_initial_complete_prose_faces": [
+  "source_adjudicated_complete_prose_faces": [
     "c033-L",
     "c034-R",
     "c034-L",
@@ -32,7 +32,7 @@
     "c087-L",
     "c088-R"
   ],
-  "new_initial_selected_figure_table_surfaces": [
+  "source_adjudicated_selected_figure_table_surfaces": [
     {
       "id": "c030-L",
       "role": "diagram"
@@ -94,8 +94,8 @@
     "c075-R"
   ],
   "c060_R_scope": "Isolated eye diagram only; adjacent operational text excluded",
-  "other_parent_periodical_prose": "Existing text linked in READING-GUIDE.md; not copied into this dataset",
-  "appendix": "五字辯 is not newly transcribed; existing parent-periodical text linked; Oxford final-face comparison remains outside this release.",
+  "other_parent_periodical_prose": "Links only, not copied; see READING-GUIDE.md",
+  "appendix": "五字辯 is not newly transcribed; existing parent-periodical text linked.",
   "review_states": [
     {
       "id": "front25",
@@ -111,12 +111,14 @@
       "surfaces": 41,
       "complete_prose_faces": 28,
       "selected_figure_table_surfaces": 13,
-      "stage": "AI source-image initial transcription; not independently collated",
-      "units_excluding_separate_notes": 561,
-      "separate_notes": 21,
+      "stage": "AI initial and separately saved independent reading compared through nonblind source-image adjudication",
+      "independent_reading": "completed in a separate source-only reading, followed by nonblind image adjudication",
+      "source_adjudication_surfaces": 41,
+      "units_excluding_separate_notes": 568,
+      "separate_notes": 24,
       "table_records": 4,
-      "uncertainty_records": 144,
-      "gaiji_records": 7
+      "uncertainty_records": 52,
+      "gaiji_records": 1
     }
   ]
 }

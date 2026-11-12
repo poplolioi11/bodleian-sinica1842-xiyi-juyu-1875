@@ -1,5 +1,5 @@
 {
-  "scope": "Inherited front25 gaiji/seal records plus7 initial new41 gaiji. Candidate forms are not adopted substitutions.",
+  "scope": "Unchanged front25 encoding/seal records and one source-reviewed new41 gaiji; candidates are not silently substituted.",
   "source_images_included": false,
   "records": [
     {
@@ -288,21 +288,6 @@
       "exact_encoding_status": "unknown"
     },
     {
-      "id": "G1842-c034L-01",
-      "unit_id": "c034-L-c03",
-      "extent_original_glyphs": 1,
-      "candidates": [
-        "槖",
-        "橐"
-      ],
-      "reason": "Dense printed first glyph before 筒; encoding unresolved at preview resolution.",
-      "page_id": "c034-L",
-      "review_status": "initial-unresolved",
-      "representation": "[[G1842-c034L-01]]",
-      "start": 10,
-      "end": 28
-    },
-    {
       "id": "G1842-c035L-01",
       "unit_id": "c035-L-n05",
       "extent_original_glyphs": 1,
@@ -311,99 +296,19 @@
         "辛"
       ],
       "reason": "Dense upper roof/vertical form before 割 not settled by meaning.",
+      "locations": [
+        {
+          "unit_id": "c035-L-n05",
+          "start": 11,
+          "end": 29
+        }
+      ],
+      "source_page_id": "c035-L",
       "page_id": "c035-L",
-      "review_status": "initial-unresolved",
+      "review_status": "source-reviewed-encoding-unresolved",
       "representation": "[[G1842-c035L-01]]",
       "start": 11,
       "end": 29
-    },
-    {
-      "id": "G1842-c035L-02",
-      "unit_id": "c035-L-n05",
-      "extent_original_glyphs": 1,
-      "candidates": [
-        "豁",
-        "鈴"
-      ],
-      "reason": "Dense radical combination before 然 unresolved after source reading.",
-      "page_id": "c035-L",
-      "review_status": "initial-unresolved",
-      "representation": "[[G1842-c035L-02]]",
-      "start": 37,
-      "end": 55
-    },
-    {
-      "id": "G-S1842-b010-01",
-      "unit_id": "c056-R-fig2-label-01",
-      "offset": 0,
-      "length": 1,
-      "display": "□",
-      "candidates": [
-        "癸",
-        "壬"
-      ],
-      "reason": "Small white single diagram-letter near object end; unresolved source glyph.",
-      "source_scope": "one visible glyph position; not whole missing illustration or page",
-      "page_id": "c056-R",
-      "review_status": "initial-unresolved",
-      "representation": "□",
-      "start": 0,
-      "end": 1
-    },
-    {
-      "id": "G-S1842-b010-02",
-      "unit_id": "c093-L-male-label-06",
-      "offset": 0,
-      "length": 1,
-      "display": "□",
-      "candidates": [
-        "髀",
-        "骼"
-      ],
-      "reason": "Single old-anatomical label at lower-right male pelvis source graph.",
-      "source_scope": "one visible glyph position; not whole missing illustration or page",
-      "page_id": "c093-L",
-      "review_status": "initial-unresolved",
-      "representation": "□",
-      "start": 0,
-      "end": 1
-    },
-    {
-      "id": "G-S1842-b010-03",
-      "unit_id": "c093-L-female-label-04",
-      "offset": 0,
-      "length": 1,
-      "display": "□",
-      "candidates": [
-        "髀",
-        "臀"
-      ],
-      "reason": "First glyph before 肉 in lower-right female pelvis source graph.",
-      "source_scope": "one visible glyph position; not whole missing illustration or page",
-      "page_id": "c093-L",
-      "review_status": "initial-unresolved",
-      "representation": "□",
-      "start": 0,
-      "end": 1
-    },
-    {
-      "id": "G-S1842-b010-04",
-      "unit_id": "c094-R-label-035",
-      "offset": 0,
-      "length": 1,
-      "display": "□",
-      "candidates": [
-        "䐃",
-        "膻",
-        "連"
-      ],
-      "reason": "First source graph in vertical sternum caption; not filled by modern anatomical term.",
-      "source_scope": "one visible glyph position; not whole missing illustration or page",
-      "page_id": "c094-R",
-      "review_status": "initial-unresolved",
-      "representation": "□",
-      "start": 0,
-      "end": 1
     }
   ]
 }

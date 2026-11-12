@@ -1,7 +1,7 @@
 {
   "schema": "fixed-native-to-common-export-map/1",
-  "page_order": "Existing front25 order, then frozen new41 scope order (prose group followed by selected figure/table group); not continuous full-book order.",
-  "unit_order": "Frozen unit array, followed by separate notes and explicit margin projections; note/table anchors carry reading positions.",
+  "page_order": "Inherited front25, then corrected new41 scope order; not continuous full-book order.",
+  "unit_order": "Native units, separate notes, then explicit margin projections. Anchors/reading_position carry source reading positions. Chapter/context descriptions are not transcribed units.",
   "units": [
     {
       "unit_id": "sinica1842-c002-R-c01",
@@ -1225,4404 +1225,4782 @@
       "unit_id": "c033-L-title",
       "page_id": "c033-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 175
     },
     {
       "unit_id": "c033-L-byline",
       "page_id": "c033-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 176
     },
     {
       "unit_id": "c033-L-c01",
       "page_id": "c033-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 177
     },
     {
       "unit_id": "c033-L-c02",
       "page_id": "c033-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 178
     },
     {
       "unit_id": "c033-L-c03",
       "page_id": "c033-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 179
     },
     {
       "unit_id": "c033-L-c04",
       "page_id": "c033-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 180
     },
     {
       "unit_id": "c033-L-c05",
       "page_id": "c033-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 181
     },
     {
       "unit_id": "c033-L-c06",
       "page_id": "c033-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 182
     },
     {
       "unit_id": "c033-L-c07",
       "page_id": "c033-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 183
     },
     {
       "unit_id": "c033-L-c08",
       "page_id": "c033-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 184
     },
     {
       "unit_id": "c033-L-c09",
       "page_id": "c033-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 185
     },
     {
       "unit_id": "c033-L-n01",
       "page_id": "c033-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 186
     },
     {
       "unit_id": "c033-L-n02",
       "page_id": "c033-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 187
     },
     {
       "unit_id": "c033-L-n03",
       "page_id": "c033-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 188
     },
     {
       "unit_id": "c033-L-margin-running_title",
       "page_id": "c033-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 189
     },
     {
       "unit_id": "c033-L-margin-original_page_label",
       "page_id": "c033-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 190
     },
     {
       "unit_id": "c033-L-margin-month",
       "page_id": "c033-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
+      "stratum": "new41-source-adjudicated",
       "order": 191
+    },
+    {
+      "unit_id": "c033-L-margin-book_header",
+      "page_id": "c033-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 192
     },
     {
       "unit_id": "c034-R-c01",
       "page_id": "c034-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 192
+      "stratum": "new41-source-adjudicated",
+      "order": 193
     },
     {
       "unit_id": "c034-R-c02",
       "page_id": "c034-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 193
+      "stratum": "new41-source-adjudicated",
+      "order": 194
     },
     {
       "unit_id": "c034-R-c03",
       "page_id": "c034-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 194
+      "stratum": "new41-source-adjudicated",
+      "order": 195
     },
     {
       "unit_id": "c034-R-c04",
       "page_id": "c034-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 195
+      "stratum": "new41-source-adjudicated",
+      "order": 196
     },
     {
       "unit_id": "c034-R-c05",
       "page_id": "c034-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 196
+      "stratum": "new41-source-adjudicated",
+      "order": 197
     },
     {
       "unit_id": "c034-R-c06",
       "page_id": "c034-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 197
+      "stratum": "new41-source-adjudicated",
+      "order": 198
     },
     {
       "unit_id": "c034-R-c07",
       "page_id": "c034-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 198
+      "stratum": "new41-source-adjudicated",
+      "order": 199
     },
     {
       "unit_id": "c034-R-c08",
       "page_id": "c034-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 199
+      "stratum": "new41-source-adjudicated",
+      "order": 200
     },
     {
       "unit_id": "c034-R-c09",
       "page_id": "c034-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 200
+      "stratum": "new41-source-adjudicated",
+      "order": 201
     },
     {
       "unit_id": "c034-R-n01",
       "page_id": "c034-R",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 201
+      "stratum": "new41-source-adjudicated",
+      "order": 202
     },
     {
       "unit_id": "c034-R-n02",
       "page_id": "c034-R",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 202
+      "stratum": "new41-source-adjudicated",
+      "order": 203
     },
     {
       "unit_id": "c034-R-n03",
       "page_id": "c034-R",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 203
+      "stratum": "new41-source-adjudicated",
+      "order": 204
     },
     {
       "unit_id": "c034-R-n04",
       "page_id": "c034-R",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 204
+      "stratum": "new41-source-adjudicated",
+      "order": 205
     },
     {
       "unit_id": "c034-R-n05",
       "page_id": "c034-R",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 205
+      "stratum": "new41-source-adjudicated",
+      "order": 206
     },
     {
       "unit_id": "c034-R-n00",
       "page_id": "c034-R",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 206
+      "stratum": "new41-source-adjudicated",
+      "order": 207
     },
     {
-      "unit_id": "c034-R-margin-running_title",
+      "unit_id": "c034-R-margin-book_header",
       "page_id": "c034-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 207
+      "stratum": "new41-source-adjudicated",
+      "order": 208
     },
     {
       "unit_id": "c034-L-c01",
       "page_id": "c034-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 208
+      "stratum": "new41-source-adjudicated",
+      "order": 209
     },
     {
       "unit_id": "c034-L-c02",
       "page_id": "c034-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 209
+      "stratum": "new41-source-adjudicated",
+      "order": 210
     },
     {
       "unit_id": "c034-L-c03",
       "page_id": "c034-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 210
+      "stratum": "new41-source-adjudicated",
+      "order": 211
     },
     {
       "unit_id": "c034-L-c04",
       "page_id": "c034-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 211
+      "stratum": "new41-source-adjudicated",
+      "order": 212
     },
     {
       "unit_id": "c034-L-c05",
       "page_id": "c034-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 212
+      "stratum": "new41-source-adjudicated",
+      "order": 213
     },
     {
       "unit_id": "c034-L-c06",
       "page_id": "c034-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 213
+      "stratum": "new41-source-adjudicated",
+      "order": 214
     },
     {
       "unit_id": "c034-L-c07",
       "page_id": "c034-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 214
+      "stratum": "new41-source-adjudicated",
+      "order": 215
     },
     {
       "unit_id": "c034-L-c08",
       "page_id": "c034-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 215
+      "stratum": "new41-source-adjudicated",
+      "order": 216
     },
     {
       "unit_id": "c034-L-c09",
       "page_id": "c034-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 216
+      "stratum": "new41-source-adjudicated",
+      "order": 217
     },
     {
       "unit_id": "c034-L-c10",
       "page_id": "c034-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 217
+      "stratum": "new41-source-adjudicated",
+      "order": 218
     },
     {
       "unit_id": "c034-L-n01",
       "page_id": "c034-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 218
+      "stratum": "new41-source-adjudicated",
+      "order": 219
     },
     {
       "unit_id": "c034-L-n02",
       "page_id": "c034-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 219
+      "stratum": "new41-source-adjudicated",
+      "order": 220
+    },
+    {
+      "unit_id": "c034-L-n03-adj",
+      "page_id": "c034-L",
+      "origin": "separate-original-note",
+      "stratum": "new41-source-adjudicated",
+      "order": 221
     },
     {
       "unit_id": "c034-L-margin-running_title",
       "page_id": "c034-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 220
+      "stratum": "new41-source-adjudicated",
+      "order": 222
     },
     {
       "unit_id": "c034-L-margin-original_page_label",
       "page_id": "c034-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 221
+      "stratum": "new41-source-adjudicated",
+      "order": 223
     },
     {
       "unit_id": "c034-L-margin-month",
       "page_id": "c034-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 222
+      "stratum": "new41-source-adjudicated",
+      "order": 224
+    },
+    {
+      "unit_id": "c034-L-margin-book_header",
+      "page_id": "c034-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 225
     },
     {
       "unit_id": "c035-R-c01",
       "page_id": "c035-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 223
+      "stratum": "new41-source-adjudicated",
+      "order": 226
     },
     {
       "unit_id": "c035-R-c02",
       "page_id": "c035-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 224
+      "stratum": "new41-source-adjudicated",
+      "order": 227
     },
     {
       "unit_id": "c035-R-c03",
       "page_id": "c035-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 225
+      "stratum": "new41-source-adjudicated",
+      "order": 228
     },
     {
       "unit_id": "c035-R-c04",
       "page_id": "c035-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 226
+      "stratum": "new41-source-adjudicated",
+      "order": 229
     },
     {
       "unit_id": "c035-R-c05",
       "page_id": "c035-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 227
+      "stratum": "new41-source-adjudicated",
+      "order": 230
     },
     {
       "unit_id": "c035-R-c06",
       "page_id": "c035-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 228
+      "stratum": "new41-source-adjudicated",
+      "order": 231
     },
     {
       "unit_id": "c035-R-c07",
       "page_id": "c035-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 229
+      "stratum": "new41-source-adjudicated",
+      "order": 232
     },
     {
       "unit_id": "c035-R-c08",
       "page_id": "c035-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 230
+      "stratum": "new41-source-adjudicated",
+      "order": 233
     },
     {
       "unit_id": "c035-R-c09",
       "page_id": "c035-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 231
+      "stratum": "new41-source-adjudicated",
+      "order": 234
     },
     {
       "unit_id": "c035-R-c10",
       "page_id": "c035-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 232
+      "stratum": "new41-source-adjudicated",
+      "order": 235
     },
     {
-      "unit_id": "c035-R-margin-running_title",
+      "unit_id": "c035-R-margin-book_header",
       "page_id": "c035-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 233
+      "stratum": "new41-source-adjudicated",
+      "order": 236
     },
     {
       "unit_id": "c035-L-b01",
       "page_id": "c035-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 234
+      "stratum": "new41-source-adjudicated",
+      "order": 237
     },
     {
       "unit_id": "c035-L-b02",
       "page_id": "c035-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 235
+      "stratum": "new41-source-adjudicated",
+      "order": 238
     },
     {
       "unit_id": "c035-L-b03",
       "page_id": "c035-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 236
+      "stratum": "new41-source-adjudicated",
+      "order": 239
     },
     {
       "unit_id": "c035-L-b04",
       "page_id": "c035-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 237
+      "stratum": "new41-source-adjudicated",
+      "order": 240
     },
     {
       "unit_id": "c035-L-b05",
       "page_id": "c035-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 238
+      "stratum": "new41-source-adjudicated",
+      "order": 241
     },
     {
       "unit_id": "c035-L-b06",
       "page_id": "c035-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 239
+      "stratum": "new41-source-adjudicated",
+      "order": 242
     },
     {
       "unit_id": "c035-L-b07",
       "page_id": "c035-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 240
+      "stratum": "new41-source-adjudicated",
+      "order": 243
     },
     {
       "unit_id": "c035-L-b08",
       "page_id": "c035-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 241
+      "stratum": "new41-source-adjudicated",
+      "order": 244
     },
     {
       "unit_id": "c035-L-b09",
       "page_id": "c035-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 242
+      "stratum": "new41-source-adjudicated",
+      "order": 245
     },
     {
       "unit_id": "c035-L-b10",
       "page_id": "c035-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 243
+      "stratum": "new41-source-adjudicated",
+      "order": 246
     },
     {
       "unit_id": "c035-L-b11",
       "page_id": "c035-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 244
+      "stratum": "new41-source-adjudicated",
+      "order": 247
     },
     {
       "unit_id": "c035-L-b12",
       "page_id": "c035-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 245
+      "stratum": "new41-source-adjudicated",
+      "order": 248
     },
     {
       "unit_id": "c035-L-n01",
       "page_id": "c035-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 246
+      "stratum": "new41-source-adjudicated",
+      "order": 249
     },
     {
       "unit_id": "c035-L-n02",
       "page_id": "c035-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 247
+      "stratum": "new41-source-adjudicated",
+      "order": 250
     },
     {
       "unit_id": "c035-L-n03",
       "page_id": "c035-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 248
+      "stratum": "new41-source-adjudicated",
+      "order": 251
     },
     {
       "unit_id": "c035-L-n04",
       "page_id": "c035-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 249
+      "stratum": "new41-source-adjudicated",
+      "order": 252
     },
     {
       "unit_id": "c035-L-n05",
       "page_id": "c035-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 250
+      "stratum": "new41-source-adjudicated",
+      "order": 253
     },
     {
       "unit_id": "c035-L-margin-running_title",
       "page_id": "c035-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 251
+      "stratum": "new41-source-adjudicated",
+      "order": 254
     },
     {
       "unit_id": "c035-L-margin-page_label",
       "page_id": "c035-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 252
+      "stratum": "new41-source-adjudicated",
+      "order": 255
     },
     {
       "unit_id": "c035-L-margin-month",
       "page_id": "c035-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 253
+      "stratum": "new41-source-adjudicated",
+      "order": 256
+    },
+    {
+      "unit_id": "c035-L-margin-book_header",
+      "page_id": "c035-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 257
     },
     {
       "unit_id": "c036-R-c01",
       "page_id": "c036-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 254
+      "stratum": "new41-source-adjudicated",
+      "order": 258
     },
     {
       "unit_id": "c036-R-c02",
       "page_id": "c036-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 255
+      "stratum": "new41-source-adjudicated",
+      "order": 259
     },
     {
       "unit_id": "c036-R-c03",
       "page_id": "c036-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 256
+      "stratum": "new41-source-adjudicated",
+      "order": 260
     },
     {
       "unit_id": "c036-R-c04",
       "page_id": "c036-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 257
+      "stratum": "new41-source-adjudicated",
+      "order": 261
     },
     {
       "unit_id": "c036-R-c05",
       "page_id": "c036-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 258
+      "stratum": "new41-source-adjudicated",
+      "order": 262
     },
     {
       "unit_id": "c036-R-c06",
       "page_id": "c036-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 259
+      "stratum": "new41-source-adjudicated",
+      "order": 263
     },
     {
       "unit_id": "c036-R-c07",
       "page_id": "c036-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 260
+      "stratum": "new41-source-adjudicated",
+      "order": 264
     },
     {
       "unit_id": "c036-R-c08",
       "page_id": "c036-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 261
+      "stratum": "new41-source-adjudicated",
+      "order": 265
     },
     {
       "unit_id": "c036-R-c09",
       "page_id": "c036-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 262
+      "stratum": "new41-source-adjudicated",
+      "order": 266
     },
     {
       "unit_id": "c036-R-c10",
       "page_id": "c036-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 263
+      "stratum": "new41-source-adjudicated",
+      "order": 267
     },
     {
-      "unit_id": "c036-R-margin-running_title",
+      "unit_id": "c036-R-n01-adj",
+      "page_id": "c036-R",
+      "origin": "separate-original-note",
+      "stratum": "new41-source-adjudicated",
+      "order": 268
+    },
+    {
+      "unit_id": "c036-R-margin-book_header",
       "page_id": "c036-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 264
+      "stratum": "new41-source-adjudicated",
+      "order": 269
     },
     {
       "unit_id": "c036-L-c01",
       "page_id": "c036-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 265
+      "stratum": "new41-source-adjudicated",
+      "order": 270
     },
     {
       "unit_id": "c036-L-c02",
       "page_id": "c036-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 266
+      "stratum": "new41-source-adjudicated",
+      "order": 271
     },
     {
       "unit_id": "c036-L-c03",
       "page_id": "c036-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 267
+      "stratum": "new41-source-adjudicated",
+      "order": 272
     },
     {
       "unit_id": "c036-L-c04",
       "page_id": "c036-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 268
+      "stratum": "new41-source-adjudicated",
+      "order": 273
     },
     {
       "unit_id": "c036-L-c05",
       "page_id": "c036-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 269
+      "stratum": "new41-source-adjudicated",
+      "order": 274
     },
     {
       "unit_id": "c036-L-c06",
       "page_id": "c036-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 270
+      "stratum": "new41-source-adjudicated",
+      "order": 275
     },
     {
       "unit_id": "c036-L-c07",
       "page_id": "c036-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 271
+      "stratum": "new41-source-adjudicated",
+      "order": 276
     },
     {
       "unit_id": "c036-L-c08",
       "page_id": "c036-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 272
+      "stratum": "new41-source-adjudicated",
+      "order": 277
     },
     {
       "unit_id": "c036-L-c09",
       "page_id": "c036-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 273
+      "stratum": "new41-source-adjudicated",
+      "order": 278
     },
     {
       "unit_id": "c036-L-c10",
       "page_id": "c036-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 274
+      "stratum": "new41-source-adjudicated",
+      "order": 279
     },
     {
       "unit_id": "c036-L-margin-running_title",
       "page_id": "c036-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 275
+      "stratum": "new41-source-adjudicated",
+      "order": 280
     },
     {
       "unit_id": "c036-L-margin-original_page_label",
       "page_id": "c036-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 276
+      "stratum": "new41-source-adjudicated",
+      "order": 281
     },
     {
       "unit_id": "c036-L-margin-month",
       "page_id": "c036-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 277
+      "stratum": "new41-source-adjudicated",
+      "order": 282
+    },
+    {
+      "unit_id": "c036-L-margin-book_header",
+      "page_id": "c036-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 283
     },
     {
       "unit_id": "c037-R-c01",
       "page_id": "c037-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 278
+      "stratum": "new41-source-adjudicated",
+      "order": 284
     },
     {
       "unit_id": "c037-R-c02",
       "page_id": "c037-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 279
+      "stratum": "new41-source-adjudicated",
+      "order": 285
     },
     {
       "unit_id": "c037-R-c03",
       "page_id": "c037-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 280
+      "stratum": "new41-source-adjudicated",
+      "order": 286
     },
     {
       "unit_id": "c037-R-c04",
       "page_id": "c037-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 281
+      "stratum": "new41-source-adjudicated",
+      "order": 287
     },
     {
       "unit_id": "c037-R-c05",
       "page_id": "c037-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 282
+      "stratum": "new41-source-adjudicated",
+      "order": 288
     },
     {
       "unit_id": "c037-R-c06",
       "page_id": "c037-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 283
+      "stratum": "new41-source-adjudicated",
+      "order": 289
     },
     {
       "unit_id": "c037-R-c07",
       "page_id": "c037-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 284
+      "stratum": "new41-source-adjudicated",
+      "order": 290
     },
     {
       "unit_id": "c037-R-c08",
       "page_id": "c037-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 285
+      "stratum": "new41-source-adjudicated",
+      "order": 291
     },
     {
       "unit_id": "c037-R-c09",
       "page_id": "c037-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 286
+      "stratum": "new41-source-adjudicated",
+      "order": 292
     },
     {
-      "unit_id": "c037-R-c10",
+      "unit_id": "c037-R-n01-adj",
       "page_id": "c037-R",
-      "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 287
+      "origin": "separate-original-note",
+      "stratum": "new41-source-adjudicated",
+      "order": 293
     },
     {
-      "unit_id": "c037-R-margin-running_title",
+      "unit_id": "c037-R-margin-book_header",
       "page_id": "c037-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 288
+      "stratum": "new41-source-adjudicated",
+      "order": 294
     },
     {
       "unit_id": "c037-L-c01",
       "page_id": "c037-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 289
+      "stratum": "new41-source-adjudicated",
+      "order": 295
     },
     {
       "unit_id": "c037-L-c02",
       "page_id": "c037-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 290
+      "stratum": "new41-source-adjudicated",
+      "order": 296
     },
     {
       "unit_id": "c037-L-c03",
       "page_id": "c037-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 291
+      "stratum": "new41-source-adjudicated",
+      "order": 297
     },
     {
       "unit_id": "c037-L-c04",
       "page_id": "c037-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 292
+      "stratum": "new41-source-adjudicated",
+      "order": 298
     },
     {
       "unit_id": "c037-L-c05",
       "page_id": "c037-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 293
+      "stratum": "new41-source-adjudicated",
+      "order": 299
     },
     {
       "unit_id": "c037-L-c06",
       "page_id": "c037-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 294
+      "stratum": "new41-source-adjudicated",
+      "order": 300
     },
     {
       "unit_id": "c037-L-c07",
       "page_id": "c037-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 295
+      "stratum": "new41-source-adjudicated",
+      "order": 301
     },
     {
       "unit_id": "c037-L-c08",
       "page_id": "c037-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 296
+      "stratum": "new41-source-adjudicated",
+      "order": 302
     },
     {
       "unit_id": "c037-L-c09",
       "page_id": "c037-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 297
+      "stratum": "new41-source-adjudicated",
+      "order": 303
     },
     {
       "unit_id": "c037-L-c10",
       "page_id": "c037-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 298
+      "stratum": "new41-source-adjudicated",
+      "order": 304
     },
     {
       "unit_id": "c037-L-n01",
       "page_id": "c037-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 299
+      "stratum": "new41-source-adjudicated",
+      "order": 305
     },
     {
       "unit_id": "c037-L-margin-running_title",
       "page_id": "c037-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 300
+      "stratum": "new41-source-adjudicated",
+      "order": 306
     },
     {
       "unit_id": "c037-L-margin-month",
       "page_id": "c037-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 301
+      "stratum": "new41-source-adjudicated",
+      "order": 307
+    },
+    {
+      "unit_id": "c037-L-margin-original_page_label",
+      "page_id": "c037-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 308
+    },
+    {
+      "unit_id": "c037-L-margin-book_header",
+      "page_id": "c037-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 309
     },
     {
       "unit_id": "c038-R-c01",
       "page_id": "c038-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 302
+      "stratum": "new41-source-adjudicated",
+      "order": 310
     },
     {
       "unit_id": "c038-R-c02",
       "page_id": "c038-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 303
+      "stratum": "new41-source-adjudicated",
+      "order": 311
     },
     {
       "unit_id": "c038-R-c03",
       "page_id": "c038-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 304
+      "stratum": "new41-source-adjudicated",
+      "order": 312
     },
     {
       "unit_id": "c038-R-c04",
       "page_id": "c038-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 305
+      "stratum": "new41-source-adjudicated",
+      "order": 313
     },
     {
       "unit_id": "c038-R-c05",
       "page_id": "c038-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 306
+      "stratum": "new41-source-adjudicated",
+      "order": 314
     },
     {
       "unit_id": "c038-R-c06",
       "page_id": "c038-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 307
+      "stratum": "new41-source-adjudicated",
+      "order": 315
     },
     {
       "unit_id": "c038-R-c07",
       "page_id": "c038-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 308
+      "stratum": "new41-source-adjudicated",
+      "order": 316
     },
     {
       "unit_id": "c038-R-c08",
       "page_id": "c038-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 309
+      "stratum": "new41-source-adjudicated",
+      "order": 317
     },
     {
       "unit_id": "c038-R-c09",
       "page_id": "c038-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 310
+      "stratum": "new41-source-adjudicated",
+      "order": 318
     },
     {
       "unit_id": "c038-R-c10",
       "page_id": "c038-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 311
+      "stratum": "new41-source-adjudicated",
+      "order": 319
     },
     {
-      "unit_id": "c038-R-margin-running_title",
+      "unit_id": "c038-R-margin-book_header",
       "page_id": "c038-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 312
+      "stratum": "new41-source-adjudicated",
+      "order": 320
     },
     {
       "unit_id": "c038-L-c01",
       "page_id": "c038-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 313
+      "stratum": "new41-source-adjudicated",
+      "order": 321
     },
     {
       "unit_id": "c038-L-c02",
       "page_id": "c038-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 314
+      "stratum": "new41-source-adjudicated",
+      "order": 322
     },
     {
       "unit_id": "c038-L-c03",
       "page_id": "c038-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 315
+      "stratum": "new41-source-adjudicated",
+      "order": 323
     },
     {
       "unit_id": "c038-L-c04",
       "page_id": "c038-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 316
+      "stratum": "new41-source-adjudicated",
+      "order": 324
     },
     {
       "unit_id": "c038-L-c05",
       "page_id": "c038-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 317
+      "stratum": "new41-source-adjudicated",
+      "order": 325
     },
     {
       "unit_id": "c038-L-c06",
       "page_id": "c038-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 318
+      "stratum": "new41-source-adjudicated",
+      "order": 326
     },
     {
       "unit_id": "c038-L-c07",
       "page_id": "c038-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 319
+      "stratum": "new41-source-adjudicated",
+      "order": 327
     },
     {
       "unit_id": "c038-L-c08",
       "page_id": "c038-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 320
+      "stratum": "new41-source-adjudicated",
+      "order": 328
     },
     {
       "unit_id": "c038-L-c09",
       "page_id": "c038-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 321
+      "stratum": "new41-source-adjudicated",
+      "order": 329
     },
     {
       "unit_id": "c038-L-c10",
       "page_id": "c038-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 322
+      "stratum": "new41-source-adjudicated",
+      "order": 330
     },
     {
       "unit_id": "c038-L-margin-running_title",
       "page_id": "c038-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 323
+      "stratum": "new41-source-adjudicated",
+      "order": 331
     },
     {
       "unit_id": "c038-L-margin-month",
       "page_id": "c038-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 324
+      "stratum": "new41-source-adjudicated",
+      "order": 332
+    },
+    {
+      "unit_id": "c038-L-margin-original_page_label",
+      "page_id": "c038-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 333
+    },
+    {
+      "unit_id": "c038-L-margin-book_header",
+      "page_id": "c038-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 334
     },
     {
       "unit_id": "c039-R-c01",
       "page_id": "c039-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 325
+      "stratum": "new41-source-adjudicated",
+      "order": 335
     },
     {
       "unit_id": "c039-R-c02",
       "page_id": "c039-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 326
+      "stratum": "new41-source-adjudicated",
+      "order": 336
     },
     {
       "unit_id": "c039-R-c03",
       "page_id": "c039-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 327
+      "stratum": "new41-source-adjudicated",
+      "order": 337
     },
     {
       "unit_id": "c039-R-c04",
       "page_id": "c039-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 328
+      "stratum": "new41-source-adjudicated",
+      "order": 338
     },
     {
       "unit_id": "c039-R-c05",
       "page_id": "c039-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 329
+      "stratum": "new41-source-adjudicated",
+      "order": 339
     },
     {
       "unit_id": "c039-R-c06",
       "page_id": "c039-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 330
+      "stratum": "new41-source-adjudicated",
+      "order": 340
     },
     {
       "unit_id": "c039-R-c07",
       "page_id": "c039-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 331
+      "stratum": "new41-source-adjudicated",
+      "order": 341
     },
     {
       "unit_id": "c039-R-c08",
       "page_id": "c039-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 332
+      "stratum": "new41-source-adjudicated",
+      "order": 342
     },
     {
       "unit_id": "c039-R-c09",
       "page_id": "c039-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 333
+      "stratum": "new41-source-adjudicated",
+      "order": 343
     },
     {
       "unit_id": "c039-R-c10",
       "page_id": "c039-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 334
+      "stratum": "new41-source-adjudicated",
+      "order": 344
     },
     {
-      "unit_id": "c039-R-margin-running_title",
+      "unit_id": "c039-R-margin-book_header",
       "page_id": "c039-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 335
+      "stratum": "new41-source-adjudicated",
+      "order": 345
+    },
+    {
+      "unit_id": "c077-L-title-adj",
+      "page_id": "c077-L",
+      "origin": "native-page-unit",
+      "stratum": "new41-source-adjudicated",
+      "order": 346
+    },
+    {
+      "unit_id": "c077-L-byline-adj",
+      "page_id": "c077-L",
+      "origin": "native-page-unit",
+      "stratum": "new41-source-adjudicated",
+      "order": 347
     },
     {
       "unit_id": "c077-L-c01",
       "page_id": "c077-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 336
+      "stratum": "new41-source-adjudicated",
+      "order": 348
     },
     {
       "unit_id": "c077-L-c02",
       "page_id": "c077-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 337
+      "stratum": "new41-source-adjudicated",
+      "order": 349
     },
     {
       "unit_id": "c077-L-c03",
       "page_id": "c077-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 338
+      "stratum": "new41-source-adjudicated",
+      "order": 350
     },
     {
       "unit_id": "c077-L-c04",
       "page_id": "c077-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 339
+      "stratum": "new41-source-adjudicated",
+      "order": 351
     },
     {
       "unit_id": "c077-L-c05",
       "page_id": "c077-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 340
+      "stratum": "new41-source-adjudicated",
+      "order": 352
     },
     {
       "unit_id": "c077-L-c06",
       "page_id": "c077-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 341
+      "stratum": "new41-source-adjudicated",
+      "order": 353
     },
     {
       "unit_id": "c077-L-c07",
       "page_id": "c077-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 342
+      "stratum": "new41-source-adjudicated",
+      "order": 354
     },
     {
       "unit_id": "c077-L-c08",
       "page_id": "c077-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 343
+      "stratum": "new41-source-adjudicated",
+      "order": 355
     },
     {
       "unit_id": "c077-L-c09",
       "page_id": "c077-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 344
+      "stratum": "new41-source-adjudicated",
+      "order": 356
     },
     {
       "unit_id": "c077-L-n01",
       "page_id": "c077-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 345
+      "stratum": "new41-source-adjudicated",
+      "order": 357
     },
     {
       "unit_id": "c077-L-margin-running_title",
       "page_id": "c077-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 346
+      "stratum": "new41-source-adjudicated",
+      "order": 358
     },
     {
       "unit_id": "c077-L-margin-month",
       "page_id": "c077-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 347
+      "stratum": "new41-source-adjudicated",
+      "order": 359
+    },
+    {
+      "unit_id": "c077-L-margin-original_page_label",
+      "page_id": "c077-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 360
+    },
+    {
+      "unit_id": "c077-L-margin-book_header",
+      "page_id": "c077-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 361
     },
     {
       "unit_id": "c078-R-c01",
       "page_id": "c078-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 348
+      "stratum": "new41-source-adjudicated",
+      "order": 362
     },
     {
       "unit_id": "c078-R-c02",
       "page_id": "c078-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 349
+      "stratum": "new41-source-adjudicated",
+      "order": 363
     },
     {
       "unit_id": "c078-R-c03",
       "page_id": "c078-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 350
+      "stratum": "new41-source-adjudicated",
+      "order": 364
     },
     {
       "unit_id": "c078-R-c04",
       "page_id": "c078-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 351
+      "stratum": "new41-source-adjudicated",
+      "order": 365
     },
     {
       "unit_id": "c078-R-c05",
       "page_id": "c078-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 352
+      "stratum": "new41-source-adjudicated",
+      "order": 366
     },
     {
       "unit_id": "c078-R-c06",
       "page_id": "c078-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 353
+      "stratum": "new41-source-adjudicated",
+      "order": 367
     },
     {
       "unit_id": "c078-R-c07",
       "page_id": "c078-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 354
+      "stratum": "new41-source-adjudicated",
+      "order": 368
     },
     {
       "unit_id": "c078-R-c08",
       "page_id": "c078-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 355
+      "stratum": "new41-source-adjudicated",
+      "order": 369
     },
     {
       "unit_id": "c078-R-c09",
       "page_id": "c078-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 356
+      "stratum": "new41-source-adjudicated",
+      "order": 370
     },
     {
       "unit_id": "c078-R-c10",
       "page_id": "c078-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 357
+      "stratum": "new41-source-adjudicated",
+      "order": 371
     },
     {
       "unit_id": "c078-R-n01",
       "page_id": "c078-R",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 358
+      "stratum": "new41-source-adjudicated",
+      "order": 372
     },
     {
-      "unit_id": "c078-R-margin-running_title",
+      "unit_id": "c078-R-margin-book_header",
       "page_id": "c078-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 359
+      "stratum": "new41-source-adjudicated",
+      "order": 373
     },
     {
       "unit_id": "c078-L-c01",
       "page_id": "c078-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 360
+      "stratum": "new41-source-adjudicated",
+      "order": 374
     },
     {
       "unit_id": "c078-L-c02",
       "page_id": "c078-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 361
+      "stratum": "new41-source-adjudicated",
+      "order": 375
     },
     {
       "unit_id": "c078-L-c03",
       "page_id": "c078-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 362
+      "stratum": "new41-source-adjudicated",
+      "order": 376
     },
     {
       "unit_id": "c078-L-c04",
       "page_id": "c078-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 363
+      "stratum": "new41-source-adjudicated",
+      "order": 377
     },
     {
       "unit_id": "c078-L-c05",
       "page_id": "c078-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 364
+      "stratum": "new41-source-adjudicated",
+      "order": 378
     },
     {
       "unit_id": "c078-L-c06",
       "page_id": "c078-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 365
+      "stratum": "new41-source-adjudicated",
+      "order": 379
     },
     {
       "unit_id": "c078-L-c07",
       "page_id": "c078-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 366
+      "stratum": "new41-source-adjudicated",
+      "order": 380
     },
     {
       "unit_id": "c078-L-c08",
       "page_id": "c078-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 367
+      "stratum": "new41-source-adjudicated",
+      "order": 381
     },
     {
       "unit_id": "c078-L-c09",
       "page_id": "c078-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 368
+      "stratum": "new41-source-adjudicated",
+      "order": 382
     },
     {
       "unit_id": "c078-L-c10",
       "page_id": "c078-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 369
+      "stratum": "new41-source-adjudicated",
+      "order": 383
     },
     {
       "unit_id": "c078-L-n01",
       "page_id": "c078-L",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 370
+      "stratum": "new41-source-adjudicated",
+      "order": 384
     },
     {
       "unit_id": "c078-L-margin-running_title",
       "page_id": "c078-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 371
+      "stratum": "new41-source-adjudicated",
+      "order": 385
     },
     {
       "unit_id": "c078-L-margin-month",
       "page_id": "c078-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 372
+      "stratum": "new41-source-adjudicated",
+      "order": 386
+    },
+    {
+      "unit_id": "c078-L-margin-original_page_label",
+      "page_id": "c078-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 387
+    },
+    {
+      "unit_id": "c078-L-margin-book_header",
+      "page_id": "c078-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 388
     },
     {
       "unit_id": "c079-R-c01",
       "page_id": "c079-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 373
+      "stratum": "new41-source-adjudicated",
+      "order": 389
     },
     {
       "unit_id": "c079-R-c02",
       "page_id": "c079-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 374
+      "stratum": "new41-source-adjudicated",
+      "order": 390
     },
     {
       "unit_id": "c079-R-c03",
       "page_id": "c079-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 375
+      "stratum": "new41-source-adjudicated",
+      "order": 391
     },
     {
       "unit_id": "c079-R-c04",
       "page_id": "c079-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 376
+      "stratum": "new41-source-adjudicated",
+      "order": 392
     },
     {
       "unit_id": "c079-R-c05",
       "page_id": "c079-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 377
+      "stratum": "new41-source-adjudicated",
+      "order": 393
     },
     {
       "unit_id": "c079-R-c06",
       "page_id": "c079-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 378
+      "stratum": "new41-source-adjudicated",
+      "order": 394
     },
     {
       "unit_id": "c079-R-c07",
       "page_id": "c079-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 379
+      "stratum": "new41-source-adjudicated",
+      "order": 395
     },
     {
       "unit_id": "c079-R-c08",
       "page_id": "c079-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 380
+      "stratum": "new41-source-adjudicated",
+      "order": 396
     },
     {
       "unit_id": "c079-R-c09",
       "page_id": "c079-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 381
+      "stratum": "new41-source-adjudicated",
+      "order": 397
     },
     {
       "unit_id": "c079-R-c10",
       "page_id": "c079-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 382
+      "stratum": "new41-source-adjudicated",
+      "order": 398
     },
     {
-      "unit_id": "c079-R-margin-running_title",
+      "unit_id": "c079-R-margin-book_header",
       "page_id": "c079-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 383
+      "stratum": "new41-source-adjudicated",
+      "order": 399
     },
     {
       "unit_id": "c079-L-c01",
       "page_id": "c079-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 384
+      "stratum": "new41-source-adjudicated",
+      "order": 400
     },
     {
       "unit_id": "c079-L-c02",
       "page_id": "c079-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 385
+      "stratum": "new41-source-adjudicated",
+      "order": 401
     },
     {
       "unit_id": "c079-L-c03",
       "page_id": "c079-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 386
+      "stratum": "new41-source-adjudicated",
+      "order": 402
     },
     {
       "unit_id": "c079-L-c04",
       "page_id": "c079-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 387
+      "stratum": "new41-source-adjudicated",
+      "order": 403
     },
     {
       "unit_id": "c079-L-c05",
       "page_id": "c079-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 388
+      "stratum": "new41-source-adjudicated",
+      "order": 404
     },
     {
       "unit_id": "c079-L-c06",
       "page_id": "c079-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 389
+      "stratum": "new41-source-adjudicated",
+      "order": 405
     },
     {
       "unit_id": "c079-L-c07",
       "page_id": "c079-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 390
+      "stratum": "new41-source-adjudicated",
+      "order": 406
     },
     {
       "unit_id": "c079-L-c08",
       "page_id": "c079-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 391
+      "stratum": "new41-source-adjudicated",
+      "order": 407
     },
     {
       "unit_id": "c079-L-margin-running_title",
       "page_id": "c079-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 392
+      "stratum": "new41-source-adjudicated",
+      "order": 408
     },
     {
       "unit_id": "c079-L-margin-month",
       "page_id": "c079-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 393
+      "stratum": "new41-source-adjudicated",
+      "order": 409
+    },
+    {
+      "unit_id": "c079-L-margin-original_page_label",
+      "page_id": "c079-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 410
+    },
+    {
+      "unit_id": "c079-L-margin-book_header",
+      "page_id": "c079-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 411
+    },
+    {
+      "unit_id": "c080-L-title-adj",
+      "page_id": "c080-L",
+      "origin": "native-page-unit",
+      "stratum": "new41-source-adjudicated",
+      "order": 412
+    },
+    {
+      "unit_id": "c080-L-byline-adj",
+      "page_id": "c080-L",
+      "origin": "native-page-unit",
+      "stratum": "new41-source-adjudicated",
+      "order": 413
     },
     {
       "unit_id": "c080-L-c01",
       "page_id": "c080-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 394
+      "stratum": "new41-source-adjudicated",
+      "order": 414
     },
     {
       "unit_id": "c080-L-c02",
       "page_id": "c080-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 395
+      "stratum": "new41-source-adjudicated",
+      "order": 415
     },
     {
       "unit_id": "c080-L-c03",
       "page_id": "c080-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 396
+      "stratum": "new41-source-adjudicated",
+      "order": 416
     },
     {
       "unit_id": "c080-L-c04",
       "page_id": "c080-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 397
+      "stratum": "new41-source-adjudicated",
+      "order": 417
     },
     {
       "unit_id": "c080-L-c05",
       "page_id": "c080-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 398
+      "stratum": "new41-source-adjudicated",
+      "order": 418
     },
     {
       "unit_id": "c080-L-c06",
       "page_id": "c080-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 399
+      "stratum": "new41-source-adjudicated",
+      "order": 419
     },
     {
       "unit_id": "c080-L-c07",
       "page_id": "c080-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 400
+      "stratum": "new41-source-adjudicated",
+      "order": 420
     },
     {
       "unit_id": "c080-L-c08",
       "page_id": "c080-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 401
+      "stratum": "new41-source-adjudicated",
+      "order": 421
     },
     {
       "unit_id": "c080-L-c09",
       "page_id": "c080-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 402
+      "stratum": "new41-source-adjudicated",
+      "order": 422
     },
     {
       "unit_id": "c080-L-margin-running_title",
       "page_id": "c080-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 403
+      "stratum": "new41-source-adjudicated",
+      "order": 423
     },
     {
       "unit_id": "c080-L-margin-month",
       "page_id": "c080-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 404
+      "stratum": "new41-source-adjudicated",
+      "order": 424
+    },
+    {
+      "unit_id": "c080-L-margin-original_page_label",
+      "page_id": "c080-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 425
+    },
+    {
+      "unit_id": "c080-L-margin-book_header",
+      "page_id": "c080-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 426
     },
     {
       "unit_id": "c081-R-c01",
       "page_id": "c081-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 405
+      "stratum": "new41-source-adjudicated",
+      "order": 427
     },
     {
       "unit_id": "c081-R-c02",
       "page_id": "c081-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 406
+      "stratum": "new41-source-adjudicated",
+      "order": 428
     },
     {
       "unit_id": "c081-R-c03",
       "page_id": "c081-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 407
+      "stratum": "new41-source-adjudicated",
+      "order": 429
     },
     {
       "unit_id": "c081-R-c04",
       "page_id": "c081-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 408
+      "stratum": "new41-source-adjudicated",
+      "order": 430
     },
     {
       "unit_id": "c081-R-c05",
       "page_id": "c081-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 409
+      "stratum": "new41-source-adjudicated",
+      "order": 431
     },
     {
       "unit_id": "c081-R-c06",
       "page_id": "c081-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 410
+      "stratum": "new41-source-adjudicated",
+      "order": 432
     },
     {
       "unit_id": "c081-R-c07",
       "page_id": "c081-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 411
+      "stratum": "new41-source-adjudicated",
+      "order": 433
     },
     {
       "unit_id": "c081-R-c08",
       "page_id": "c081-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 412
+      "stratum": "new41-source-adjudicated",
+      "order": 434
     },
     {
       "unit_id": "c081-R-c09",
       "page_id": "c081-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 413
+      "stratum": "new41-source-adjudicated",
+      "order": 435
     },
     {
       "unit_id": "c081-R-c10",
       "page_id": "c081-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 414
+      "stratum": "new41-source-adjudicated",
+      "order": 436
     },
     {
       "unit_id": "c081-R-n01",
       "page_id": "c081-R",
       "origin": "separate-original-note",
-      "stratum": "new41-initial",
-      "order": 415
+      "stratum": "new41-source-adjudicated",
+      "order": 437
     },
     {
-      "unit_id": "c081-R-margin-running_title",
+      "unit_id": "c081-R-margin-book_header",
       "page_id": "c081-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 416
+      "stratum": "new41-source-adjudicated",
+      "order": 438
     },
     {
       "unit_id": "c081-L-c01",
       "page_id": "c081-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 417
+      "stratum": "new41-source-adjudicated",
+      "order": 439
     },
     {
       "unit_id": "c081-L-c02",
       "page_id": "c081-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 418
+      "stratum": "new41-source-adjudicated",
+      "order": 440
     },
     {
       "unit_id": "c081-L-c03",
       "page_id": "c081-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 419
+      "stratum": "new41-source-adjudicated",
+      "order": 441
     },
     {
       "unit_id": "c081-L-c04",
       "page_id": "c081-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 420
+      "stratum": "new41-source-adjudicated",
+      "order": 442
     },
     {
       "unit_id": "c081-L-c05",
       "page_id": "c081-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 421
+      "stratum": "new41-source-adjudicated",
+      "order": 443
     },
     {
       "unit_id": "c081-L-c06",
       "page_id": "c081-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 422
+      "stratum": "new41-source-adjudicated",
+      "order": 444
     },
     {
       "unit_id": "c081-L-c07",
       "page_id": "c081-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 423
+      "stratum": "new41-source-adjudicated",
+      "order": 445
     },
     {
       "unit_id": "c081-L-c08",
       "page_id": "c081-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 424
+      "stratum": "new41-source-adjudicated",
+      "order": 446
     },
     {
       "unit_id": "c081-L-c09",
       "page_id": "c081-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 425
+      "stratum": "new41-source-adjudicated",
+      "order": 447
     },
     {
       "unit_id": "c081-L-margin-running_title",
       "page_id": "c081-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 426
+      "stratum": "new41-source-adjudicated",
+      "order": 448
     },
     {
       "unit_id": "c081-L-margin-month",
       "page_id": "c081-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 427
+      "stratum": "new41-source-adjudicated",
+      "order": 449
+    },
+    {
+      "unit_id": "c081-L-margin-original_page_label",
+      "page_id": "c081-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 450
+    },
+    {
+      "unit_id": "c081-L-margin-book_header",
+      "page_id": "c081-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 451
+    },
+    {
+      "unit_id": "c082-L-heading-adj",
+      "page_id": "c082-L",
+      "origin": "native-page-unit",
+      "stratum": "new41-source-adjudicated",
+      "order": 452
+    },
+    {
+      "unit_id": "c082-L-title-adj",
+      "page_id": "c082-L",
+      "origin": "native-page-unit",
+      "stratum": "new41-source-adjudicated",
+      "order": 453
+    },
+    {
+      "unit_id": "c082-L-byline-adj",
+      "page_id": "c082-L",
+      "origin": "native-page-unit",
+      "stratum": "new41-source-adjudicated",
+      "order": 454
     },
     {
       "unit_id": "c082-L-c01",
       "page_id": "c082-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 428
+      "stratum": "new41-source-adjudicated",
+      "order": 455
     },
     {
       "unit_id": "c082-L-c02",
       "page_id": "c082-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 429
+      "stratum": "new41-source-adjudicated",
+      "order": 456
     },
     {
       "unit_id": "c082-L-c03",
       "page_id": "c082-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 430
+      "stratum": "new41-source-adjudicated",
+      "order": 457
     },
     {
       "unit_id": "c082-L-c04",
       "page_id": "c082-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 431
+      "stratum": "new41-source-adjudicated",
+      "order": 458
     },
     {
       "unit_id": "c082-L-c05",
       "page_id": "c082-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 432
+      "stratum": "new41-source-adjudicated",
+      "order": 459
     },
     {
       "unit_id": "c082-L-c06",
       "page_id": "c082-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 433
+      "stratum": "new41-source-adjudicated",
+      "order": 460
     },
     {
       "unit_id": "c082-L-c07",
       "page_id": "c082-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 434
+      "stratum": "new41-source-adjudicated",
+      "order": 461
     },
     {
       "unit_id": "c082-L-c08",
       "page_id": "c082-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 435
+      "stratum": "new41-source-adjudicated",
+      "order": 462
     },
     {
       "unit_id": "c082-L-margin-running_title",
       "page_id": "c082-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 436
+      "stratum": "new41-source-adjudicated",
+      "order": 463
     },
     {
       "unit_id": "c082-L-margin-month",
       "page_id": "c082-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 437
+      "stratum": "new41-source-adjudicated",
+      "order": 464
+    },
+    {
+      "unit_id": "c082-L-margin-original_page_label",
+      "page_id": "c082-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 465
+    },
+    {
+      "unit_id": "c082-L-margin-book_header",
+      "page_id": "c082-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 466
     },
     {
       "unit_id": "c083-R-c01",
       "page_id": "c083-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 438
+      "stratum": "new41-source-adjudicated",
+      "order": 467
     },
     {
       "unit_id": "c083-R-c02",
       "page_id": "c083-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 439
+      "stratum": "new41-source-adjudicated",
+      "order": 468
     },
     {
       "unit_id": "c083-R-c03",
       "page_id": "c083-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 440
+      "stratum": "new41-source-adjudicated",
+      "order": 469
     },
     {
       "unit_id": "c083-R-c04",
       "page_id": "c083-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 441
+      "stratum": "new41-source-adjudicated",
+      "order": 470
     },
     {
       "unit_id": "c083-R-c05",
       "page_id": "c083-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 442
+      "stratum": "new41-source-adjudicated",
+      "order": 471
     },
     {
       "unit_id": "c083-R-c06",
       "page_id": "c083-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 443
+      "stratum": "new41-source-adjudicated",
+      "order": 472
     },
     {
       "unit_id": "c083-R-c07",
       "page_id": "c083-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 444
+      "stratum": "new41-source-adjudicated",
+      "order": 473
     },
     {
       "unit_id": "c083-R-c08",
       "page_id": "c083-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 445
+      "stratum": "new41-source-adjudicated",
+      "order": 474
     },
     {
       "unit_id": "c083-R-c09",
       "page_id": "c083-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 446
+      "stratum": "new41-source-adjudicated",
+      "order": 475
     },
     {
       "unit_id": "c083-R-c10",
       "page_id": "c083-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 447
+      "stratum": "new41-source-adjudicated",
+      "order": 476
     },
     {
-      "unit_id": "c083-R-margin-running_title",
+      "unit_id": "c083-R-margin-book_header",
       "page_id": "c083-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 448
+      "stratum": "new41-source-adjudicated",
+      "order": 477
     },
     {
       "unit_id": "c083-L-c01",
       "page_id": "c083-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 449
+      "stratum": "new41-source-adjudicated",
+      "order": 478
     },
     {
       "unit_id": "c083-L-c02",
       "page_id": "c083-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 450
+      "stratum": "new41-source-adjudicated",
+      "order": 479
     },
     {
       "unit_id": "c083-L-c03",
       "page_id": "c083-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 451
+      "stratum": "new41-source-adjudicated",
+      "order": 480
     },
     {
       "unit_id": "c083-L-c04",
       "page_id": "c083-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 452
+      "stratum": "new41-source-adjudicated",
+      "order": 481
     },
     {
       "unit_id": "c083-L-c05",
       "page_id": "c083-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 453
+      "stratum": "new41-source-adjudicated",
+      "order": 482
     },
     {
       "unit_id": "c083-L-c06",
       "page_id": "c083-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 454
+      "stratum": "new41-source-adjudicated",
+      "order": 483
     },
     {
       "unit_id": "c083-L-c07",
       "page_id": "c083-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 455
+      "stratum": "new41-source-adjudicated",
+      "order": 484
     },
     {
       "unit_id": "c083-L-c08",
       "page_id": "c083-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 456
+      "stratum": "new41-source-adjudicated",
+      "order": 485
     },
     {
       "unit_id": "c083-L-c09",
       "page_id": "c083-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 457
+      "stratum": "new41-source-adjudicated",
+      "order": 486
     },
     {
       "unit_id": "c083-L-c10",
       "page_id": "c083-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 458
+      "stratum": "new41-source-adjudicated",
+      "order": 487
     },
     {
       "unit_id": "c083-L-margin-running_title",
       "page_id": "c083-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 459
+      "stratum": "new41-source-adjudicated",
+      "order": 488
     },
     {
       "unit_id": "c083-L-margin-month",
       "page_id": "c083-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 460
+      "stratum": "new41-source-adjudicated",
+      "order": 489
+    },
+    {
+      "unit_id": "c083-L-margin-original_page_label",
+      "page_id": "c083-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 490
+    },
+    {
+      "unit_id": "c083-L-margin-book_header",
+      "page_id": "c083-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 491
     },
     {
       "unit_id": "c084-R-c01",
       "page_id": "c084-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 461
+      "stratum": "new41-source-adjudicated",
+      "order": 492
     },
     {
       "unit_id": "c084-R-c02",
       "page_id": "c084-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 462
+      "stratum": "new41-source-adjudicated",
+      "order": 493
     },
     {
       "unit_id": "c084-R-c03",
       "page_id": "c084-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 463
+      "stratum": "new41-source-adjudicated",
+      "order": 494
     },
     {
       "unit_id": "c084-R-c04",
       "page_id": "c084-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 464
+      "stratum": "new41-source-adjudicated",
+      "order": 495
     },
     {
       "unit_id": "c084-R-c05",
       "page_id": "c084-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 465
+      "stratum": "new41-source-adjudicated",
+      "order": 496
     },
     {
       "unit_id": "c084-R-c06",
       "page_id": "c084-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 466
+      "stratum": "new41-source-adjudicated",
+      "order": 497
     },
     {
       "unit_id": "c084-R-c07",
       "page_id": "c084-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 467
+      "stratum": "new41-source-adjudicated",
+      "order": 498
     },
     {
-      "unit_id": "c084-R-margin-running_title",
+      "unit_id": "c084-R-margin-book_header",
       "page_id": "c084-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 468
+      "stratum": "new41-source-adjudicated",
+      "order": 499
+    },
+    {
+      "unit_id": "c086-L-title-adj",
+      "page_id": "c086-L",
+      "origin": "native-page-unit",
+      "stratum": "new41-source-adjudicated",
+      "order": 500
+    },
+    {
+      "unit_id": "c086-L-subtitle-adj",
+      "page_id": "c086-L",
+      "origin": "native-page-unit",
+      "stratum": "new41-source-adjudicated",
+      "order": 501
     },
     {
       "unit_id": "c086-L-c01",
       "page_id": "c086-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 469
+      "stratum": "new41-source-adjudicated",
+      "order": 502
     },
     {
       "unit_id": "c086-L-c02",
       "page_id": "c086-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 470
+      "stratum": "new41-source-adjudicated",
+      "order": 503
     },
     {
       "unit_id": "c086-L-c03",
       "page_id": "c086-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 471
+      "stratum": "new41-source-adjudicated",
+      "order": 504
     },
     {
       "unit_id": "c086-L-c04",
       "page_id": "c086-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 472
+      "stratum": "new41-source-adjudicated",
+      "order": 505
     },
     {
       "unit_id": "c086-L-c05",
       "page_id": "c086-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 473
+      "stratum": "new41-source-adjudicated",
+      "order": 506
     },
     {
       "unit_id": "c086-L-c06",
       "page_id": "c086-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 474
+      "stratum": "new41-source-adjudicated",
+      "order": 507
     },
     {
       "unit_id": "c086-L-c07",
       "page_id": "c086-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 475
+      "stratum": "new41-source-adjudicated",
+      "order": 508
     },
     {
       "unit_id": "c086-L-c08",
       "page_id": "c086-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 476
+      "stratum": "new41-source-adjudicated",
+      "order": 509
     },
     {
       "unit_id": "c086-L-c09",
       "page_id": "c086-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 477
+      "stratum": "new41-source-adjudicated",
+      "order": 510
     },
     {
       "unit_id": "c086-L-c10",
       "page_id": "c086-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 478
+      "stratum": "new41-source-adjudicated",
+      "order": 511
     },
     {
       "unit_id": "c086-L-c11",
       "page_id": "c086-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 479
+      "stratum": "new41-source-adjudicated",
+      "order": 512
     },
     {
       "unit_id": "c086-L-T01",
       "page_id": "c086-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 480
+      "stratum": "new41-source-adjudicated",
+      "order": 513
     },
     {
       "unit_id": "c086-L-margin-running_title",
       "page_id": "c086-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 481
+      "stratum": "new41-source-adjudicated",
+      "order": 514
     },
     {
       "unit_id": "c086-L-margin-month",
       "page_id": "c086-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 482
+      "stratum": "new41-source-adjudicated",
+      "order": 515
+    },
+    {
+      "unit_id": "c086-L-margin-original_page_label",
+      "page_id": "c086-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 516
+    },
+    {
+      "unit_id": "c086-L-margin-book_header",
+      "page_id": "c086-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 517
     },
     {
       "unit_id": "c087-R-c01",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 483
+      "stratum": "new41-source-adjudicated",
+      "order": 518
     },
     {
       "unit_id": "c087-R-c02",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 484
+      "stratum": "new41-source-adjudicated",
+      "order": 519
     },
     {
       "unit_id": "c087-R-c03",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 485
+      "stratum": "new41-source-adjudicated",
+      "order": 520
     },
     {
       "unit_id": "c087-R-c04",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 486
+      "stratum": "new41-source-adjudicated",
+      "order": 521
     },
     {
       "unit_id": "c087-R-c05",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 487
+      "stratum": "new41-source-adjudicated",
+      "order": 522
     },
     {
       "unit_id": "c087-R-c06",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 488
+      "stratum": "new41-source-adjudicated",
+      "order": 523
     },
     {
       "unit_id": "c087-R-c07",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 489
+      "stratum": "new41-source-adjudicated",
+      "order": 524
     },
     {
       "unit_id": "c087-R-c08",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 490
+      "stratum": "new41-source-adjudicated",
+      "order": 525
     },
     {
       "unit_id": "c087-R-c09",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 491
+      "stratum": "new41-source-adjudicated",
+      "order": 526
     },
     {
       "unit_id": "c087-R-c10",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 492
+      "stratum": "new41-source-adjudicated",
+      "order": 527
     },
     {
       "unit_id": "c087-R-c11",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 493
+      "stratum": "new41-source-adjudicated",
+      "order": 528
     },
     {
       "unit_id": "c087-R-c12",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 494
+      "stratum": "new41-source-adjudicated",
+      "order": 529
     },
     {
       "unit_id": "c087-R-c13",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 495
+      "stratum": "new41-source-adjudicated",
+      "order": 530
     },
     {
       "unit_id": "c087-R-c14",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 496
+      "stratum": "new41-source-adjudicated",
+      "order": 531
     },
     {
       "unit_id": "c087-R-c15",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 497
+      "stratum": "new41-source-adjudicated",
+      "order": 532
     },
     {
       "unit_id": "c087-R-c16",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 498
+      "stratum": "new41-source-adjudicated",
+      "order": 533
     },
     {
       "unit_id": "c087-R-c17",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 499
+      "stratum": "new41-source-adjudicated",
+      "order": 534
     },
     {
       "unit_id": "c087-R-c18",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 500
+      "stratum": "new41-source-adjudicated",
+      "order": 535
     },
     {
       "unit_id": "c087-R-c19",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 501
+      "stratum": "new41-source-adjudicated",
+      "order": 536
     },
     {
       "unit_id": "c087-R-c20",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 502
+      "stratum": "new41-source-adjudicated",
+      "order": 537
     },
     {
       "unit_id": "c087-R-c21",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 503
+      "stratum": "new41-source-adjudicated",
+      "order": 538
     },
     {
       "unit_id": "c087-R-T01",
       "page_id": "c087-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 504
+      "stratum": "new41-source-adjudicated",
+      "order": 539
     },
     {
-      "unit_id": "c087-R-margin-running_title",
+      "unit_id": "c087-R-margin-book_header",
       "page_id": "c087-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 505
+      "stratum": "new41-source-adjudicated",
+      "order": 540
+    },
+    {
+      "unit_id": "c087-L-title-adj",
+      "page_id": "c087-L",
+      "origin": "native-page-unit",
+      "stratum": "new41-source-adjudicated",
+      "order": 541
     },
     {
       "unit_id": "c087-L-c01",
       "page_id": "c087-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 506
+      "stratum": "new41-source-adjudicated",
+      "order": 542
     },
     {
       "unit_id": "c087-L-c02",
       "page_id": "c087-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 507
+      "stratum": "new41-source-adjudicated",
+      "order": 543
     },
     {
       "unit_id": "c087-L-c03",
       "page_id": "c087-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 508
+      "stratum": "new41-source-adjudicated",
+      "order": 544
     },
     {
       "unit_id": "c087-L-c04",
       "page_id": "c087-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 509
+      "stratum": "new41-source-adjudicated",
+      "order": 545
     },
     {
       "unit_id": "c087-L-c05",
       "page_id": "c087-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 510
+      "stratum": "new41-source-adjudicated",
+      "order": 546
     },
     {
       "unit_id": "c087-L-c06",
       "page_id": "c087-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 511
+      "stratum": "new41-source-adjudicated",
+      "order": 547
     },
     {
       "unit_id": "c087-L-c07",
       "page_id": "c087-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 512
+      "stratum": "new41-source-adjudicated",
+      "order": 548
     },
     {
       "unit_id": "c087-L-c08",
       "page_id": "c087-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 513
+      "stratum": "new41-source-adjudicated",
+      "order": 549
     },
     {
       "unit_id": "c087-L-margin-running_title",
       "page_id": "c087-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 514
+      "stratum": "new41-source-adjudicated",
+      "order": 550
     },
     {
       "unit_id": "c087-L-margin-month",
       "page_id": "c087-L",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 515
+      "stratum": "new41-source-adjudicated",
+      "order": 551
+    },
+    {
+      "unit_id": "c087-L-margin-original_page_label",
+      "page_id": "c087-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 552
+    },
+    {
+      "unit_id": "c087-L-margin-book_header",
+      "page_id": "c087-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 553
     },
     {
       "unit_id": "c088-R-c01",
       "page_id": "c088-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 516
+      "stratum": "new41-source-adjudicated",
+      "order": 554
     },
     {
       "unit_id": "c088-R-c02",
       "page_id": "c088-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 517
+      "stratum": "new41-source-adjudicated",
+      "order": 555
     },
     {
       "unit_id": "c088-R-c03",
       "page_id": "c088-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 518
+      "stratum": "new41-source-adjudicated",
+      "order": 556
     },
     {
       "unit_id": "c088-R-c04",
       "page_id": "c088-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 519
+      "stratum": "new41-source-adjudicated",
+      "order": 557
     },
     {
       "unit_id": "c088-R-c05",
       "page_id": "c088-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 520
+      "stratum": "new41-source-adjudicated",
+      "order": 558
     },
     {
       "unit_id": "c088-R-c06",
       "page_id": "c088-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 521
+      "stratum": "new41-source-adjudicated",
+      "order": 559
     },
     {
       "unit_id": "c088-R-c07",
       "page_id": "c088-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 522
+      "stratum": "new41-source-adjudicated",
+      "order": 560
     },
     {
       "unit_id": "c088-R-c08",
       "page_id": "c088-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 523
+      "stratum": "new41-source-adjudicated",
+      "order": 561
     },
     {
       "unit_id": "c088-R-c09",
       "page_id": "c088-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 524
+      "stratum": "new41-source-adjudicated",
+      "order": 562
     },
     {
       "unit_id": "c088-R-c10",
       "page_id": "c088-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 525
+      "stratum": "new41-source-adjudicated",
+      "order": 563
     },
     {
       "unit_id": "c088-R-T01",
       "page_id": "c088-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 526
+      "stratum": "new41-source-adjudicated",
+      "order": 564
     },
     {
-      "unit_id": "c088-R-margin-running_title",
+      "unit_id": "c088-R-margin-book_header",
       "page_id": "c088-R",
       "origin": "derived-original-margin-projection",
-      "stratum": "new41-initial",
-      "order": 527
+      "stratum": "new41-source-adjudicated",
+      "order": 565
     },
     {
       "unit_id": "c030-L-title",
       "page_id": "c030-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 528
+      "stratum": "new41-source-adjudicated",
+      "order": 566
     },
     {
       "unit_id": "c030-L-caption",
       "page_id": "c030-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 529
+      "stratum": "new41-source-adjudicated",
+      "order": 567
     },
     {
       "unit_id": "c030-L-label-01",
       "page_id": "c030-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 530
+      "stratum": "new41-source-adjudicated",
+      "order": 568
     },
     {
       "unit_id": "c030-L-label-02",
       "page_id": "c030-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 531
+      "stratum": "new41-source-adjudicated",
+      "order": 569
     },
     {
       "unit_id": "c030-L-label-03",
       "page_id": "c030-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 532
+      "stratum": "new41-source-adjudicated",
+      "order": 570
     },
     {
       "unit_id": "c030-L-label-04",
       "page_id": "c030-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 533
+      "stratum": "new41-source-adjudicated",
+      "order": 571
     },
     {
       "unit_id": "c030-L-label-05",
       "page_id": "c030-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 534
+      "stratum": "new41-source-adjudicated",
+      "order": 572
     },
     {
       "unit_id": "c030-L-label-06",
       "page_id": "c030-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 535
+      "stratum": "new41-source-adjudicated",
+      "order": 573
     },
     {
       "unit_id": "c030-L-label-07",
       "page_id": "c030-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 536
+      "stratum": "new41-source-adjudicated",
+      "order": 574
     },
     {
       "unit_id": "c030-L-label-08",
       "page_id": "c030-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 537
+      "stratum": "new41-source-adjudicated",
+      "order": 575
     },
     {
       "unit_id": "c030-L-label-09",
       "page_id": "c030-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 538
+      "stratum": "new41-source-adjudicated",
+      "order": 576
     },
     {
       "unit_id": "c030-L-label-10",
       "page_id": "c030-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 539
+      "stratum": "new41-source-adjudicated",
+      "order": 577
+    },
+    {
+      "unit_id": "c030-L-margin-book_header",
+      "page_id": "c030-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 578
+    },
+    {
+      "unit_id": "c030-L-margin-original_page_label",
+      "page_id": "c030-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 579
+    },
+    {
+      "unit_id": "c030-L-margin-month",
+      "page_id": "c030-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 580
     },
     {
       "unit_id": "c031-R-title",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 540
+      "stratum": "new41-source-adjudicated",
+      "order": 581
     },
     {
       "unit_id": "c031-R-caption",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 541
+      "stratum": "new41-source-adjudicated",
+      "order": 582
     },
     {
       "unit_id": "c031-R-label-01",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 542
+      "stratum": "new41-source-adjudicated",
+      "order": 583
     },
     {
       "unit_id": "c031-R-label-02",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 543
+      "stratum": "new41-source-adjudicated",
+      "order": 584
     },
     {
       "unit_id": "c031-R-label-03",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 544
+      "stratum": "new41-source-adjudicated",
+      "order": 585
     },
     {
       "unit_id": "c031-R-label-04",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 545
+      "stratum": "new41-source-adjudicated",
+      "order": 586
     },
     {
       "unit_id": "c031-R-label-05",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 546
+      "stratum": "new41-source-adjudicated",
+      "order": 587
     },
     {
       "unit_id": "c031-R-label-06",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 547
+      "stratum": "new41-source-adjudicated",
+      "order": 588
     },
     {
       "unit_id": "c031-R-label-07",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 548
+      "stratum": "new41-source-adjudicated",
+      "order": 589
     },
     {
       "unit_id": "c031-R-label-08",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 549
+      "stratum": "new41-source-adjudicated",
+      "order": 590
     },
     {
       "unit_id": "c031-R-label-09",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 550
+      "stratum": "new41-source-adjudicated",
+      "order": 591
     },
     {
       "unit_id": "c031-R-label-10",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 551
+      "stratum": "new41-source-adjudicated",
+      "order": 592
     },
     {
       "unit_id": "c031-R-label-11",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 552
+      "stratum": "new41-source-adjudicated",
+      "order": 593
     },
     {
       "unit_id": "c031-R-label-12",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 553
+      "stratum": "new41-source-adjudicated",
+      "order": 594
     },
     {
       "unit_id": "c031-R-label-13",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 554
+      "stratum": "new41-source-adjudicated",
+      "order": 595
     },
     {
       "unit_id": "c031-R-label-14",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 555
+      "stratum": "new41-source-adjudicated",
+      "order": 596
     },
     {
       "unit_id": "c031-R-label-15",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 556
+      "stratum": "new41-source-adjudicated",
+      "order": 597
     },
     {
       "unit_id": "c031-R-label-16",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 557
+      "stratum": "new41-source-adjudicated",
+      "order": 598
     },
     {
       "unit_id": "c031-R-label-17",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 558
+      "stratum": "new41-source-adjudicated",
+      "order": 599
     },
     {
       "unit_id": "c031-R-label-18",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 559
+      "stratum": "new41-source-adjudicated",
+      "order": 600
     },
     {
       "unit_id": "c031-R-label-19",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 560
+      "stratum": "new41-source-adjudicated",
+      "order": 601
     },
     {
       "unit_id": "c031-R-label-20",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 561
+      "stratum": "new41-source-adjudicated",
+      "order": 602
     },
     {
       "unit_id": "c031-R-label-21",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 562
+      "stratum": "new41-source-adjudicated",
+      "order": 603
     },
     {
       "unit_id": "c031-R-label-22",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 563
+      "stratum": "new41-source-adjudicated",
+      "order": 604
     },
     {
       "unit_id": "c031-R-label-23",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 564
+      "stratum": "new41-source-adjudicated",
+      "order": 605
     },
     {
       "unit_id": "c031-R-label-24",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 565
+      "stratum": "new41-source-adjudicated",
+      "order": 606
     },
     {
       "unit_id": "c031-R-label-25",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 566
+      "stratum": "new41-source-adjudicated",
+      "order": 607
     },
     {
       "unit_id": "c031-R-label-26",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 567
+      "stratum": "new41-source-adjudicated",
+      "order": 608
     },
     {
       "unit_id": "c031-R-label-27",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 568
+      "stratum": "new41-source-adjudicated",
+      "order": 609
     },
     {
       "unit_id": "c031-R-label-28",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 569
+      "stratum": "new41-source-adjudicated",
+      "order": 610
     },
     {
       "unit_id": "c031-R-label-29",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 570
+      "stratum": "new41-source-adjudicated",
+      "order": 611
     },
     {
       "unit_id": "c031-R-label-30",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 571
+      "stratum": "new41-source-adjudicated",
+      "order": 612
     },
     {
       "unit_id": "c031-R-label-31",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 572
+      "stratum": "new41-source-adjudicated",
+      "order": 613
     },
     {
       "unit_id": "c031-R-label-32",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 573
+      "stratum": "new41-source-adjudicated",
+      "order": 614
     },
     {
       "unit_id": "c031-R-legend1",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 574
+      "stratum": "new41-source-adjudicated",
+      "order": 615
     },
     {
       "unit_id": "c031-R-legend2",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 575
+      "stratum": "new41-source-adjudicated",
+      "order": 616
     },
     {
       "unit_id": "c031-R-legend3",
       "page_id": "c031-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 576
+      "stratum": "new41-source-adjudicated",
+      "order": 617
+    },
+    {
+      "unit_id": "c031-R-margin-book_header",
+      "page_id": "c031-R",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 618
     },
     {
       "unit_id": "c032-full-title",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 577
+      "stratum": "new41-source-adjudicated",
+      "order": 619
     },
     {
       "unit_id": "c032-full-caption",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 578
+      "stratum": "new41-source-adjudicated",
+      "order": 620
     },
     {
       "unit_id": "c032-full-label-01",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 579
+      "stratum": "new41-source-adjudicated",
+      "order": 621
     },
     {
       "unit_id": "c032-full-label-02",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 580
+      "stratum": "new41-source-adjudicated",
+      "order": 622
     },
     {
       "unit_id": "c032-full-label-03",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 581
+      "stratum": "new41-source-adjudicated",
+      "order": 623
     },
     {
       "unit_id": "c032-full-label-04",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 582
+      "stratum": "new41-source-adjudicated",
+      "order": 624
     },
     {
       "unit_id": "c032-full-label-05",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 583
+      "stratum": "new41-source-adjudicated",
+      "order": 625
     },
     {
       "unit_id": "c032-full-label-06",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 584
+      "stratum": "new41-source-adjudicated",
+      "order": 626
     },
     {
       "unit_id": "c032-full-label-07",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 585
+      "stratum": "new41-source-adjudicated",
+      "order": 627
     },
     {
       "unit_id": "c032-full-label-08",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 586
+      "stratum": "new41-source-adjudicated",
+      "order": 628
     },
     {
       "unit_id": "c032-full-label-09",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 587
+      "stratum": "new41-source-adjudicated",
+      "order": 629
     },
     {
       "unit_id": "c032-full-label-10",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 588
+      "stratum": "new41-source-adjudicated",
+      "order": 630
     },
     {
       "unit_id": "c032-full-label-11",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 589
+      "stratum": "new41-source-adjudicated",
+      "order": 631
     },
     {
       "unit_id": "c032-full-label-12",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 590
+      "stratum": "new41-source-adjudicated",
+      "order": 632
     },
     {
       "unit_id": "c032-full-label-13",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 591
+      "stratum": "new41-source-adjudicated",
+      "order": 633
     },
     {
       "unit_id": "c032-full-label-14",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 592
+      "stratum": "new41-source-adjudicated",
+      "order": 634
     },
     {
       "unit_id": "c032-full-label-15",
       "page_id": "c032-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 593
+      "stratum": "new41-source-adjudicated",
+      "order": 635
     },
     {
       "unit_id": "c050-R-title1",
       "page_id": "c050-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 594
+      "stratum": "new41-source-adjudicated",
+      "order": 636
     },
     {
       "unit_id": "c050-R-title2",
       "page_id": "c050-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 595
+      "stratum": "new41-source-adjudicated",
+      "order": 637
     },
     {
       "unit_id": "c050-R-title3",
       "page_id": "c050-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 596
+      "stratum": "new41-source-adjudicated",
+      "order": 638
     },
     {
       "unit_id": "c050-R-fig3-label-01",
       "page_id": "c050-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 597
+      "stratum": "new41-source-adjudicated",
+      "order": 639
     },
     {
       "unit_id": "c050-R-fig3-label-02",
       "page_id": "c050-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 598
+      "stratum": "new41-source-adjudicated",
+      "order": 640
     },
     {
       "unit_id": "c050-R-fig3-label-03",
       "page_id": "c050-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 599
+      "stratum": "new41-source-adjudicated",
+      "order": 641
     },
     {
       "unit_id": "c050-R-fig3-label-04",
       "page_id": "c050-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 600
+      "stratum": "new41-source-adjudicated",
+      "order": 642
     },
     {
       "unit_id": "c050-R-fig3-label-05",
       "page_id": "c050-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 601
+      "stratum": "new41-source-adjudicated",
+      "order": 643
     },
     {
       "unit_id": "c050-R-fig3-label-06",
       "page_id": "c050-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 602
+      "stratum": "new41-source-adjudicated",
+      "order": 644
+    },
+    {
+      "unit_id": "c050-R-margin-book_header",
+      "page_id": "c050-R",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 645
     },
     {
       "unit_id": "c051-full-title",
       "page_id": "c051-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 603
+      "stratum": "new41-source-adjudicated",
+      "order": 646
     },
     {
       "unit_id": "c051-full-caption",
       "page_id": "c051-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 604
+      "stratum": "new41-source-adjudicated",
+      "order": 647
     },
     {
       "unit_id": "c056-R-title",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 605
+      "stratum": "new41-source-adjudicated",
+      "order": 648
     },
     {
       "unit_id": "c056-R-fig1-title",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 606
+      "stratum": "new41-source-adjudicated",
+      "order": 649
     },
     {
       "unit_id": "c056-R-fig1-label-01",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 607
+      "stratum": "new41-source-adjudicated",
+      "order": 650
     },
     {
       "unit_id": "c056-R-fig1-label-02",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 608
+      "stratum": "new41-source-adjudicated",
+      "order": 651
     },
     {
       "unit_id": "c056-R-fig1-label-03",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 609
+      "stratum": "new41-source-adjudicated",
+      "order": 652
     },
     {
       "unit_id": "c056-R-fig1-label-04",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 610
+      "stratum": "new41-source-adjudicated",
+      "order": 653
     },
     {
       "unit_id": "c056-R-fig1-label-05",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 611
+      "stratum": "new41-source-adjudicated",
+      "order": 654
     },
     {
       "unit_id": "c056-R-fig1-label-06",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 612
+      "stratum": "new41-source-adjudicated",
+      "order": 655
     },
     {
       "unit_id": "c056-R-fig1-label-07",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 613
+      "stratum": "new41-source-adjudicated",
+      "order": 656
     },
     {
       "unit_id": "c056-R-fig1-label-08",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 614
+      "stratum": "new41-source-adjudicated",
+      "order": 657
     },
     {
       "unit_id": "c056-R-fig1-label-09",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 615
+      "stratum": "new41-source-adjudicated",
+      "order": 658
     },
     {
       "unit_id": "c056-R-fig1-label-10",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 616
+      "stratum": "new41-source-adjudicated",
+      "order": 659
     },
     {
       "unit_id": "c056-R-fig1-label-11",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 617
+      "stratum": "new41-source-adjudicated",
+      "order": 660
     },
     {
       "unit_id": "c056-R-fig1-label-12",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 618
+      "stratum": "new41-source-adjudicated",
+      "order": 661
     },
     {
       "unit_id": "c056-R-fig2-title",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 619
+      "stratum": "new41-source-adjudicated",
+      "order": 662
     },
     {
       "unit_id": "c056-R-fig2-label-01",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 620
+      "stratum": "new41-source-adjudicated",
+      "order": 663
     },
     {
       "unit_id": "c056-R-fig2-label-02",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 621
+      "stratum": "new41-source-adjudicated",
+      "order": 664
     },
     {
       "unit_id": "c056-R-fig2-label-03",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 622
+      "stratum": "new41-source-adjudicated",
+      "order": 665
     },
     {
       "unit_id": "c056-R-fig2-label-04",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 623
+      "stratum": "new41-source-adjudicated",
+      "order": 666
     },
     {
       "unit_id": "c056-R-fig3-title",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 624
+      "stratum": "new41-source-adjudicated",
+      "order": 667
     },
     {
       "unit_id": "c056-R-fig3-label-01",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 625
+      "stratum": "new41-source-adjudicated",
+      "order": 668
     },
     {
       "unit_id": "c056-R-fig3-label-02",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 626
+      "stratum": "new41-source-adjudicated",
+      "order": 669
     },
     {
       "unit_id": "c056-R-fig3-label-03",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 627
+      "stratum": "new41-source-adjudicated",
+      "order": 670
     },
     {
       "unit_id": "c056-R-fig3-label-04",
       "page_id": "c056-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 628
+      "stratum": "new41-source-adjudicated",
+      "order": 671
+    },
+    {
+      "unit_id": "c056-R-margin-book_header",
+      "page_id": "c056-R",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 672
     },
     {
       "unit_id": "c060-R-fig4-title",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 629
+      "stratum": "new41-source-adjudicated",
+      "order": 673
     },
     {
       "unit_id": "c060-R-fig4-label-01",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 630
+      "stratum": "new41-source-adjudicated",
+      "order": 674
     },
     {
       "unit_id": "c060-R-fig4-label-02",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 631
+      "stratum": "new41-source-adjudicated",
+      "order": 675
     },
     {
       "unit_id": "c060-R-fig4-label-03",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 632
+      "stratum": "new41-source-adjudicated",
+      "order": 676
     },
     {
       "unit_id": "c060-R-fig5-title",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 633
-    },
-    {
-      "unit_id": "c060-R-fig5-label-01",
-      "page_id": "c060-R",
-      "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 634
+      "stratum": "new41-source-adjudicated",
+      "order": 677
     },
     {
       "unit_id": "c060-R-fig5-label-02",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 635
+      "stratum": "new41-source-adjudicated",
+      "order": 678
     },
     {
       "unit_id": "c060-R-fig5-label-03",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 636
+      "stratum": "new41-source-adjudicated",
+      "order": 679
     },
     {
       "unit_id": "c060-R-fig6-title",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 637
+      "stratum": "new41-source-adjudicated",
+      "order": 680
     },
     {
       "unit_id": "c060-R-fig6-label-01",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 638
+      "stratum": "new41-source-adjudicated",
+      "order": 681
     },
     {
       "unit_id": "c060-R-fig6-label-02",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 639
+      "stratum": "new41-source-adjudicated",
+      "order": 682
     },
     {
       "unit_id": "c060-R-fig6-label-03",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 640
+      "stratum": "new41-source-adjudicated",
+      "order": 683
     },
     {
       "unit_id": "c060-R-fig6-label-04",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 641
+      "stratum": "new41-source-adjudicated",
+      "order": 684
     },
     {
       "unit_id": "c060-R-fig7-title",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 642
+      "stratum": "new41-source-adjudicated",
+      "order": 685
     },
     {
       "unit_id": "c060-R-fig7-label-01",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 643
-    },
-    {
-      "unit_id": "c060-R-fig7-label-02",
-      "page_id": "c060-R",
-      "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 644
+      "stratum": "new41-source-adjudicated",
+      "order": 686
     },
     {
       "unit_id": "c060-R-fig7-label-03",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 645
+      "stratum": "new41-source-adjudicated",
+      "order": 687
     },
     {
       "unit_id": "c060-R-fig8-title",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 646
+      "stratum": "new41-source-adjudicated",
+      "order": 688
     },
     {
       "unit_id": "c060-R-fig8-label-01",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 647
+      "stratum": "new41-source-adjudicated",
+      "order": 689
     },
     {
       "unit_id": "c060-R-fig8-label-02",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 648
+      "stratum": "new41-source-adjudicated",
+      "order": 690
     },
     {
       "unit_id": "c060-R-fig8-label-03",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 649
+      "stratum": "new41-source-adjudicated",
+      "order": 691
     },
     {
       "unit_id": "c060-R-fig8-label-04",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 650
+      "stratum": "new41-source-adjudicated",
+      "order": 692
     },
     {
       "unit_id": "c060-R-fig9-title",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 651
+      "stratum": "new41-source-adjudicated",
+      "order": 693
     },
     {
       "unit_id": "c060-R-fig9-label-01",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 652
+      "stratum": "new41-source-adjudicated",
+      "order": 694
     },
     {
       "unit_id": "c060-R-fig9-label-02",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 653
+      "stratum": "new41-source-adjudicated",
+      "order": 695
     },
     {
       "unit_id": "c060-R-fig9-label-03",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 654
+      "stratum": "new41-source-adjudicated",
+      "order": 696
     },
     {
       "unit_id": "c060-R-fig9-label-04",
       "page_id": "c060-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 655
+      "stratum": "new41-source-adjudicated",
+      "order": 697
+    },
+    {
+      "unit_id": "c060-R-margin-book_header",
+      "page_id": "c060-R",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 698
+    },
+    {
+      "unit_id": "c060-R-margin-original_page_label",
+      "page_id": "c060-R",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 699
     },
     {
       "unit_id": "c089-L-title",
       "page_id": "c089-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 656
+      "stratum": "new41-source-adjudicated",
+      "order": 700
     },
     {
       "unit_id": "c089-L-fig1",
       "page_id": "c089-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 657
+      "stratum": "new41-source-adjudicated",
+      "order": 701
     },
     {
       "unit_id": "c089-L-fig2",
       "page_id": "c089-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 658
+      "stratum": "new41-source-adjudicated",
+      "order": 702
     },
     {
       "unit_id": "c089-L-fig3",
       "page_id": "c089-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 659
+      "stratum": "new41-source-adjudicated",
+      "order": 703
     },
     {
       "unit_id": "c089-L-fig4",
       "page_id": "c089-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 660
+      "stratum": "new41-source-adjudicated",
+      "order": 704
     },
     {
       "unit_id": "c089-L-fig5",
       "page_id": "c089-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 661
+      "stratum": "new41-source-adjudicated",
+      "order": 705
     },
     {
       "unit_id": "c089-L-fig6",
       "page_id": "c089-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 662
+      "stratum": "new41-source-adjudicated",
+      "order": 706
+    },
+    {
+      "unit_id": "c089-L-margin-running_title",
+      "page_id": "c089-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 707
+    },
+    {
+      "unit_id": "c089-L-margin-book_header",
+      "page_id": "c089-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 708
+    },
+    {
+      "unit_id": "c089-L-margin-original_page_label",
+      "page_id": "c089-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 709
+    },
+    {
+      "unit_id": "c089-L-margin-month",
+      "page_id": "c089-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 710
     },
     {
       "unit_id": "c090-R-title",
       "page_id": "c090-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 663
+      "stratum": "new41-source-adjudicated",
+      "order": 711
     },
     {
       "unit_id": "c090-R-fig1",
       "page_id": "c090-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 664
+      "stratum": "new41-source-adjudicated",
+      "order": 712
     },
     {
       "unit_id": "c090-R-fig2",
       "page_id": "c090-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 665
+      "stratum": "new41-source-adjudicated",
+      "order": 713
     },
     {
       "unit_id": "c090-R-fig3",
       "page_id": "c090-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 666
+      "stratum": "new41-source-adjudicated",
+      "order": 714
     },
     {
       "unit_id": "c090-R-fig4",
       "page_id": "c090-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 667
+      "stratum": "new41-source-adjudicated",
+      "order": 715
     },
     {
       "unit_id": "c090-R-mark1",
       "page_id": "c090-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 668
+      "stratum": "new41-source-adjudicated",
+      "order": 716
+    },
+    {
+      "unit_id": "c090-R-margin-book_header",
+      "page_id": "c090-R",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 717
     },
     {
       "unit_id": "c093-L-title1",
       "page_id": "c093-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 669
+      "stratum": "new41-source-adjudicated",
+      "order": 718
     },
     {
       "unit_id": "c093-L-male-label-01",
       "page_id": "c093-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 670
+      "stratum": "new41-source-adjudicated",
+      "order": 719
     },
     {
       "unit_id": "c093-L-male-label-02",
       "page_id": "c093-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 671
+      "stratum": "new41-source-adjudicated",
+      "order": 720
     },
     {
       "unit_id": "c093-L-male-label-03",
       "page_id": "c093-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 672
+      "stratum": "new41-source-adjudicated",
+      "order": 721
     },
     {
       "unit_id": "c093-L-male-label-04",
       "page_id": "c093-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 673
+      "stratum": "new41-source-adjudicated",
+      "order": 722
     },
     {
       "unit_id": "c093-L-male-label-05",
       "page_id": "c093-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 674
+      "stratum": "new41-source-adjudicated",
+      "order": 723
     },
     {
       "unit_id": "c093-L-male-label-06",
       "page_id": "c093-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 675
+      "stratum": "new41-source-adjudicated",
+      "order": 724
     },
     {
       "unit_id": "c093-L-title2",
       "page_id": "c093-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 676
+      "stratum": "new41-source-adjudicated",
+      "order": 725
     },
     {
       "unit_id": "c093-L-female-label-01",
       "page_id": "c093-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 677
+      "stratum": "new41-source-adjudicated",
+      "order": 726
     },
     {
       "unit_id": "c093-L-female-label-02",
       "page_id": "c093-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 678
+      "stratum": "new41-source-adjudicated",
+      "order": 727
     },
     {
       "unit_id": "c093-L-female-label-03",
       "page_id": "c093-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 679
+      "stratum": "new41-source-adjudicated",
+      "order": 728
     },
     {
       "unit_id": "c093-L-female-label-04",
       "page_id": "c093-L",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 680
+      "stratum": "new41-source-adjudicated",
+      "order": 729
+    },
+    {
+      "unit_id": "c093-L-margin-book_header",
+      "page_id": "c093-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 730
+    },
+    {
+      "unit_id": "c093-L-margin-month",
+      "page_id": "c093-L",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 731
     },
     {
       "unit_id": "c093-R-table1",
       "page_id": "c093-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 681
+      "stratum": "new41-source-adjudicated",
+      "order": 732
+    },
+    {
+      "unit_id": "c093-R-margin-book_header",
+      "page_id": "c093-R",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 733
     },
     {
       "unit_id": "c094-R-title",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 682
+      "stratum": "new41-source-adjudicated",
+      "order": 734
     },
     {
       "unit_id": "c094-R-aspect",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 683
+      "stratum": "new41-source-adjudicated",
+      "order": 735
     },
     {
       "unit_id": "c094-R-label-001",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 684
+      "stratum": "new41-source-adjudicated",
+      "order": 736
     },
     {
       "unit_id": "c094-R-label-002",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 685
+      "stratum": "new41-source-adjudicated",
+      "order": 737
     },
     {
       "unit_id": "c094-R-label-003",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 686
+      "stratum": "new41-source-adjudicated",
+      "order": 738
     },
     {
       "unit_id": "c094-R-label-004",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 687
+      "stratum": "new41-source-adjudicated",
+      "order": 739
     },
     {
       "unit_id": "c094-R-label-005",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 688
+      "stratum": "new41-source-adjudicated",
+      "order": 740
     },
     {
       "unit_id": "c094-R-label-006",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 689
+      "stratum": "new41-source-adjudicated",
+      "order": 741
     },
     {
       "unit_id": "c094-R-label-007",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 690
+      "stratum": "new41-source-adjudicated",
+      "order": 742
     },
     {
       "unit_id": "c094-R-label-008",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 691
+      "stratum": "new41-source-adjudicated",
+      "order": 743
     },
     {
       "unit_id": "c094-R-label-009",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 692
+      "stratum": "new41-source-adjudicated",
+      "order": 744
     },
     {
       "unit_id": "c094-R-label-010",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 693
+      "stratum": "new41-source-adjudicated",
+      "order": 745
     },
     {
       "unit_id": "c094-R-label-011",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 694
+      "stratum": "new41-source-adjudicated",
+      "order": 746
     },
     {
       "unit_id": "c094-R-label-012",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 695
+      "stratum": "new41-source-adjudicated",
+      "order": 747
     },
     {
       "unit_id": "c094-R-label-013",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 696
+      "stratum": "new41-source-adjudicated",
+      "order": 748
     },
     {
       "unit_id": "c094-R-label-014",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 697
+      "stratum": "new41-source-adjudicated",
+      "order": 749
     },
     {
       "unit_id": "c094-R-label-015",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 698
+      "stratum": "new41-source-adjudicated",
+      "order": 750
     },
     {
       "unit_id": "c094-R-label-016",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 699
+      "stratum": "new41-source-adjudicated",
+      "order": 751
     },
     {
       "unit_id": "c094-R-label-017",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 700
+      "stratum": "new41-source-adjudicated",
+      "order": 752
     },
     {
       "unit_id": "c094-R-label-018",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 701
+      "stratum": "new41-source-adjudicated",
+      "order": 753
     },
     {
       "unit_id": "c094-R-label-019",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 702
+      "stratum": "new41-source-adjudicated",
+      "order": 754
     },
     {
       "unit_id": "c094-R-label-020",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 703
+      "stratum": "new41-source-adjudicated",
+      "order": 755
     },
     {
       "unit_id": "c094-R-label-021",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 704
+      "stratum": "new41-source-adjudicated",
+      "order": 756
     },
     {
       "unit_id": "c094-R-label-022",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 705
+      "stratum": "new41-source-adjudicated",
+      "order": 757
     },
     {
       "unit_id": "c094-R-label-023",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 706
+      "stratum": "new41-source-adjudicated",
+      "order": 758
     },
     {
       "unit_id": "c094-R-label-024",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 707
+      "stratum": "new41-source-adjudicated",
+      "order": 759
     },
     {
       "unit_id": "c094-R-label-025",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 708
+      "stratum": "new41-source-adjudicated",
+      "order": 760
     },
     {
       "unit_id": "c094-R-label-026",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 709
+      "stratum": "new41-source-adjudicated",
+      "order": 761
     },
     {
       "unit_id": "c094-R-label-027",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 710
+      "stratum": "new41-source-adjudicated",
+      "order": 762
     },
     {
       "unit_id": "c094-R-label-028",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 711
+      "stratum": "new41-source-adjudicated",
+      "order": 763
     },
     {
       "unit_id": "c094-R-label-029",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 712
+      "stratum": "new41-source-adjudicated",
+      "order": 764
     },
     {
       "unit_id": "c094-R-label-030",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 713
+      "stratum": "new41-source-adjudicated",
+      "order": 765
     },
     {
       "unit_id": "c094-R-label-031",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 714
+      "stratum": "new41-source-adjudicated",
+      "order": 766
     },
     {
       "unit_id": "c094-R-label-032",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 715
+      "stratum": "new41-source-adjudicated",
+      "order": 767
     },
     {
       "unit_id": "c094-R-label-033",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 716
+      "stratum": "new41-source-adjudicated",
+      "order": 768
     },
     {
       "unit_id": "c094-R-label-034",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 717
+      "stratum": "new41-source-adjudicated",
+      "order": 769
     },
     {
       "unit_id": "c094-R-label-035",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 718
+      "stratum": "new41-source-adjudicated",
+      "order": 770
     },
     {
       "unit_id": "c094-R-label-036",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 719
+      "stratum": "new41-source-adjudicated",
+      "order": 771
     },
     {
       "unit_id": "c094-R-label-037",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 720
+      "stratum": "new41-source-adjudicated",
+      "order": 772
     },
     {
       "unit_id": "c094-R-label-038",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 721
+      "stratum": "new41-source-adjudicated",
+      "order": 773
     },
     {
       "unit_id": "c094-R-label-039",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 722
+      "stratum": "new41-source-adjudicated",
+      "order": 774
     },
     {
       "unit_id": "c094-R-label-040",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 723
+      "stratum": "new41-source-adjudicated",
+      "order": 775
     },
     {
       "unit_id": "c094-R-label-041",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 724
+      "stratum": "new41-source-adjudicated",
+      "order": 776
     },
     {
       "unit_id": "c094-R-label-042",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 725
+      "stratum": "new41-source-adjudicated",
+      "order": 777
     },
     {
       "unit_id": "c094-R-label-043",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 726
+      "stratum": "new41-source-adjudicated",
+      "order": 778
     },
     {
       "unit_id": "c094-R-label-044",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 727
+      "stratum": "new41-source-adjudicated",
+      "order": 779
     },
     {
       "unit_id": "c094-R-label-045",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 728
+      "stratum": "new41-source-adjudicated",
+      "order": 780
     },
     {
       "unit_id": "c094-R-label-046",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 729
+      "stratum": "new41-source-adjudicated",
+      "order": 781
     },
     {
       "unit_id": "c094-R-label-047",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 730
+      "stratum": "new41-source-adjudicated",
+      "order": 782
     },
     {
       "unit_id": "c094-R-label-048",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 731
+      "stratum": "new41-source-adjudicated",
+      "order": 783
     },
     {
       "unit_id": "c094-R-label-049",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 732
+      "stratum": "new41-source-adjudicated",
+      "order": 784
     },
     {
       "unit_id": "c094-R-label-050",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 733
+      "stratum": "new41-source-adjudicated",
+      "order": 785
     },
     {
       "unit_id": "c094-R-label-051",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 734
+      "stratum": "new41-source-adjudicated",
+      "order": 786
     },
     {
       "unit_id": "c094-R-label-052",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 735
+      "stratum": "new41-source-adjudicated",
+      "order": 787
     },
     {
       "unit_id": "c094-R-label-053",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 736
+      "stratum": "new41-source-adjudicated",
+      "order": 788
     },
     {
       "unit_id": "c094-R-label-054",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 737
+      "stratum": "new41-source-adjudicated",
+      "order": 789
     },
     {
       "unit_id": "c094-R-label-055",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 738
+      "stratum": "new41-source-adjudicated",
+      "order": 790
     },
     {
       "unit_id": "c094-R-label-056",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 739
+      "stratum": "new41-source-adjudicated",
+      "order": 791
     },
     {
       "unit_id": "c094-R-label-057",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 740
+      "stratum": "new41-source-adjudicated",
+      "order": 792
     },
     {
       "unit_id": "c094-R-label-058",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 741
+      "stratum": "new41-source-adjudicated",
+      "order": 793
     },
     {
       "unit_id": "c094-R-label-059",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 742
+      "stratum": "new41-source-adjudicated",
+      "order": 794
     },
     {
       "unit_id": "c094-R-label-060",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 743
+      "stratum": "new41-source-adjudicated",
+      "order": 795
     },
     {
       "unit_id": "c094-R-label-061",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 744
+      "stratum": "new41-source-adjudicated",
+      "order": 796
     },
     {
       "unit_id": "c094-R-label-062",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 745
+      "stratum": "new41-source-adjudicated",
+      "order": 797
     },
     {
       "unit_id": "c094-R-label-063",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 746
+      "stratum": "new41-source-adjudicated",
+      "order": 798
     },
     {
       "unit_id": "c094-R-label-064",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 747
+      "stratum": "new41-source-adjudicated",
+      "order": 799
     },
     {
       "unit_id": "c094-R-label-065",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 748
+      "stratum": "new41-source-adjudicated",
+      "order": 800
     },
     {
       "unit_id": "c094-R-label-066",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 749
+      "stratum": "new41-source-adjudicated",
+      "order": 801
     },
     {
       "unit_id": "c094-R-label-067",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 750
+      "stratum": "new41-source-adjudicated",
+      "order": 802
     },
     {
       "unit_id": "c094-R-label-068",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 751
+      "stratum": "new41-source-adjudicated",
+      "order": 803
     },
     {
       "unit_id": "c094-R-label-069",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 752
+      "stratum": "new41-source-adjudicated",
+      "order": 804
     },
     {
       "unit_id": "c094-R-label-070",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 753
+      "stratum": "new41-source-adjudicated",
+      "order": 805
     },
     {
       "unit_id": "c094-R-label-071",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 754
+      "stratum": "new41-source-adjudicated",
+      "order": 806
     },
     {
       "unit_id": "c094-R-label-072",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 755
+      "stratum": "new41-source-adjudicated",
+      "order": 807
     },
     {
       "unit_id": "c094-R-label-073",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 756
+      "stratum": "new41-source-adjudicated",
+      "order": 808
     },
     {
       "unit_id": "c094-R-label-074",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 757
+      "stratum": "new41-source-adjudicated",
+      "order": 809
     },
     {
       "unit_id": "c094-R-label-075",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 758
+      "stratum": "new41-source-adjudicated",
+      "order": 810
     },
     {
       "unit_id": "c094-R-label-076",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 759
+      "stratum": "new41-source-adjudicated",
+      "order": 811
     },
     {
       "unit_id": "c094-R-label-077",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 760
+      "stratum": "new41-source-adjudicated",
+      "order": 812
     },
     {
       "unit_id": "c094-R-label-078",
       "page_id": "c094-R",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 761
+      "stratum": "new41-source-adjudicated",
+      "order": 813
+    },
+    {
+      "unit_id": "c094-R-margin-book_header",
+      "page_id": "c094-R",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 814
+    },
+    {
+      "unit_id": "c094-R-margin-original_page_label",
+      "page_id": "c094-R",
+      "origin": "derived-original-margin-projection",
+      "stratum": "new41-source-adjudicated",
+      "order": 815
     },
     {
       "unit_id": "c095-full-title",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 762
+      "stratum": "new41-source-adjudicated",
+      "order": 816
     },
     {
       "unit_id": "c095-full-label-01",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 763
+      "stratum": "new41-source-adjudicated",
+      "order": 817
     },
     {
       "unit_id": "c095-full-label-02",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 764
+      "stratum": "new41-source-adjudicated",
+      "order": 818
     },
     {
       "unit_id": "c095-full-label-03",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 765
+      "stratum": "new41-source-adjudicated",
+      "order": 819
     },
     {
       "unit_id": "c095-full-label-04",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 766
+      "stratum": "new41-source-adjudicated",
+      "order": 820
     },
     {
       "unit_id": "c095-full-label-05",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 767
+      "stratum": "new41-source-adjudicated",
+      "order": 821
     },
     {
       "unit_id": "c095-full-label-06",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 768
+      "stratum": "new41-source-adjudicated",
+      "order": 822
     },
     {
       "unit_id": "c095-full-label-07",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 769
+      "stratum": "new41-source-adjudicated",
+      "order": 823
     },
     {
       "unit_id": "c095-full-label-08",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 770
+      "stratum": "new41-source-adjudicated",
+      "order": 824
     },
     {
       "unit_id": "c095-full-label-09",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 771
+      "stratum": "new41-source-adjudicated",
+      "order": 825
     },
     {
       "unit_id": "c095-full-label-10",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 772
+      "stratum": "new41-source-adjudicated",
+      "order": 826
     },
     {
       "unit_id": "c095-full-label-11",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 773
+      "stratum": "new41-source-adjudicated",
+      "order": 827
     },
     {
       "unit_id": "c095-full-label-12",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 774
+      "stratum": "new41-source-adjudicated",
+      "order": 828
     },
     {
       "unit_id": "c095-full-label-13",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 775
+      "stratum": "new41-source-adjudicated",
+      "order": 829
     },
     {
       "unit_id": "c095-full-label-14",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 776
+      "stratum": "new41-source-adjudicated",
+      "order": 830
     },
     {
       "unit_id": "c095-full-label-15",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 777
+      "stratum": "new41-source-adjudicated",
+      "order": 831
     },
     {
       "unit_id": "c095-full-label-16",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 778
+      "stratum": "new41-source-adjudicated",
+      "order": 832
     },
     {
       "unit_id": "c095-full-label-17",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 779
+      "stratum": "new41-source-adjudicated",
+      "order": 833
     },
     {
       "unit_id": "c095-full-label-18",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 780
+      "stratum": "new41-source-adjudicated",
+      "order": 834
     },
     {
       "unit_id": "c095-full-label-19",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 781
+      "stratum": "new41-source-adjudicated",
+      "order": 835
     },
     {
       "unit_id": "c095-full-label-20",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 782
+      "stratum": "new41-source-adjudicated",
+      "order": 836
     },
     {
       "unit_id": "c095-full-label-21",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 783
+      "stratum": "new41-source-adjudicated",
+      "order": 837
     },
     {
       "unit_id": "c095-full-label-22",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 784
+      "stratum": "new41-source-adjudicated",
+      "order": 838
     },
     {
       "unit_id": "c095-full-label-23",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 785
+      "stratum": "new41-source-adjudicated",
+      "order": 839
     },
     {
       "unit_id": "c095-full-label-24",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 786
+      "stratum": "new41-source-adjudicated",
+      "order": 840
     },
     {
       "unit_id": "c095-full-label-25",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 787
+      "stratum": "new41-source-adjudicated",
+      "order": 841
     },
     {
       "unit_id": "c095-full-label-26",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 788
+      "stratum": "new41-source-adjudicated",
+      "order": 842
     },
     {
       "unit_id": "c095-full-label-27",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 789
+      "stratum": "new41-source-adjudicated",
+      "order": 843
     },
     {
       "unit_id": "c095-full-label-28",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 790
+      "stratum": "new41-source-adjudicated",
+      "order": 844
     },
     {
       "unit_id": "c095-full-label-29",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 791
+      "stratum": "new41-source-adjudicated",
+      "order": 845
     },
     {
       "unit_id": "c095-full-label-30",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 792
+      "stratum": "new41-source-adjudicated",
+      "order": 846
     },
     {
       "unit_id": "c095-full-label-31",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 793
+      "stratum": "new41-source-adjudicated",
+      "order": 847
     },
     {
       "unit_id": "c095-full-label-32",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 794
+      "stratum": "new41-source-adjudicated",
+      "order": 848
     },
     {
       "unit_id": "c095-full-label-33",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 795
+      "stratum": "new41-source-adjudicated",
+      "order": 849
     },
     {
       "unit_id": "c095-full-label-34",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 796
+      "stratum": "new41-source-adjudicated",
+      "order": 850
     },
     {
       "unit_id": "c095-full-label-35",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 797
+      "stratum": "new41-source-adjudicated",
+      "order": 851
     },
     {
       "unit_id": "c095-full-label-36",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 798
+      "stratum": "new41-source-adjudicated",
+      "order": 852
     },
     {
       "unit_id": "c095-full-label-37",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 799
+      "stratum": "new41-source-adjudicated",
+      "order": 853
     },
     {
       "unit_id": "c095-full-label-38",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 800
+      "stratum": "new41-source-adjudicated",
+      "order": 854
     },
     {
       "unit_id": "c095-full-label-39",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 801
+      "stratum": "new41-source-adjudicated",
+      "order": 855
     },
     {
       "unit_id": "c095-full-label-40",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 802
+      "stratum": "new41-source-adjudicated",
+      "order": 856
     },
     {
       "unit_id": "c095-full-label-41",
       "page_id": "c095-full",
       "origin": "native-page-unit",
-      "stratum": "new41-initial",
-      "order": 803
+      "stratum": "new41-source-adjudicated",
+      "order": 857
     }
   ]
 }
