@@ -1,6 +1,6 @@
 {
   "document_hash_basis": "book.json file bytes",
-  "document_sha256": "843bae0c7331696b6939350ef9fe99f1a58047afd4c89a73cb3cc9b655a1d915",
+  "document_sha256": "ad42a7f7dd77b386aa682e0c441ebfd533cc71785a5d52ed57e769452206f7e7",
   "exporter_version": "antique-integrator/0.1",
   "limitations": [
     "Exchange projection only; full scholarly TEI semantics are not encoded.",
@@ -8,7 +8,7 @@
   ],
   "master": "book.json",
   "output": "book.tei.xml",
-  "output_sha256": "58925c695915723e9de74a1af729fe6ff52007939b00adb448096c8dd968376c",
+  "output_sha256": "eafa08581f414e7a4b9496ecf7669dcd14d559d797d376493f22a1915b3c4190",
   "pages": [
     {
       "id": "c001-full",

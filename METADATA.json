@@ -1,8 +1,8 @@
 {
   "title": "西醫舉隅 / Xi yi ju yu [Gleanings of Western medicine]",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "resource_type": "dataset",
-  "publication_state": "Fixed release package",
+  "publication_state": "GitHub release prepared",
   "creators": [
     {
       "family_name": "Chu",
@@ -93,7 +93,7 @@
   "methods_file": "METHODS.md",
   "quality_file": "QUALITY.md",
   "repository_url": "https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875",
-  "version_release_url": "https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875/releases/tag/v0.5.0",
+  "version_release_url": "https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875/releases/tag/v0.5.1",
   "coverage": {
     "extent": "scoped historical transcription",
     "physical_leaf_count": null,
@@ -137,7 +137,7 @@
     ],
     "original_exclusion": "疫苗操作段落未收入本版",
     "old_covered_units": 857,
-    "old_covered_units_with_literal_changes": 1,
+    "old_covered_units_with_literal_changes": 16,
     "no_images_distributed": true
   },
   "quality_strata": {
@@ -153,5 +153,5 @@
     "actual_effort": null,
     "complete_token_counts": null
   },
-  "doi": "10.5281/zenodo.24338318"
+  "doi": null
 }

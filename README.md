@@ -4,11 +4,13 @@
 
 Xi yi ju yu [Gleanings of Western medicine] is John Dudgeon’s collection of medical articles from Zhong xi wen jian lu, catalogued as 1875 [Peking] and held as Bodleian Sinica 1842. Its five prefaces and illustrated essays on the heart, circulation, eyes, and forensic medicine support research on late Qing medical history, translation, and publishing. This release offers JSON, TXT, and TEI transcriptions across 161 source positions with notes, labels, tables, and source links. Historical vaccination instructions at c060 left, c061–c074 and c075 right are outside its coverage. The AI-assisted transcription marks uncertain readings and awaits full human collation.
 
-版本 **v0.5.0**，整理者曲宸宇（Chu, Chen-Yu）。[ORCID](https://orcid.org/0009-0003-9738-6914)
+版本 **v0.5.1**，整理者曲宸宇（Chu, Chen-Yu）。[ORCID](https://orcid.org/0009-0003-9738-6914)
 
 - 連續閱讀請開啟 [reader.txt](reader.txt)。小註接在已核定的位置，圖字、表格與版心另列。
 - 核對原字及定位請使用 [book.json](book.json)、[疑讀](uncertainties.json)、[來源對映](SOURCE-MAP.json)及 [Bodleian 原件](https://digital.bodleian.ox.ac.uk/objects/8203fa5a-7b99-40bf-9642-3ae16068072b/)。
 - [book.txt](book.txt) 依原始資料單元分行。[TEI XML](book.tei.xml) 可供交換，同包 JSON 保留各單元的版面與疑讀資料。
 - [範圍](COVERAGE.json)、[閱讀導覽](READING-GUIDE.md)、[方法](METHODS.md)、[品質](QUALITY.md)及[權利](RIGHTS.md)說明使用界線。
 
-本版提供 161 個來源位置和 2988 個單元，含攤開圖等不同拍攝位置。實體葉數未定。引用時請註明 [固定版本](https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875/releases/tag/v0.5.0) 和單元 ID。新版 DOI 為 [10.5281/zenodo.24338318](https://doi.org/10.5281/zenodo.24338318)。 舊版可由 [v0.4.0 封存](https://doi.org/10.5281/zenodo.24149208) 取得。
+本版提供 161 個來源位置和 2988 個單元，含攤開圖等不同拍攝位置。實體葉數未定。引用時請註明 [固定版本](https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875/releases/tag/v0.5.1) 和單元 ID。舊版可由 [v0.4.0 封存](https://doi.org/10.5281/zenodo.24149208) 取得。
+
+本版依原圖修訂數字、圖表格位與形近字。引用前請搭配 [修訂紀錄](CORRECTIONS.md)。

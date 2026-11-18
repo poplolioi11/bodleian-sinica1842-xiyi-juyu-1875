@@ -1,6 +1,6 @@
 {
   "document_hash_basis": "book.json file bytes",
-  "document_sha256": "843bae0c7331696b6939350ef9fe99f1a58047afd4c89a73cb3cc9b655a1d915",
+  "document_sha256": "ad42a7f7dd77b386aa682e0c441ebfd533cc71785a5d52ed57e769452206f7e7",
   "exporter_version": "antique-integrator/0.1",
   "index_unit": "Unicode-codepoint",
   "limitations": [
@@ -8,7 +8,7 @@
   ],
   "master": "book.json",
   "output": "book.txt",
-  "output_sha256": "88edaa734c21233b3d59ee2a6074e622acc28e386316226013faffc5077780a0",
+  "output_sha256": "a112461f8d60c3cf9f670bb4c64b161fd0b444606d17045f0b87a3e644cd0198",
   "range_end": "exclusive",
   "range_unit": "unicode-codepoint",
   "schema": "antique-text-sidecar/1",

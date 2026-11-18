@@ -1,16 +1,233 @@
 {
-  "base_version": "0.4.0",
-  "result_version": "0.5.0",
-  "base_doi": "https://doi.org/10.5281/zenodo.24149208",
-  "old_unit_text_revisions": [
+  "base_version": "0.5.0",
+  "result_version": "0.5.1",
+  "base_release": "https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875/releases/tag/v0.5.0",
+  "base_book_sha256": "843bae0c7331696b6939350ef9fe99f1a58047afd4c89a73cb3cc9b655a1d915",
+  "offset_basis": "Unicode code points, zero-based and half-open",
+  "corrections": [
     {
-      "unit_id": "c032-full-caption",
-      "page_id": "c032-full",
-      "before": "畫其血運行之此喻",
-      "after": "畫其血運行之比喻",
-      "reason": "同處圖題原區核形，據右部字形判為比，保留喻。"
+      "review_item": 15,
+      "unit_id": "c078-L-c02",
+      "page_id": "c078-L",
+      "start": 13,
+      "end": 17,
+      "before": "五十一名",
+      "after": "五十二名",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b0966a72-cc9e-404f-b35e-d5197a32a93d.json",
+      "source_sha256": "1f3ebccc88e8b68d1bd1a96709bda4a1e7f0f49b55b78a7acce4dfdc41d9f1ba",
+      "literal_source_reason": "兩段正文和下一面相應數字均回圖。受傷總數末字印二，勒斃及自戕兩處印一千。"
+    },
+    {
+      "review_item": 15,
+      "unit_id": "c078-L-c10",
+      "page_id": "c078-L",
+      "start": 7,
+      "end": 15,
+      "before": "二千三百一十四名",
+      "after": "一千三百一十四名",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b0966a72-cc9e-404f-b35e-d5197a32a93d.json",
+      "source_sha256": "1f3ebccc88e8b68d1bd1a96709bda4a1e7f0f49b55b78a7acce4dfdc41d9f1ba",
+      "literal_source_reason": "兩段正文和下一面相應數字均回圖。受傷總數末字印二，勒斃及自戕兩處印一千。"
+    },
+    {
+      "review_item": 15,
+      "unit_id": "c079-R-c06",
+      "page_id": "c079-R",
+      "start": 11,
+      "end": 19,
+      "before": "二千三百一十四命",
+      "after": "一千三百一十四命",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/514326ef-834e-4d94-875d-3535de44ffb3.json",
+      "source_sha256": "ba45c174364f38ee822fd6d9ca06c5f465626329ccd65e78c177a4b70432ba54",
+      "literal_source_reason": "兩段正文和下一面相應數字均回圖。受傷總數末字印二，勒斃及自戕兩處印一千。"
+    },
+    {
+      "review_item": 16,
+      "unit_id": "c038-R-c08",
+      "page_id": "c038-R",
+      "start": 0,
+      "end": 4,
+      "before": "二寸九分",
+      "after": "一寸九分",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/589a618c-9605-48bf-9983-369a8d43f688.json",
+      "source_sha256": "e0d349ee1af588044a66b4465f8f6d978e4bddc66349770a696f6f34b2699cde",
+      "literal_source_reason": "下一欄開頭在寸之前只有一橫。"
+    },
+    {
+      "review_item": 17,
+      "unit_id": "c087-R-T01",
+      "page_id": "c087-R",
+      "start": 102,
+      "end": 106,
+      "before": "○十二七",
+      "after": "○十一七",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/901bbd49-fc9d-4532-a4e2-7d7e4dcfc75e.json",
+      "source_sha256": "e1db79ade231de5f12ea39775c73522da4ecbcc58ed285a22ba66fa914489b15",
+      "literal_source_reason": "女列第七格在十與七間只有一橫。"
+    },
+    {
+      "review_item": 18,
+      "unit_id": "c088-R-T01",
+      "page_id": "c088-R",
+      "start": 114,
+      "end": 118,
+      "before": "十二、\t",
+      "after": "十一、\t",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a7af3c9c-c1b1-4c99-9900-001db879b7a7.json",
+      "source_sha256": "63933f9c904e8edb7f6f06818973eb94db3e7ab7c0f931992216427da29757ac",
+      "literal_source_reason": "第五列僅一橫接十。末列左小欄在十前可辨兩橫。"
+    },
+    {
+      "review_item": 18,
+      "unit_id": "c088-R-T01",
+      "page_id": "c088-R",
+      "start": 180,
+      "end": 187,
+      "before": "十八、\n三十五",
+      "after": "十八、\n二十五",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a7af3c9c-c1b1-4c99-9900-001db879b7a7.json",
+      "source_sha256": "63933f9c904e8edb7f6f06818973eb94db3e7ab7c0f931992216427da29757ac",
+      "literal_source_reason": "第五列僅一橫接十。末列左小欄在十前可辨兩橫。"
+    },
+    {
+      "review_item": 22,
+      "unit_id": "c078-R-c03",
+      "page_id": "c078-R",
+      "start": 23,
+      "end": 27,
+      "before": "此科、師",
+      "after": "此科、卽",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b0966a72-cc9e-404f-b35e-d5197a32a93d.json",
+      "source_sha256": "10577e6f49bdd599b27877cdd58b4b4b34ebe7c98d2860f3d42df5b2e47f23c9",
+      "literal_source_reason": "欄末是卽，下欄鄧幹後印三筆子。"
+    },
+    {
+      "review_item": 22,
+      "unit_id": "c078-R-c04",
+      "page_id": "c078-R",
+      "start": 0,
+      "end": 3,
+      "before": "鄧幹于",
+      "after": "鄧幹子",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b0966a72-cc9e-404f-b35e-d5197a32a93d.json",
+      "source_sha256": "10577e6f49bdd599b27877cdd58b4b4b34ebe7c98d2860f3d42df5b2e47f23c9",
+      "literal_source_reason": "欄末是卽，下欄鄧幹後印三筆子。"
+    },
+    {
+      "review_item": 23,
+      "unit_id": "sinica1842-c004-L-main-01",
+      "page_id": "sinica1842-c004-L",
+      "start": 5,
+      "end": 12,
+      "before": "州之上之府之上",
+      "after": "州〻上之府〻上",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/437090af-5894-4015-9d1b-8470b7d9bc15.json",
+      "source_sha256": "d9d236add5f4cb9855ae286d3e304f57d2535ffc26a6926c586d93418fe9c55c",
+      "literal_source_reason": "州、府下面各有兩短筆重文記號，無之字的長收筆，採直排重文號 〻 編碼。"
+    },
+    {
+      "review_item": 24,
+      "unit_id": "sinica1842-c006-L-main-06",
+      "page_id": "sinica1842-c006-L",
+      "start": 9,
+      "end": 11,
+      "before": "則圖",
+      "after": "則罔",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b5f4fa53-29b3-4182-8ea8-a84f9d63411c.json",
+      "source_sha256": "97fc4326875e793442f47b33f44b562446d09ce39dbf3a4193712623db9cc956",
+      "literal_source_reason": "左面欄末見外框及內部罔形。下一面起始的不字清楚。"
+    },
+    {
+      "review_item": 25,
+      "unit_id": "sinica1842-c006-L-main-03",
+      "page_id": "sinica1842-c006-L",
+      "start": 3,
+      "end": 6,
+      "before": "頗就書",
+      "after": "顧就書",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b5f4fa53-29b3-4182-8ea8-a84f9d63411c.json",
+      "source_sha256": "97fc4326875e793442f47b33f44b562446d09ce39dbf3a4193712623db9cc956",
+      "literal_source_reason": "首字左部可辨雇形，右部頁。"
+    },
+    {
+      "review_item": 26,
+      "unit_id": "c034-R-c06",
+      "page_id": "c034-R",
+      "start": 18,
+      "end": 20,
+      "before": "縱何",
+      "after": "緣何",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c8bb2bf3-d72b-4dd9-becd-a4ed2d927f22.json",
+      "source_sha256": "0a3888ae0c84f61990cfb94f12c01bfc25584f093836e14e4efe1c7b6b292723",
+      "literal_source_reason": "按之後見糸旁及彖形。"
+    },
+    {
+      "review_item": 27,
+      "unit_id": "c035-R-c04",
+      "page_id": "c035-R",
+      "start": 3,
+      "end": 6,
+      "before": "書膚遂",
+      "after": "書贋遂",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/73919852-9389-4b7b-9b36-21853f74043a.json",
+      "source_sha256": "55bc444fe0adb64b8363935543db39a12fd923a63cdd49b78136ebdf3d49e52f",
+      "literal_source_reason": "原圖是厂下亻、隹與貝的形體，採贋。"
+    },
+    {
+      "review_item": 28,
+      "unit_id": "c079-R-c01",
+      "page_id": "c079-R",
+      "start": 0,
+      "end": 3,
+      "before": "被棟驗",
+      "after": "被揀驗",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/514326ef-834e-4d94-875d-3535de44ffb3.json",
+      "source_sha256": "ba45c174364f38ee822fd6d9ca06c5f465626329ccd65e78c177a4b70432ba54",
+      "literal_source_reason": "首欄次字左旁是扌，右部作柬。改揀，Claude 所提檢不是此處原印。"
+    },
+    {
+      "review_item": 29,
+      "unit_id": "c081-L-c05",
+      "page_id": "c081-L",
+      "start": 5,
+      "end": 10,
+      "before": "口實、合其",
+      "after": "口實、令其",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b8bce5e-1498-48b9-8528-9e14d99d1044.json",
+      "source_sha256": "30d6541401d1e3e5b2649ec50c74663bee2232315353905e166016e570059b96",
+      "literal_source_reason": "口實之後見令形，並無合底口。"
     }
   ],
-  "added_source_positions": null,
-  "old_unit_ids_preserved": true
+  "reviewed_unmodified": [
+    {
+      "review_item": 19,
+      "reason": "原圖該分項末字三具三橫。原書所列合計問題保留。首字形另可列額類候選，這次不下定讀。",
+      "status": "retain"
+    },
+    {
+      "review_item": 20,
+      "reason": "字形上部為人形屋頂，下為會的層疊字形。原刻會，不恢復前版曾。",
+      "status": "retain"
+    },
+    {
+      "review_item": 21,
+      "reason": "該字左旁具糸形。捷經維持原印；徑只是文意候選。",
+      "status": "retain"
+    },
+    {
+      "review_item": 30,
+      "reason": "兩欄接讀，次序確是終不於免。保持底本文字。",
+      "status": "retain"
+    },
+    {
+      "review_item": 31,
+      "reason": "底本確印武宗二年。年代矛盾保留作來源問題。",
+      "status": "retain"
+    },
+    {
+      "review_item": 32,
+      "reason": "可確認三筆所在的表欄或圖標，未以圖示位置統一用字。c095 該圖字及 c087/c094 個別骨旁形仍需分開覆核和辨碼。",
+      "status": "unresolved"
+    }
+  ]
 }

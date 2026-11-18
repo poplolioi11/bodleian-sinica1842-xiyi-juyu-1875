@@ -1,0 +1,16 @@
+{
+  "base_version": "0.4.0",
+  "result_version": "0.5.0",
+  "base_doi": "https://doi.org/10.5281/zenodo.24149208",
+  "old_unit_text_revisions": [
+    {
+      "unit_id": "c032-full-caption",
+      "page_id": "c032-full",
+      "before": "畫其血運行之此喻",
+      "after": "畫其血運行之比喻",
+      "reason": "同處圖題原區核形，據右部字形判為比，保留喻。"
+    }
+  ],
+  "added_source_positions": null,
+  "old_unit_ids_preserved": true
+}

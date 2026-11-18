@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0",
+  "version": "0.5.1",
   "scope": {
     "extent": "scoped historical transcription",
     "physical_leaf_count": null,
@@ -43,16 +43,14 @@
     ],
     "original_exclusion": "疫苗操作段落未收入本版",
     "old_covered_units": 857,
-    "old_covered_units_with_literal_changes": 1,
+    "old_covered_units_with_literal_changes": 16,
     "no_images_distributed": true
   },
-  "diplomatic_txt_tei_roundtrip": "passed",
-  "reader_recovery": "passed",
-  "tei_official_rng": "passed",
-  "cff_1_2_0": "passed",
-  "uncertainty_units": 357,
-  "new_independent_full_collation": false,
-  "accuracy_measured": false,
-  "private_inputs_distributed": false,
-  "draft_build": false
+  "change_sites": 16,
+  "changed_units": 15,
+  "json_txt_tei_reader_exact_readback": true,
+  "tei_official_rng": true,
+  "cff_1_2_0": true,
+  "tables_checked": true,
+  "prior_fixed_package_verified": true
 }

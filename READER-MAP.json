@@ -76674,7 +76674,7 @@
   "editorial_labels_are_not_source": true,
   "gaps": "consult diplomatic JSON; unknown extent is not one character",
   "master": "book.json",
-  "master_sha256": "843bae0c7331696b6939350ef9fe99f1a58047afd4c89a73cb3cc9b655a1d915",
+  "master_sha256": "ad42a7f7dd77b386aa682e0c441ebfd533cc71785a5d52ed57e769452206f7e7",
   "output": "reader.txt",
-  "output_sha256": "b4d938b51593dcec9080fe83aed280e7fead70045cd6bef142d4c18d987c1964"
+  "output_sha256": "a1b1157c42cce65051b3420768bb2fed11357d7d225e8d45d27e712b1ca16da9"
 }
