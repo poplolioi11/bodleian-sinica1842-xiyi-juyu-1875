@@ -1,23 +1,22 @@
 cff-version: 1.2.0
-message: Please cite this dataset when using the transcription or editorial documentation. See RIGHTS.md
-  for the separate status of historical text and source images.
+message: Please cite this dataset when using the transcription or editorial documentation. See RIGHTS.md for
+  the separate status of historical text and source images.
 type: dataset
 title: 西醫舉隅 / Xi yi ju yu [Gleanings of Western medicine]
-version: 0.4.0
+version: 0.5.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
   orcid: https://orcid.org/0009-0003-9738-6914
 url: https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875
 license: CC-BY-4.0
-abstract: Xi yi ju yu [Gleanings of Western medicine] compiles John Dudgeon’s medical articles from Zhong
-  xi wen jian lu, catalogued as an 1875 [Peking] edition and held as Bodleian Sinica 1842. Its five prefaces
-  and articles on the heart, circulation, eyes and forensic medicine support studies of late Qing medicine,
-  translation, visual knowledge and publishing. This release preserves 25 title, preface and contents
-  faces and supplies revised text for 28 complete prose faces and 13 selected diagram-label or table layers.
-  JSON, TXT and TEI retain source characters, notes, uncertainties and links to the original; other existing
-  periodical texts are linked rather than copied. AI independent readings were compared through nonblind
-  source-image adjudication; full human collation has not been performed and unresolved readings are marked.
+abstract: Xi yi ju yu [Gleanings of Western medicine] is John Dudgeon’s collection of medical articles from
+  Zhong xi wen jian lu, catalogued as 1875 [Peking] and held as Bodleian Sinica 1842. Its five prefaces and
+  illustrated essays on the heart, circulation, eyes, and forensic medicine support research on late Qing medical
+  history, translation, and publishing. This release offers JSON, TXT, and TEI transcriptions across 161 source
+  positions with notes, labels, tables, and source links. Historical vaccination instructions at c060 left,
+  c061–c074 and c075 right are outside its coverage. The AI-assisted transcription marks uncertain readings
+  and awaits full human collation.
 keywords:
 - 西醫舉隅
 - Xi yi ju yu
@@ -40,4 +39,5 @@ keywords:
 - 法醫學史
 - history of forensic medicine
 - anatomical diagrams
-doi: 10.5281/zenodo.24149208
+date-released: '2026-11-18'
+doi: 10.5281/zenodo.24338318

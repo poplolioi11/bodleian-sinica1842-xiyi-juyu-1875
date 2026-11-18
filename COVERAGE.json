@@ -1,124 +1,46 @@
 {
-  "version": "0.4.0",
+  "extent": "scoped historical transcription",
+  "physical_leaf_count": null,
   "full_book_text_provided": false,
-  "reviewed_frontmatter_faces": 25,
-  "source_adjudicated_complete_prose_faces": [
-    "c033-L",
-    "c034-R",
-    "c034-L",
-    "c035-R",
-    "c035-L",
-    "c036-R",
-    "c036-L",
-    "c037-R",
-    "c037-L",
-    "c038-R",
-    "c038-L",
-    "c039-R",
-    "c077-L",
-    "c078-R",
-    "c078-L",
-    "c079-R",
-    "c079-L",
-    "c080-L",
-    "c081-R",
-    "c081-L",
-    "c082-L",
-    "c083-R",
-    "c083-L",
-    "c084-R",
-    "c086-L",
-    "c087-R",
-    "c087-L",
-    "c088-R"
-  ],
-  "source_adjudicated_selected_figure_table_surfaces": [
-    {
-      "id": "c030-L",
-      "role": "diagram"
-    },
-    {
-      "id": "c031-R",
-      "role": "diagram"
-    },
-    {
-      "id": "c032-full",
-      "role": "foldout"
-    },
-    {
-      "id": "c050-R",
-      "role": "diagram"
-    },
-    {
-      "id": "c051-full",
-      "role": "foldout"
-    },
-    {
-      "id": "c056-R",
-      "role": "diagram"
-    },
-    {
-      "id": "c060-R",
-      "role": "diagram"
-    },
-    {
-      "id": "c089-L",
-      "role": "diagram-only-in-mixed-face"
-    },
-    {
-      "id": "c090-R",
-      "role": "diagram"
-    },
-    {
-      "id": "c093-L",
-      "role": "diagram"
-    },
-    {
-      "id": "c093-R",
-      "role": "table-only-in-mixed-face"
-    },
-    {
-      "id": "c094-R",
-      "role": "diagram"
-    },
-    {
-      "id": "c095-full",
-      "role": "foldout"
-    }
-  ],
-  "total_surfaces": 66,
-  "not_all41_complete_prose": true,
-  "excluded_operational_text": [
+  "included_source_positions": 161,
+  "transcription_units": 2988,
+  "excluded_source_positions": [
     "c060-L",
-    "c061–c074",
+    "c061-L",
+    "c061-R",
+    "c062-L",
+    "c062-R",
+    "c063-L",
+    "c063-R",
+    "c064-L",
+    "c064-R",
+    "c065-L",
+    "c065-R",
+    "c066-L",
+    "c066-R",
+    "c067-L",
+    "c067-R",
+    "c068-L",
+    "c068-R",
+    "c069-L",
+    "c069-R",
+    "c070-L",
+    "c070-R",
+    "c071-L",
+    "c071-R",
+    "c072-L",
+    "c072-R",
+    "c073-L",
+    "c073-R",
+    "c074-L",
+    "c074-R",
     "c075-R"
   ],
-  "c060_R_scope": "Isolated eye diagram only; adjacent operational text excluded",
-  "other_parent_periodical_prose": "Links only, not copied; see READING-GUIDE.md",
-  "appendix": "五字辯 is not newly transcribed; existing parent-periodical text linked.",
-  "review_states": [
-    {
-      "id": "front25",
-      "faces": 25,
-      "stage": "AI source transcription with separately saved independent reading and nonblind original-image adjudication; limited frontmatter",
-      "independent_reading": "completed by a separately saved fresh-context native reader; incorporated through nonblind source adjudication",
-      "source_adjudication_faces": 25,
-      "fixed_from_version": "0.2.0",
-      "units": 174
-    },
-    {
-      "id": "new41",
-      "surfaces": 41,
-      "complete_prose_faces": 28,
-      "selected_figure_table_surfaces": 13,
-      "stage": "AI initial and separately saved independent reading compared through nonblind source-image adjudication",
-      "independent_reading": "completed in a separate source-only reading, followed by nonblind image adjudication",
-      "source_adjudication_surfaces": 41,
-      "units_excluding_separate_notes": 568,
-      "separate_notes": 24,
-      "table_records": 4,
-      "uncertainty_records": 52,
-      "gaiji_records": 1
-    }
-  ]
+  "excluded_source_groups": [
+    "c060 左半、c061–c074 及 c075 右半"
+  ],
+  "original_exclusion": "疫苗操作段落未收入本版",
+  "old_covered_units": 857,
+  "old_covered_units_with_literal_changes": 1,
+  "no_images_distributed": true
 }

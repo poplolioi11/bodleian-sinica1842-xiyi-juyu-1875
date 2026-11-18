@@ -1,8 +1,8 @@
 {
   "title": "西醫舉隅 / Xi yi ju yu [Gleanings of Western medicine]",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "resource_type": "dataset",
-  "publication_state": "Fixed v0.4.0 release files; version DOI not assigned at preparation",
+  "publication_state": "Fixed release package",
   "creators": [
     {
       "family_name": "Chu",
@@ -16,12 +16,12 @@
     {
       "language": "zh-Hant",
       "type": "abstract",
-      "text": "《西醫舉隅》（Xi yi ju yu）是德貞（John Dudgeon）由《中西聞見錄》醫學文章摘印的論集，牛津館目著錄為1875年、[北京]（Peking），館藏號為Sinica 1842。原書包含五篇序文及心臟、血液運行、眼學與法醫學等篇章，可供晚清醫學史、翻譯史、圖解知識與出版史研究。本版保留原題、五序及目錄25面，並提供28面完整正文及13個選定圖字／表格層的修訂文字，以JSON、TXT與TEI保存原字、註記、疑讀及原件定位；其他母刊既有文字只提供連結，並非全書全文。文字經AI獨立讀稿比較及非盲回圖修訂，未經人類全文校勘，未解疑讀已標記。"
+      "text": "《西醫舉隅》（Xi yi ju yu）是德貞（John Dudgeon）從《中西聞見錄》輯出的醫學論集，牛津館目著錄為 1875 年、[北京]，館藏號 Sinica 1842。原書有五篇序文，並以文字和圖解介紹心臟、血液運行、眼學與法醫學等主題，可供晚清醫學史、翻譯史及出版史研究。本版以 JSON、TXT 和 TEI 提供 161 個來源位置的轉錄，涵蓋所列正文、小註、圖中文字及表格。c060 左半、c061–c074 及 c075 右半 的疫苗操作段落未收入。轉錄採 AI 輔助，已標示疑讀與原件位置，尚未經人類全文校勘。"
     },
     {
       "language": "en",
       "type": "abstract",
-      "text": "Xi yi ju yu [Gleanings of Western medicine] compiles John Dudgeon’s medical articles from Zhong xi wen jian lu, catalogued as an 1875 [Peking] edition and held as Bodleian Sinica 1842. Its five prefaces and articles on the heart, circulation, eyes and forensic medicine support studies of late Qing medicine, translation, visual knowledge and publishing. This release preserves 25 title, preface and contents faces and supplies revised text for 28 complete prose faces and 13 selected diagram-label or table layers. JSON, TXT and TEI retain source characters, notes, uncertainties and links to the original; other existing periodical texts are linked rather than copied. AI independent readings were compared through nonblind source-image adjudication; full human collation has not been performed and unresolved readings are marked."
+      "text": "Xi yi ju yu [Gleanings of Western medicine] is John Dudgeon’s collection of medical articles from Zhong xi wen jian lu, catalogued as 1875 [Peking] and held as Bodleian Sinica 1842. Its five prefaces and illustrated essays on the heart, circulation, eyes, and forensic medicine support research on late Qing medical history, translation, and publishing. This release offers JSON, TXT, and TEI transcriptions across 161 source positions with notes, labels, tables, and source links. Historical vaccination instructions at c060 left, c061–c074 and c075 right are outside its coverage. The AI-assisted transcription marks uncertain readings and awaits full human collation."
     }
   ],
   "keywords": [
@@ -76,133 +76,82 @@
       "identifier": "https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%201842.xml",
       "relation": "references",
       "resource_role": "official catalogue snapshot"
+    },
+    {
+      "identifier": "https://east-asian.bodleian.ox.ac.uk/catalog/volume_1599",
+      "relation": "references",
+      "resource_role": "Bodleian catalogue"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.24149208",
+      "relation": "isNewVersionOf",
+      "resource_role": "prior fixed version"
     }
   ],
   "repository_url_intended": "https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875",
-  "notes": "The bracketed English title is editorial. The included scope is25 inherited reviewed frontmatterfaces,28 complete prosefaces and13 selected diagram/tablelayers after AI independent reading and nonblind source adjudication, not66 complete prosefaces or full-book text. The1875 catalogue date is distinct from the digital version; the actual impression date is not established. No source images or crops are distributed.",
+  "notes": "The bracketed English title is an editorial translation. Coverage counts refer to source positions, including diagram views, rather than physical leaves. RIGHTS.md distinguishes historical text, institutional images, and project documentation.",
   "methods_file": "METHODS.md",
   "quality_file": "QUALITY.md",
   "repository_url": "https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875",
-  "version_release_url": "https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875/releases/tag/v0.4.0",
+  "version_release_url": "https://github.com/poplolioi11/bodleian-sinica1842-xiyi-juyu-1875/releases/tag/v0.5.0",
   "coverage": {
-    "extent": "partial",
-    "existing_reviewed_frontmatter_faces": 25,
-    "source_adjudicated_complete_prose_faces": 28,
-    "source_adjudicated_selected_figure_table_surfaces": 13,
-    "total_included_surfaces": 66,
-    "not_all_41_complete_prose": true,
-    "not_a_full_book_transcription": true,
-    "excluded_operational_text": "c060-L, c061–c074, c075-R; c060-R includes only the isolated eye diagram",
-    "existing_periodical_texts": "Links only; not copied into this transcription",
-    "new_prose_page_ids": [
-      "c033-L",
-      "c034-R",
-      "c034-L",
-      "c035-R",
-      "c035-L",
-      "c036-R",
-      "c036-L",
-      "c037-R",
-      "c037-L",
-      "c038-R",
-      "c038-L",
-      "c039-R",
-      "c077-L",
-      "c078-R",
-      "c078-L",
-      "c079-R",
-      "c079-L",
-      "c080-L",
-      "c081-R",
-      "c081-L",
-      "c082-L",
-      "c083-R",
-      "c083-L",
-      "c084-R",
-      "c086-L",
-      "c087-R",
-      "c087-L",
-      "c088-R"
+    "extent": "scoped historical transcription",
+    "physical_leaf_count": null,
+    "full_book_text_provided": false,
+    "included_source_positions": 161,
+    "transcription_units": 2988,
+    "excluded_source_positions": [
+      "c060-L",
+      "c061-L",
+      "c061-R",
+      "c062-L",
+      "c062-R",
+      "c063-L",
+      "c063-R",
+      "c064-L",
+      "c064-R",
+      "c065-L",
+      "c065-R",
+      "c066-L",
+      "c066-R",
+      "c067-L",
+      "c067-R",
+      "c068-L",
+      "c068-R",
+      "c069-L",
+      "c069-R",
+      "c070-L",
+      "c070-R",
+      "c071-L",
+      "c071-R",
+      "c072-L",
+      "c072-R",
+      "c073-L",
+      "c073-R",
+      "c074-L",
+      "c074-R",
+      "c075-R"
     ],
-    "new_selected_layer_page_ids": [
-      {
-        "id": "c030-L",
-        "role": "diagram"
-      },
-      {
-        "id": "c031-R",
-        "role": "diagram"
-      },
-      {
-        "id": "c032-full",
-        "role": "foldout"
-      },
-      {
-        "id": "c050-R",
-        "role": "diagram"
-      },
-      {
-        "id": "c051-full",
-        "role": "foldout"
-      },
-      {
-        "id": "c056-R",
-        "role": "diagram"
-      },
-      {
-        "id": "c060-R",
-        "role": "diagram"
-      },
-      {
-        "id": "c089-L",
-        "role": "diagram-only-in-mixed-face"
-      },
-      {
-        "id": "c090-R",
-        "role": "diagram"
-      },
-      {
-        "id": "c093-L",
-        "role": "diagram"
-      },
-      {
-        "id": "c093-R",
-        "role": "table-only-in-mixed-face"
-      },
-      {
-        "id": "c094-R",
-        "role": "diagram"
-      },
-      {
-        "id": "c095-full",
-        "role": "foldout"
-      }
-    ]
+    "excluded_source_groups": [
+      "c060 左半、c061–c074 及 c075 右半"
+    ],
+    "original_exclusion": "疫苗操作段落未收入本版",
+    "old_covered_units": 857,
+    "old_covered_units_with_literal_changes": 1,
+    "no_images_distributed": true
   },
-  "quality_strata": [
-    {
-      "id": "front25",
-      "faces": 25,
-      "stage": "AI source transcription with separately saved independent reading and nonblind original-image adjudication; limited frontmatter",
-      "independent_reading": "completed by a separately saved fresh-context native reader; incorporated through nonblind source adjudication",
-      "source_adjudication_faces": 25,
-      "fixed_from_version": "0.2.0",
-      "units": 174
-    },
-    {
-      "id": "new41",
-      "surfaces": 41,
-      "complete_prose_faces": 28,
-      "selected_figure_table_surfaces": 13,
-      "stage": "AI initial and separately saved independent reading compared through nonblind source-image adjudication",
-      "independent_reading": "completed in a separate source-only reading, followed by nonblind image adjudication",
-      "source_adjudication_surfaces": 41,
-      "units_excluding_separate_notes": 568,
-      "separate_notes": 24,
-      "table_records": 4,
-      "uncertainty_records": 52,
-      "gaiji_records": 1
-    }
-  ],
-  "doi": null
+  "quality_strata": {
+    "ai_assisted": true,
+    "new_layers": "source initial transcription with targeted source-image review",
+    "earlier_layers": "previously released source-adjudicated readings",
+    "human_full_collation": false,
+    "expert_review": false,
+    "peer_review": false,
+    "accuracy_measured": false,
+    "new_full_independent_collation": false,
+    "actual_model": null,
+    "actual_effort": null,
+    "complete_token_counts": null
+  },
+  "doi": "10.5281/zenodo.24338318"
 }

@@ -1,49 +1,58 @@
 {
-  "schema": "fixed-v040-integration/1",
-  "status": "passed",
-  "front25_deep_equal_v030": true,
-  "canonical41_unit_and_note_strings_fixed": true,
-  "new_native_units": 568,
-  "new_separate_notes": 24,
-  "original_tables": 4,
-  "new_uncertainties": 52,
-  "new_gaiji": 1,
-  "export_units": 857,
-  "derived_margin_export_units": 91,
-  "new_stored_codepoints_units_and_notes": 8746,
-  "new_source_refs_hash_checked": 94,
-  "roundtrip": "passed",
-  "source_judgment_performed_by_integrator": false,
+  "version": "0.5.0",
+  "scope": {
+    "extent": "scoped historical transcription",
+    "physical_leaf_count": null,
+    "full_book_text_provided": false,
+    "included_source_positions": 161,
+    "transcription_units": 2988,
+    "excluded_source_positions": [
+      "c060-L",
+      "c061-L",
+      "c061-R",
+      "c062-L",
+      "c062-R",
+      "c063-L",
+      "c063-R",
+      "c064-L",
+      "c064-R",
+      "c065-L",
+      "c065-R",
+      "c066-L",
+      "c066-R",
+      "c067-L",
+      "c067-R",
+      "c068-L",
+      "c068-R",
+      "c069-L",
+      "c069-R",
+      "c070-L",
+      "c070-R",
+      "c071-L",
+      "c071-R",
+      "c072-L",
+      "c072-R",
+      "c073-L",
+      "c073-R",
+      "c074-L",
+      "c074-R",
+      "c075-R"
+    ],
+    "excluded_source_groups": [
+      "c060 左半、c061–c074 及 c075 右半"
+    ],
+    "original_exclusion": "疫苗操作段落未收入本版",
+    "old_covered_units": 857,
+    "old_covered_units_with_literal_changes": 1,
+    "no_images_distributed": true
+  },
+  "diplomatic_txt_tei_roundtrip": "passed",
+  "reader_recovery": "passed",
+  "tei_official_rng": "passed",
+  "cff_1_2_0": "passed",
+  "uncertainty_units": 357,
+  "new_independent_full_collation": false,
   "accuracy_measured": false,
-  "public_common_envelope_included": false,
-  "public_only_reconstruction": "passed",
-  "canonical41_strings_and_offsets": "passed",
-  "all24_note_anchors": "passed",
-  "context_labels_excluded_from_text": 13,
-  "negative_mutations_rejected": [
-    "TXT one-codepoint change",
-    "TEI changed unit",
-    "swapped TXT unit map"
-  ],
-  "semantic_traceability": {
-    "actual_exit": 3,
-    "pending_reason": "unknown-model only",
-    "observations": 857
-  },
-  "text_publication_gate": {
-    "purpose": "text-publication",
-    "status": "allowed-as-recorded"
-  },
-  "text_publication_global_pending": [],
-  "tei_official_rng": {
-    "version": "TEI P5 4.12.0",
-    "sha256": "b0f115095ead2ccc6933aa3365c6f4a82cba3b2ec7eee7f76bb616d7a63b7e48",
-    "status": "passed"
-  },
-  "cff_full_schema_formatchecker": {
-    "version": "1.2.0",
-    "sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b",
-    "status": "passed"
-  },
-  "scope": "Engineering consistency of the fixed partial edition; no scholarly accuracy, human review or legal certification."
+  "private_inputs_distributed": false,
+  "draft_build": false
 }
